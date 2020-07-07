@@ -1,0 +1,490 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Acute lymphocytic leukaemia recurrent,THYMOGLOBULIN,12,0,0,12,0,0,0,0,0,12,0,0,12
+Acute myeloid leukaemia,EXJADE,12,4,8,8,0,0,2,4,5,0,0,12,12
+Acute myeloid leukaemia,REVLIMID,15,3,7,4,0,0,2,2,10,2,4,9,15
+Adenocarcinoma,LIPITOR,12,10,2,1,0,0,1,7,3,0,8,4,11
+Adenocarcinoma,METHOTREXATE,12,3,8,5,0,0,3,3,5,1,7,4,12
+Adenocarcinoma,REMICADE,25,7,18,3,0,0,7,4,14,0,14,11,25
+Basal cell carcinoma,ACETAMINOPHEN,13,5,8,0,0,0,0,0,9,0,5,8,11
+Basal cell carcinoma,CALCIUM,16,4,12,0,0,0,0,3,12,0,7,9,15
+Basal cell carcinoma,ENBREL,28,25,3,0,0,0,0,0,21,19,4,5,26
+Basal cell carcinoma,FOLIC ACID,19,11,8,0,0,0,0,1,16,1,8,10,17
+Basal cell carcinoma,HUMIRA,38,21,15,0,0,0,0,3,37,10,25,3,37
+Basal cell carcinoma,HYDROXYCHLOROQUINE,21,18,2,0,0,0,0,0,20,16,4,1,21
+Basal cell carcinoma,IMURAN,11,2,8,0,0,0,0,2,9,0,9,2,11
+Basal cell carcinoma,LIPITOR,15,8,7,0,1,0,1,2,10,0,5,10,14
+Basal cell carcinoma,METHOTREXATE,54,33,19,0,0,0,0,0,48,21,19,14,51
+Basal cell carcinoma,MYCOPHENOLATE MOFETIL,15,15,0,0,0,0,0,0,12,14,1,0,15
+Basal cell carcinoma,ORENCIA,34,13,21,0,0,0,0,3,31,0,12,22,34
+Basal cell carcinoma,PREDNISONE,41,16,25,0,0,0,1,5,34,2,22,17,40
+Basal cell carcinoma,REMICADE,63,27,34,0,0,0,0,4,59,5,50,8,63
+Basal cell carcinoma,VITAMIN D,14,4,10,0,0,0,0,2,11,0,8,6,13
+Benign ovarian tumour,RAPAMUNE,26,0,26,0,0,0,0,0,26,26,0,0,26
+Benign ovarian tumour,TACROLIMUS,27,0,27,0,0,0,0,0,27,27,0,0,27
+Bladder cancer,ACLASTA,11,2,9,0,0,0,0,2,11,4,0,7,11
+Bladder cancer,ACTOS,17,11,4,3,0,0,0,3,13,12,0,5,17
+Bladder cancer,HUMIRA,16,12,3,0,0,0,1,6,16,4,5,7,16
+Bowen's disease,PREDNISONE,12,0,12,0,0,0,0,2,6,0,11,1,12
+Brain neoplasm,AVASTIN,41,8,33,1,0,0,0,16,22,1,9,31,25
+Brain neoplasm,REMICADE,11,4,6,2,0,0,0,6,5,3,8,0,11
+Breast cancer,ACETAMINOPHEN,17,0,17,1,0,0,0,4,7,1,11,5,16
+Breast cancer,ACLASTA,103,0,103,1,1,0,9,10,102,40,20,43,103
+Breast cancer,ACTEMRA,17,0,17,0,0,0,0,0,16,3,11,3,17
+Breast cancer,ACTONEL,14,0,14,0,0,0,0,2,12,1,7,6,14
+Breast cancer,AFINITOR,18,0,18,4,0,0,0,2,12,12,4,2,17
+Breast cancer,ANASTROZOLE,13,0,13,0,0,0,0,0,6,10,2,1,13
+Breast cancer,ANTINEOPLASTIC(S),12,0,12,3,0,0,0,2,9,1,6,5,11
+Breast cancer,ARIMIDEX TAB 1MG,36,0,36,0,0,0,0,2,34,18,10,8,36
+Breast cancer,AROMASIN,42,0,42,0,0,0,0,1,35,37,2,3,42
+Breast cancer,ASPIRIN,11,0,11,0,0,0,1,2,9,0,6,5,11
+Breast cancer,ATIVAN,16,0,16,1,0,0,1,3,12,0,9,7,16
+Breast cancer,BETASERON,30,0,30,0,1,0,3,13,16,2,26,2,30
+Breast cancer,CALCIUM,34,0,34,1,0,0,3,3,30,2,15,17,34
+Breast cancer,CELEBREX,27,0,27,0,0,0,1,3,22,5,15,7,24
+Breast cancer,CHEMOTHERAPY,17,0,17,2,0,0,5,3,8,3,13,1,17
+Breast cancer,CLONAZEPAM,12,0,12,1,1,0,1,4,9,0,9,3,12
+Breast cancer,CLOZARIL,54,0,53,12,1,0,14,8,34,11,40,3,53
+Breast cancer,CRESTOR,14,0,14,1,0,0,0,2,12,0,8,6,14
+Breast cancer,CYCLOPHOSPHAMIDE,24,0,24,1,0,0,2,1,19,15,8,1,23
+Breast cancer,DENOSUMAB,12,0,11,0,0,0,0,0,5,7,1,4,12
+Breast cancer,DOCETAXEL,25,0,25,0,0,0,0,0,22,25,0,0,25
+Breast cancer,DOXORUBICIN HYDROCHLORIDE INJECTION,11,0,11,0,0,0,0,0,11,10,1,0,11
+Breast cancer,EFFEXOR XR,11,0,11,2,1,0,0,2,11,0,9,2,11
+Breast cancer,ENBREL,44,0,40,1,0,0,1,4,23,8,24,12,36
+Breast cancer,ERGOCALCIFEROL,13,0,13,0,0,0,0,1,13,0,7,6,13
+Breast cancer,EVISTA (60MG),11,0,11,3,0,0,0,1,9,4,2,5,11
+Breast cancer,EXEMESTANE,36,0,36,2,0,0,0,0,29,31,3,2,35
+Breast cancer,FASLODEX,37,0,37,3,0,0,0,0,30,31,0,6,37
+Breast cancer,FEMARA 2.5MG,157,0,157,0,1,0,1,1,154,138,9,10,154
+Breast cancer,FOLIC ACID,34,0,34,3,0,0,2,8,25,2,25,7,34
+Breast cancer,FORTEO,27,0,27,1,0,0,0,3,24,0,3,24,27
+Breast cancer,GABAPENTIN,11,0,11,2,0,0,0,3,8,2,6,3,11
+Breast cancer,HUMIRA,62,0,62,2,0,0,0,12,56,26,26,10,61
+Breast cancer,HYDROCHLOROTHIAZIDE,13,0,13,0,0,0,1,2,9,2,7,4,13
+Breast cancer,LETROZOLE,186,0,186,1,0,0,0,0,147,151,18,17,184
+Breast cancer,LIPITOR,28,0,28,2,0,0,2,9,15,2,16,10,25
+Breast cancer,LORAZEPAM,11,0,11,2,0,0,1,4,7,1,8,2,11
+Breast cancer,METFORMIN,14,0,13,0,0,0,3,5,8,1,10,3,13
+Breast cancer,METHOTREXATE,69,0,67,3,0,0,2,10,51,18,41,10,66
+Breast cancer,MULTIVITAMINE(S),13,0,13,1,0,0,1,2,10,1,6,6,13
+Breast cancer,ORENCIA,15,0,15,0,0,0,0,2,14,2,5,8,15
+Breast cancer,PACLITAXEL INJECTION,25,0,25,2,0,0,0,1,24,23,2,0,25
+Breast cancer,PAMIDRONATE DISODIUM FOR INJECTION,30,0,30,1,0,0,0,0,29,22,4,4,30
+Breast cancer,PANTOLOC,14,0,14,1,0,0,2,3,12,1,6,7,14
+Breast cancer,PAXIL,12,0,11,1,0,0,1,3,7,4,7,1,12
+Breast cancer,PLAQUENIL,13,0,11,0,0,0,0,3,11,5,5,3,13
+Breast cancer,PREDNISONE,33,0,33,2,0,0,1,5,23,0,22,11,31
+Breast cancer,PREMARIN,17,0,17,1,0,0,1,4,10,3,6,8,16
+Breast cancer,RAMIPRIL,12,0,12,2,0,0,1,2,9,0,8,4,12
+Breast cancer,REBIF,25,0,25,1,3,0,2,11,21,6,18,1,24
+Breast cancer,REMICADE,113,1,108,3,0,0,8,33,95,11,84,18,113
+Breast cancer,SYNTHROID,23,0,23,5,0,0,1,7,17,1,14,8,23
+Breast cancer,TAMOXIFEN,157,0,157,3,1,0,3,2,147,118,23,16,156
+Breast cancer,TAMOXIFEN CITRATE,19,0,19,0,0,0,0,0,0,16,3,0,19
+Breast cancer,TAXOTERE,21,0,21,1,0,0,1,0,16,12,9,0,20
+Breast cancer,TYKERB,33,0,33,2,0,0,0,4,30,3,24,6,33
+Breast cancer,TYLENOL,15,0,14,0,0,0,1,1,13,1,9,5,14
+Breast cancer,VINORELBINE TARTRATE FOR INJECTION,35,0,35,0,0,0,0,0,33,27,5,3,33
+Breast cancer,VITAMIN D,33,0,33,1,0,0,3,4,29,0,17,16,33
+Breast cancer,XELODA,150,0,150,3,0,0,0,4,110,105,31,14,148
+Breast cancer,XOLAIR,17,0,17,0,0,0,2,0,16,5,8,4,17
+Breast cancer,ZOLADEX,28,0,28,0,0,0,0,0,22,21,7,0,27
+Breast cancer,ZOMETA CONCENTRATE,15,0,15,9,0,0,0,3,7,4,6,5,12
+Breast cancer,ZOPICLONE,12,0,12,1,0,0,1,3,7,3,5,4,12
+Breast cancer metastatic,LAPATINIB DITOSYLATE MONOHYDRATE,13,0,13,0,0,0,0,0,0,1,10,2,13
+Breast cancer metastatic,TYKERB,80,1,79,8,1,0,0,17,60,4,64,12,80
+Breast cancer metastatic,XELODA,63,0,63,7,1,0,1,16,34,5,49,9,63
+Cancer pain,AVASTIN,16,0,16,0,0,0,0,0,0,0,0,16,0
+Cervix carcinoma,REMICADE,22,0,22,2,0,0,0,4,18,2,20,0,22
+Cervix carcinoma stage 0,CONTRACEPTIVES,11,0,11,0,0,0,0,7,0,0,11,0,11
+Cervix carcinoma stage 0,ORTHO-NOVUM 1/50 TABLETS (28 DAY),28,1,27,0,0,0,0,13,0,0,28,0,25
+Cervix carcinoma stage 0,OVRAL 21 TAB,17,0,17,0,0,0,0,4,0,0,17,0,16
+Chronic myeloid leukaemia,GLEEVEC,16,8,7,2,0,0,0,6,10,8,3,5,15
+Colon cancer,ACLASTA,37,2,35,4,3,0,0,7,32,22,6,9,37
+Colon cancer,CLOZARIL,19,12,7,11,0,0,2,3,8,3,9,7,19
+Colon cancer,ENBREL,22,5,12,2,0,0,0,8,13,6,5,11,20
+Colon cancer,FOLIC ACID,13,2,11,4,0,0,0,7,8,0,7,6,13
+Colon cancer,HUMIRA,20,6,14,4,0,0,1,7,18,4,10,6,20
+Colon cancer,LIPITOR,14,8,5,0,0,0,1,8,7,2,3,9,13
+Colon cancer,LUPRON DEPOT,11,11,0,1,0,0,0,9,9,4,0,7,11
+Colon cancer,METHOTREXATE,23,4,17,3,0,0,0,10,19,4,6,13,23
+Colon cancer,PREDNISONE,20,3,17,6,0,0,2,7,13,1,10,9,20
+Colon cancer,REMICADE,35,16,16,5,3,0,1,9,28,4,19,12,35
+Colon cancer,SYNTHROID,13,4,9,2,0,0,3,4,6,1,7,5,13
+Colorectal adenocarcinoma,REMICADE,19,1,18,0,0,0,0,0,10,0,19,0,19
+Colorectal cancer,AVASTIN,171,1,2,5,0,0,0,0,168,2,77,92,171
+Colorectal cancer,ELOXATIN,11,0,0,1,0,0,0,0,10,1,3,7,11
+Colorectal cancer,FLUOROURACIL,43,1,0,1,0,0,0,1,42,0,15,28,43
+Colorectal cancer,IRINOTECAN HYDROCHLORIDE,39,0,0,0,0,0,0,0,39,0,12,27,39
+Colorectal cancer,LEUCOVORIN,41,0,0,1,0,0,0,0,40,0,13,28,41
+Colorectal cancer,XELODA,127,2,0,6,0,0,0,0,125,8,7,112,127
+Colorectal cancer metastatic,STIVARGA,47,34,13,11,1,0,0,17,40,1,22,24,47
+Diffuse large B-cell lymphoma recurrent,CYCLOPHOSPHAMIDE,23,4,1,0,0,0,0,0,12,22,1,0,23
+Diffuse large B-cell lymphoma recurrent,METHOTREXATE,21,5,0,0,0,0,0,0,10,21,0,0,21
+Diffuse large B-cell lymphoma recurrent,PREDNISONE,22,4,1,0,0,0,0,0,12,21,1,0,22
+Diffuse large B-cell lymphoma recurrent,RITUXAN,23,4,1,0,0,0,0,0,12,22,1,0,23
+Diffuse large B-cell lymphoma recurrent,VINCRISTINE SULFATE,11,2,0,0,0,0,0,0,0,11,0,0,11
+Diffuse large B-cell lymphoma recurrent,VINCRISTINE SULFATE INJECTION USP,12,2,1,0,0,0,0,0,12,11,1,0,12
+Gastric cancer,XELODA,16,10,6,0,0,0,1,1,16,14,1,1,16
+Gastrointestinal carcinoma,REMICADE,11,1,10,3,0,0,1,3,4,0,9,2,11
+Gastrointestinal neoplasm,SANDOSTATIN LAR 30MG,11,1,10,1,0,0,0,2,11,0,2,9,11
+Gastrointestinal stromal tumour,GLEEVEC,65,34,29,0,0,0,0,5,61,33,21,11,65
+Glioblastoma,AVASTIN,23,10,13,10,0,0,0,2,17,1,19,3,23
+Hairy cell leukaemia,CLADRIBINE,23,21,2,2,0,0,0,0,23,23,0,0,23
+Hepatic cancer,ACLASTA,16,1,15,5,0,0,0,1,15,9,2,5,16
+Hepatic cancer,HUMIRA,17,6,11,9,0,0,1,10,11,5,8,4,17
+Hepatic cancer,PREDNISONE,11,4,7,7,0,0,1,4,5,4,4,3,11
+Hepatic cancer,REMICADE,31,21,10,11,0,0,7,17,18,3,20,8,31
+Hepatic cancer,SANDOSTATIN LAR,19,2,17,5,0,0,3,12,15,2,12,5,19
+Hepatic cancer,SANDOSTATIN LAR 20MG,11,1,10,4,0,0,5,9,11,1,8,2,11
+Hepatic cancer,SANDOSTATIN LAR 30MG,23,9,14,10,0,0,0,17,22,5,9,9,23
+Hepatic neoplasm,SANDOSTATIN LAR,21,2,19,2,0,0,1,7,20,10,6,5,21
+Hepatic neoplasm,SANDOSTATIN LAR 30MG,55,28,27,2,0,0,1,37,52,19,16,20,55
+Hodgkin's disease,REMICADE,11,7,4,0,1,0,3,4,8,1,8,2,11
+Invasive ductal breast carcinoma,FOLIC ACID,11,0,11,1,0,0,3,4,4,2,7,2,11
+Invasive ductal breast carcinoma,HUMIRA,12,0,9,0,0,0,0,3,10,4,8,0,12
+Invasive ductal breast carcinoma,METHOTREXATE,15,0,15,1,0,0,4,8,8,2,11,2,15
+Leukaemia,CLOZARIL,11,6,5,1,1,0,3,2,6,6,2,3,11
+Lung neoplasm,ACLASTA,13,0,13,3,0,0,0,0,10,2,5,6,13
+Lung neoplasm,REMICADE,21,9,12,2,0,0,2,11,10,0,13,8,21
+Lung neoplasm,SANDOSTATIN LAR,13,7,6,10,0,0,0,13,13,2,1,10,13
+Lung neoplasm,SANDOSTATIN LAR 30MG,21,8,13,3,0,0,0,10,21,1,9,11,21
+Lung neoplasm malignant,ACETYLSALICYLIC ACID,11,5,6,4,0,0,2,6,5,1,2,8,11
+Lung neoplasm malignant,ACLASTA,120,9,110,32,0,0,3,8,93,61,21,38,120
+Lung neoplasm malignant,ADVAIR,18,5,13,6,1,0,3,10,12,3,5,10,18
+Lung neoplasm malignant,ASA,12,4,8,5,0,0,3,3,3,1,2,9,12
+Lung neoplasm malignant,CALCIUM,20,4,16,5,0,0,0,5,14,3,6,11,20
+Lung neoplasm malignant,CELEBREX,17,9,7,6,0,0,2,4,10,0,10,7,17
+Lung neoplasm malignant,CLOZARIL,96,62,33,71,0,0,8,30,27,18,54,24,96
+Lung neoplasm malignant,ENBREL,33,16,13,5,1,0,4,6,16,11,14,8,32
+Lung neoplasm malignant,FOLIC ACID,31,10,21,12,1,0,3,9,16,1,12,18,30
+Lung neoplasm malignant,FORTEO,13,2,11,1,0,0,0,5,9,1,4,8,13
+Lung neoplasm malignant,HUMIRA,42,15,26,10,0,0,4,12,31,12,19,11,42
+Lung neoplasm malignant,HYDROCHLOROTHIAZIDE,12,7,5,3,0,0,2,6,7,1,8,3,12
+Lung neoplasm malignant,LIPITOR,24,11,13,8,1,0,2,9,13,5,9,10,23
+Lung neoplasm malignant,METHOTREXATE,55,21,31,15,1,0,7,20,33,7,25,23,54
+Lung neoplasm malignant,METOPROLOL,12,8,4,4,0,0,0,8,3,0,3,9,11
+Lung neoplasm malignant,MORPHINE,16,11,5,10,0,0,0,5,4,1,10,5,15
+Lung neoplasm malignant,ORENCIA,12,3,7,4,0,0,0,1,10,2,3,7,11
+Lung neoplasm malignant,PLAQUENIL,16,5,8,2,0,0,1,5,12,3,5,8,15
+Lung neoplasm malignant,PREDNISONE,40,18,21,14,0,0,7,13,16,0,19,21,38
+Lung neoplasm malignant,REMICADE,103,39,62,24,0,0,8,49,54,13,44,46,103
+Lung neoplasm malignant,SPIRIVA,17,6,11,7,0,0,2,9,11,1,8,8,17
+Lung neoplasm malignant,SYNTHROID,13,2,11,2,0,0,0,5,10,1,7,5,13
+Lung neoplasm malignant,TYLENOL,12,4,8,4,0,0,1,5,8,1,5,6,12
+Lung neoplasm malignant,VENTOLIN,16,5,11,6,1,0,3,7,12,1,9,6,15
+Lung neoplasm malignant,VITAMIN D,20,5,15,5,0,0,1,6,12,1,8,11,20
+Lung neoplasm malignant,XGEVA SINGLE-USE VIAL. FOR S.C. USE ONLY. PRESERVATIVE-FREE.,11,9,2,7,0,0,0,5,0,0,2,9,7
+Lung neoplasm malignant,XOLAIR,16,14,2,2,3,0,3,6,13,0,12,4,16
+Lymphoma,ACLASTA,18,3,15,8,0,0,3,3,12,9,0,9,18
+Lymphoma,ACTEMRA,14,10,4,0,0,0,0,10,10,0,10,4,14
+Lymphoma,ACYCLOVIR,12,8,4,7,0,0,2,3,0,6,6,0,12
+Lymphoma,ANTILYMPHOCYTE GLOBULIN,12,7,5,12,0,0,0,0,0,4,8,0,12
+Lymphoma,AZATHIOPRINE,27,13,14,22,0,0,0,3,4,11,14,2,27
+Lymphoma,CALCIUM,11,2,9,0,0,0,2,5,6,0,5,6,11
+Lymphoma,CELEBREX,13,3,10,0,0,0,1,4,10,0,5,8,13
+Lymphoma,CHEMOTHERAPY,22,8,14,2,0,0,2,7,11,3,12,7,22
+Lymphoma,CLOZARIL,21,16,5,10,0,0,2,11,16,5,15,1,21
+Lymphoma,CYCLOPHOSPHAMIDE,11,7,4,2,0,0,3,3,3,2,6,3,11
+Lymphoma,CYCLOSPORINE,34,20,14,27,0,0,2,6,2,19,13,2,34
+Lymphoma,ENBREL,31,8,22,2,0,0,7,9,13,6,10,15,30
+Lymphoma,FOLIC ACID,30,12,18,3,1,0,2,10,19,1,17,12,30
+Lymphoma,HUMIRA,36,12,23,3,2,0,1,13,28,7,18,11,36
+Lymphoma,METHOTREXATE,50,15,35,2,1,0,6,14,33,3,25,22,50
+Lymphoma,ORTHOCLONE OKT 3 STERILE SOLUTION  IV 1MG/ML,33,21,12,27,0,0,2,4,0,20,13,0,33
+Lymphoma,PREDNISONE,61,33,28,23,2,0,5,19,21,13,29,19,61
+Lymphoma,REMICADE,129,63,56,3,1,0,17,34,96,19,66,44,129
+Lymphoma,RITUXAN,13,6,7,1,0,0,3,1,5,2,6,5,11
+Malignant melanoma,ENBREL,18,9,7,0,0,0,1,2,15,4,11,3,17
+Malignant melanoma,FOLIC ACID,19,12,7,0,0,0,1,2,15,1,11,7,18
+Malignant melanoma,HUMIRA,24,13,11,0,0,0,0,0,24,8,10,6,24
+Malignant melanoma,LIPITOR,12,10,2,0,0,0,0,1,10,1,6,5,11
+Malignant melanoma,METHOTREXATE,30,12,15,0,0,0,3,3,25,4,15,11,29
+Malignant melanoma,PREDNISONE,11,4,7,0,0,0,1,2,9,2,5,4,11
+Malignant melanoma,REMICADE,45,18,23,0,0,0,1,4,40,8,29,8,44
+Malignant melanoma,ZELBORAF FILM-COATED TABLET,13,4,9,1,0,0,0,1,13,0,10,3,13
+Malignant neoplasm progression,ACLASTA,11,1,10,6,0,0,0,0,5,4,3,4,11
+Malignant neoplasm progression,AFINITOR,79,49,30,16,0,0,1,13,62,39,14,26,75
+Malignant neoplasm progression,ANTINEOPLASTIC(S),23,8,15,11,0,0,0,12,16,4,11,8,22
+Malignant neoplasm progression,ARIMIDEX TAB 1MG,16,0,15,1,0,0,0,1,15,7,7,2,16
+Malignant neoplasm progression,AROMASIN,18,0,18,1,0,0,0,0,12,12,3,3,17
+Malignant neoplasm progression,ASA,11,7,4,7,0,0,2,6,6,0,5,6,11
+Malignant neoplasm progression,ATIVAN,19,7,12,9,0,0,0,3,10,1,13,5,19
+Malignant neoplasm progression,AVASTIN,66,15,42,12,0,0,3,26,48,6,34,26,64
+Malignant neoplasm progression,CALCIUM,16,6,10,6,0,0,1,2,10,2,6,8,15
+Malignant neoplasm progression,CISPLATIN INJECTION,15,12,3,4,0,0,0,3,11,11,2,2,15
+Malignant neoplasm progression,COLACE,14,2,12,7,0,0,2,7,8,1,7,6,14
+Malignant neoplasm progression,COUMADIN,12,2,10,9,0,0,0,6,5,1,5,6,12
+Malignant neoplasm progression,CRESTOR,15,10,5,6,0,0,1,6,10,0,5,10,15
+Malignant neoplasm progression,CYCLOPHOSPHAMIDE,26,8,18,13,0,0,0,3,12,17,6,3,25
+Malignant neoplasm progression,DEXAMETHASONE,54,24,30,28,2,0,1,16,21,7,34,13,52
+Malignant neoplasm progression,DILAUDID,19,7,12,9,0,0,1,9,9,1,6,12,19
+Malignant neoplasm progression,DOCETAXEL,11,0,11,0,0,0,0,0,9,11,0,0,11
+Malignant neoplasm progression,DOMPERIDONE,11,7,4,6,0,0,0,3,5,2,5,4,11
+Malignant neoplasm progression,DOXORUBICIN HYDROCHLORIDE INJECTION,13,1,10,5,0,0,0,2,9,9,3,1,13
+Malignant neoplasm progression,ELOXATIN,14,5,4,3,0,0,0,0,11,6,2,6,14
+Malignant neoplasm progression,EPIRUBICIN HYDROCHLORIDE INJECTION,15,6,9,1,0,0,0,0,14,13,0,2,14
+Malignant neoplasm progression,EXEMESTANE,29,0,29,3,0,0,0,1,22,22,4,3,28
+Malignant neoplasm progression,EXJADE,13,1,11,13,0,0,0,8,8,1,0,12,13
+Malignant neoplasm progression,FASLODEX,21,0,21,3,0,0,0,1,16,15,0,6,21
+Malignant neoplasm progression,FEMARA 2.5MG,64,0,64,1,0,0,0,2,62,52,6,6,62
+Malignant neoplasm progression,FLUOROURACIL,22,6,9,12,0,0,1,8,11,3,10,9,21
+Malignant neoplasm progression,FRAGMIN,13,5,8,3,0,0,1,6,7,0,9,4,13
+Malignant neoplasm progression,GABAPENTIN,13,5,8,7,0,0,1,5,6,4,5,4,13
+Malignant neoplasm progression,GEMCITABINE FOR INJECTION, USP,11,2,9,4,0,0,0,2,8,4,5,2,11
+Malignant neoplasm progression,GLEEVEC,58,38,15,4,0,0,0,4,54,30,15,13,58
+Malignant neoplasm progression,HYDROCHLOROTHIAZIDE,16,7,9,3,0,0,0,6,10,1,7,8,16
+Malignant neoplasm progression,HYDROMORPHONE,20,9,11,12,0,0,1,6,8,3,10,7,20
+Malignant neoplasm progression,IRINOTECAN HYDROCHLORIDE,11,4,1,3,0,0,1,2,8,2,4,5,11
+Malignant neoplasm progression,LAPATINIB DITOSYLATE MONOHYDRATE,26,0,26,0,0,0,0,0,0,4,15,7,26
+Malignant neoplasm progression,LETROZOLE,107,0,107,2,0,0,0,1,86,80,17,10,106
+Malignant neoplasm progression,LEUCOVORIN,15,5,2,8,0,0,2,1,7,2,6,7,15
+Malignant neoplasm progression,LIPITOR,13,7,6,8,0,0,1,10,6,0,5,8,13
+Malignant neoplasm progression,LUPRON DEPOT,32,32,0,22,1,0,0,14,17,13,2,17,32
+Malignant neoplasm progression,METFORMIN,21,15,6,12,0,0,1,12,7,1,9,11,21
+Malignant neoplasm progression,METOPROLOL,12,6,6,7,0,0,0,7,6,1,5,6,12
+Malignant neoplasm progression,MORPHINE,30,12,18,21,0,0,1,12,15,2,17,11,30
+Malignant neoplasm progression,MULTIVITAMINE(S),16,6,10,6,0,0,1,5,12,0,8,8,15
+Malignant neoplasm progression,ONDANSETRON,15,6,9,8,0,0,0,4,6,1,7,7,15
+Malignant neoplasm progression,OXYCODONE,12,6,6,4,0,0,0,3,7,0,6,6,12
+Malignant neoplasm progression,PACLITAXEL INJECTION,18,1,17,2,0,0,0,2,15,14,4,0,18
+Malignant neoplasm progression,PAMIDRONATE DISODIUM FOR INJECTION,19,1,18,2,0,0,0,1,17,10,6,3,19
+Malignant neoplasm progression,PANTOLOC,18,8,10,10,0,0,1,7,8,1,10,7,18
+Malignant neoplasm progression,PANTOPRAZOLE,15,8,7,5,0,0,0,8,11,5,7,3,15
+Malignant neoplasm progression,PREDNISONE,21,15,4,13,0,0,0,11,7,3,5,13,21
+Malignant neoplasm progression,RANITIDINE,14,9,5,6,0,0,0,4,8,1,10,3,14
+Malignant neoplasm progression,REVLIMID,15,5,10,9,2,0,0,7,6,1,5,9,15
+Malignant neoplasm progression,SANDOSTATIN,39,14,25,23,0,0,0,18,26,15,10,14,39
+Malignant neoplasm progression,SANDOSTATIN LAR,143,69,74,59,2,0,14,82,118,50,45,48,143
+Malignant neoplasm progression,SANDOSTATIN LAR 20MG,51,25,26,33,0,0,1,23,34,16,20,15,51
+Malignant neoplasm progression,SANDOSTATIN LAR 30MG,153,68,85,47,1,0,4,80,141,37,47,69,153
+Malignant neoplasm progression,SENOKOT,15,3,12,8,0,0,2,3,8,1,10,4,15
+Malignant neoplasm progression,SPRYCEL,11,7,3,2,0,0,0,4,4,1,5,5,9
+Malignant neoplasm progression,STIVARGA,28,12,16,11,0,0,0,5,19,1,19,8,28
+Malignant neoplasm progression,SUTENT,15,7,6,5,0,0,0,2,12,5,7,3,15
+Malignant neoplasm progression,SYNTHROID,26,9,17,11,1,0,2,7,12,5,13,8,26
+Malignant neoplasm progression,TAMOXIFEN,67,0,67,1,0,0,0,1,65,50,7,10,66
+Malignant neoplasm progression,TARCEVA,18,9,9,11,0,0,0,3,10,3,9,6,18
+Malignant neoplasm progression,TAXOTERE,13,1,12,3,0,0,0,1,8,5,7,1,12
+Malignant neoplasm progression,TYKERB,142,0,142,15,1,0,4,34,114,7,114,21,142
+Malignant neoplasm progression,TYLENOL,24,14,10,10,0,0,0,14,13,1,9,14,24
+Malignant neoplasm progression,VINORELBINE TARTRATE FOR INJECTION,22,0,22,1,0,0,0,1,19,15,5,2,20
+Malignant neoplasm progression,VITAMIN D,17,4,13,5,0,0,1,6,12,0,10,7,17
+Malignant neoplasm progression,VOTRIENT,64,38,26,4,0,0,1,18,48,9,38,17,64
+Malignant neoplasm progression,XELODA,279,20,196,19,1,0,3,25,216,91,102,86,277
+Malignant neoplasm progression,XGEVA SINGLE-USE VIAL. FOR S.C. USE ONLY. PRESERVATIVE-FREE.,18,8,10,15,0,0,0,10,5,2,7,9,18
+Malignant neoplasm progression,XTANDI,12,12,0,5,0,0,0,3,8,1,1,10,12
+Malignant neoplasm progression,YERVOY FOR I.V. INFUSION ONLY. 50MG/10ML AND 200MG/40 ML SINGLE USE VIALS.,13,10,3,8,1,0,0,8,2,1,7,5,13
+Malignant neoplasm progression,ZELBORAF FILM-COATED TABLET,49,30,19,14,0,0,0,11,42,1,26,22,49
+Malignant neoplasm progression,ZOLADEX,19,1,18,1,0,0,0,0,14,12,6,1,18
+Malignant neoplasm progression,ZOMETA CONCENTRATE,74,25,49,52,0,0,0,33,51,15,40,19,74
+Malignant neoplasm progression,ZOPICLONE,15,7,8,9,0,0,1,4,7,3,9,3,15
+Melanocytic naevus,REMICADE,18,8,10,0,0,0,0,2,18,0,16,2,18
+Metastases to bone,ACLASTA,15,1,14,4,0,0,1,0,10,8,6,1,15
+Metastases to bone,ANTINEOPLASTIC(S),11,2,9,5,0,0,0,5,10,3,7,1,11
+Metastases to bone,DEXAMETHASONE,11,7,4,3,2,0,0,5,10,0,5,6,11
+Metastases to bone,LUPRON DEPOT,62,58,1,31,2,0,2,27,41,17,2,43,62
+Metastases to bone,PAMIDRONATE DISODIUM FOR INJECTION,14,3,11,7,0,0,4,2,9,6,6,2,14
+Metastases to bone,PREDNISONE,12,8,4,4,1,0,2,3,7,2,1,9,12
+Metastases to bone,SANDOSTATIN LAR,18,8,10,8,0,0,0,5,17,4,1,13,18
+Metastases to bone,SANDOSTATIN LAR 20MG,20,7,13,5,0,0,0,15,20,1,17,2,20
+Metastases to bone,SANDOSTATIN LAR 30MG,19,14,5,16,0,0,0,5,19,6,10,3,19
+Metastases to bone,TYKERB,13,0,13,0,0,0,0,4,10,2,6,5,13
+Metastases to bone,XELODA,18,0,18,2,0,0,0,5,11,2,9,7,18
+Metastases to bone,ZOLADEX LA INJ DEPOT 10.8MG,11,11,0,11,3,0,6,1,3,0,0,11,11
+Metastases to bone,ZOMETA CONCENTRATE,32,8,24,16,0,0,4,11,25,9,13,10,31
+Metastases to central nervous system,DEXAMETHASONE,23,9,14,8,2,0,1,9,11,1,18,4,21
+Metastases to central nervous system,LAPATINIB DITOSYLATE MONOHYDRATE,11,0,11,0,0,0,0,1,2,1,10,0,10
+Metastases to central nervous system,TYKERB,30,0,30,4,0,0,0,16,16,2,28,0,30
+Metastases to central nervous system,XELODA,32,0,32,3,0,0,1,12,14,2,30,0,31
+Metastases to central nervous system,ZELBORAF FILM-COATED TABLET,30,27,2,4,0,0,0,10,21,2,23,5,30
+Metastases to liver,ACLASTA,15,1,13,4,0,0,1,5,6,7,3,5,15
+Metastases to liver,AVASTIN,12,3,9,2,0,0,0,4,8,0,10,2,12
+Metastases to liver,CALCIUM,12,3,8,4,0,0,1,9,7,2,7,3,12
+Metastases to liver,CLOZARIL,17,9,8,12,0,0,2,5,6,2,12,3,17
+Metastases to liver,FOLIC ACID,11,3,8,8,0,0,0,3,4,3,1,7,11
+Metastases to liver,GLEEVEC,14,7,7,1,0,0,0,4,12,6,5,3,14
+Metastases to liver,HUMIRA,19,6,13,9,0,0,4,7,10,6,5,8,19
+Metastases to liver,METHOTREXATE,19,6,13,11,0,0,2,8,8,3,7,9,19
+Metastases to liver,PREDNISONE,14,6,8,4,0,0,2,3,9,6,4,4,14
+Metastases to liver,REMICADE,17,9,8,11,0,0,2,6,9,2,4,11,17
+Metastases to liver,SANDOSTATIN,11,8,3,1,0,0,0,5,11,1,10,0,11
+Metastases to liver,SANDOSTATIN LAR,42,21,21,6,0,0,6,21,39,13,19,10,42
+Metastases to liver,SANDOSTATIN LAR 20MG,32,17,15,11,1,0,1,12,31,6,17,9,32
+Metastases to liver,SANDOSTATIN LAR 30MG,62,26,36,9,0,0,1,20,56,25,16,21,62
+Metastases to liver,TYKERB,24,0,24,5,0,0,1,6,21,1,19,4,24
+Metastases to liver,XELODA,29,7,22,8,0,0,1,7,15,0,18,11,25
+Metastases to liver,ZOMETA CONCENTRATE,17,2,15,11,0,0,3,4,11,4,8,5,17
+Metastases to lung,CAPRELSA,11,0,11,2,11,0,0,11,11,0,11,0,11
+Metastases to spine,SANDOSTATIN LAR 30MG,13,7,6,0,0,0,2,6,13,0,6,7,13
+Metastasis,AVASTIN,12,3,7,0,0,0,1,0,5,2,10,0,7
+Metastasis,BETASERON,12,7,5,6,0,0,0,4,2,0,9,3,12
+Metastasis,CALCIUM,13,5,8,6,0,0,2,5,6,2,2,9,13
+Metastasis,CHEMOTHERAPY,13,6,7,5,0,0,5,0,3,1,11,1,13
+Metastasis,CLOZARIL,22,13,9,18,0,0,3,1,1,2,18,2,22
+Metastasis,LUPRON DEPOT,19,19,0,9,0,0,0,3,10,4,2,13,19
+Metastasis,PREDNISONE,26,13,12,9,0,0,2,6,10,5,8,13,26
+Metastasis,REMICADE,14,5,8,6,0,0,4,2,5,1,8,5,14
+Metastasis,SANDOSTATIN LAR 30MG,26,6,20,8,1,0,0,6,25,8,8,10,26
+Metastasis,TYKERB,11,0,11,0,0,0,0,2,10,0,9,2,11
+Metastasis,XELODA,12,2,10,1,0,0,0,3,6,1,9,2,12
+Metastatic malignant melanoma,DEXAMETHASONE,11,8,3,6,0,0,0,3,7,1,7,3,10
+Metastatic malignant melanoma,ZELBORAF FILM-COATED TABLET,53,34,19,15,2,0,0,9,44,1,31,21,53
+Metastatic neoplasm,REMICADE,19,10,9,5,0,0,1,16,11,1,10,8,19
+Myelodysplastic syndrome,BLOOD WHOLE,12,7,5,1,1,0,2,2,6,1,5,6,12
+Myelodysplastic syndrome,DEXAMETHASONE,17,13,4,1,1,0,1,1,4,0,2,15,17
+Myelodysplastic syndrome,EPREX STERILE SOLUTION,20,14,5,3,1,0,0,5,10,1,7,12,19
+Myelodysplastic syndrome,EXJADE,15,6,9,11,0,0,0,9,13,1,3,11,15
+Myelodysplastic syndrome,REVLIMID,30,9,13,7,1,0,0,6,17,3,6,21,30
+Myelodysplastic syndrome,VIDAZA,35,11,1,32,0,0,0,0,5,24,0,11,35
+Myeloid leukaemia,CYCLOPHOSPHAMIDE,19,1,18,12,0,0,1,0,6,3,16,0,19
+Myeloid leukaemia,NEUPOGEN,11,2,9,6,0,0,0,2,3,0,9,2,11
+Neoplasm,ACETAMINOPHEN,14,2,11,1,0,0,0,3,7,1,8,5,14
+Neoplasm,AVASTIN,85,51,32,8,0,0,0,11,65,5,56,24,75
+Neoplasm,CLOZARIL,26,15,11,12,0,0,6,4,5,1,18,7,26
+Neoplasm,DEXAMETHASONE,31,21,10,4,0,0,0,7,18,1,27,3,23
+Neoplasm,DIOVAN,11,7,4,4,0,0,0,5,4,0,4,7,10
+Neoplasm,FOLIC ACID,13,6,7,0,1,0,1,3,7,1,7,5,13
+Neoplasm,HUMIRA,13,4,8,1,0,0,0,7,9,2,9,2,13
+Neoplasm,HYDROCHLOROTHIAZIDE,11,4,7,1,1,0,0,4,7,1,5,5,11
+Neoplasm,KEPPRA,13,10,3,4,0,0,0,0,9,0,11,2,10
+Neoplasm,LIPITOR,18,7,10,1,0,0,1,5,9,4,8,6,16
+Neoplasm,METFORMIN,15,12,3,2,0,0,1,5,9,3,9,3,13
+Neoplasm,METHOTREXATE,15,3,11,2,1,0,0,5,9,1,7,7,15
+Neoplasm,PREDNISONE,27,13,14,4,1,0,1,11,11,5,12,10,26
+Neoplasm,REMICADE,41,21,18,3,1,0,1,10,29,10,23,8,41
+Neoplasm,SANDOSTATIN LAR 20MG,26,12,14,2,0,0,2,11,26,12,10,4,26
+Neoplasm,SANDOSTATIN LAR 30MG,29,9,20,1,0,0,0,15,29,12,11,6,29
+Neoplasm,XELODA,27,6,21,0,0,0,0,2,17,4,17,6,23
+Neoplasm malignant,ACETAMINOPHEN,15,5,10,3,0,0,0,5,6,1,7,7,14
+Neoplasm malignant,ACLASTA,82,10,72,19,0,0,4,5,64,49,13,20,82
+Neoplasm malignant,CALCIUM,26,8,18,10,0,0,3,6,13,3,6,17,26
+Neoplasm malignant,CLOZARIL,86,49,36,47,2,0,9,16,42,30,45,11,86
+Neoplasm malignant,ENBREL,18,3,15,3,0,0,4,4,7,4,2,12,17
+Neoplasm malignant,FOLIC ACID,15,5,10,7,1,0,2,8,8,2,4,9,15
+Neoplasm malignant,HUMIRA,52,18,32,9,0,0,1,14,48,31,12,9,52
+Neoplasm malignant,IMURAN,11,6,5,6,0,0,0,5,3,3,4,4,11
+Neoplasm malignant,LIPITOR,18,10,8,3,0,0,2,4,12,6,6,6,17
+Neoplasm malignant,LUPRON DEPOT,23,21,0,18,0,0,0,6,5,6,1,16,23
+Neoplasm malignant,METHOTREXATE,24,5,19,7,0,0,4,9,12,3,9,12,23
+Neoplasm malignant,PANTOPRAZOLE,12,4,8,6,0,0,1,3,5,3,2,7,12
+Neoplasm malignant,PREDNISONE,38,25,13,14,1,0,1,12,17,5,20,13,38
+Neoplasm malignant,PROLIA PRE-FILLED SYRINGE. PRESERVATIVE-FREE.,11,1,9,1,0,0,0,1,9,2,1,8,11
+Neoplasm malignant,REMICADE,121,38,79,21,0,0,7,42,71,15,77,29,121
+Neoplasm malignant,RITUXAN,12,10,2,0,0,0,0,1,9,1,9,2,12
+Neoplasm malignant,SANDOSTATIN LAR 20MG,14,4,10,4,0,0,2,9,14,1,5,8,14
+Neoplasm malignant,SANDOSTATIN LAR 30MG,11,7,4,6,0,0,0,9,8,4,3,4,11
+Neoplasm malignant,SYNTHROID,14,3,11,9,1,0,1,6,5,3,6,5,14
+Neoplasm malignant,VEMURAFENIB,14,0,14,0,0,0,0,0,0,0,4,10,4
+Neoplasm malignant,VITAMIN D,15,4,11,7,0,0,1,4,7,1,4,10,15
+Neoplasm malignant,XOLAIR,25,8,16,0,0,0,0,1,24,1,19,5,25
+Neoplasm progression,AFINITOR,47,23,22,14,0,0,1,10,31,14,23,10,45
+Neoplasm progression,ARIMIDEX TAB 1MG,14,0,14,0,0,0,0,0,14,10,2,2,14
+Neoplasm progression,AROMASIN,33,0,33,0,0,0,0,1,30,28,3,2,33
+Neoplasm progression,AVASTIN,22,16,5,4,0,0,1,4,7,1,12,9,22
+Neoplasm progression,DEXAMETHASONE,37,22,11,12,0,0,0,9,22,10,17,10,37
+Neoplasm progression,DOCETAXEL,18,3,15,0,1,0,1,3,16,16,0,2,18
+Neoplasm progression,FASLODEX,19,0,19,0,0,0,0,0,15,16,0,3,18
+Neoplasm progression,FEMARA 2.5MG,101,0,101,0,0,0,0,0,101,92,3,6,101
+Neoplasm progression,LETROZOLE,81,0,81,0,0,0,0,0,64,74,3,4,81
+Neoplasm progression,LUPRON DEPOT,18,18,0,9,0,0,0,4,13,6,1,11,18
+Neoplasm progression,PACLITAXEL INJECTION,12,0,12,1,0,0,0,0,12,10,2,0,12
+Neoplasm progression,PAMIDRONATE DISODIUM FOR INJECTION,17,0,17,0,0,0,0,0,17,14,0,3,17
+Neoplasm progression,PANTOPRAZOLE,11,5,6,5,0,0,0,4,4,1,5,5,11
+Neoplasm progression,PREDNISONE,12,6,4,3,1,0,2,2,7,4,2,6,12
+Neoplasm progression,REVLIMID,26,15,11,19,4,0,0,8,11,1,13,12,26
+Neoplasm progression,SANDOSTATIN,13,5,8,2,0,0,0,3,12,0,11,2,13
+Neoplasm progression,SANDOSTATIN LAR,36,11,25,4,0,0,1,18,30,6,16,14,36
+Neoplasm progression,SANDOSTATIN LAR 20MG,38,12,26,4,0,0,1,19,36,3,28,7,38
+Neoplasm progression,SANDOSTATIN LAR 30MG,87,48,39,19,0,0,1,32,80,15,35,37,87
+Neoplasm progression,SUTENT,11,10,0,1,0,0,0,0,11,4,6,1,11
+Neoplasm progression,TAMOXIFEN,75,0,75,0,0,0,0,0,75,71,1,3,75
+Neoplasm progression,TAMOXIFEN CITRATE,11,0,11,0,0,0,0,0,0,11,0,0,11
+Neoplasm progression,TAXOTERE,11,1,10,1,0,0,1,0,8,9,1,1,11
+Neoplasm progression,TYKERB,27,1,26,1,0,0,0,7,21,2,19,6,27
+Neoplasm progression,VINORELBINE TARTRATE FOR INJECTION,13,0,13,0,0,0,0,0,13,12,0,1,13
+Neoplasm progression,VOTRIENT,12,8,4,1,0,0,0,1,10,1,6,5,12
+Neoplasm progression,XELODA,135,7,80,9,0,0,2,7,103,52,27,56,135
+Neoplasm progression,ZELBORAF FILM-COATED TABLET,12,9,3,2,2,0,0,2,10,0,4,8,12
+Neoplasm progression,ZOLADEX,11,1,10,0,0,0,0,1,9,9,1,1,11
+Neoplasm progression,ZOMETA CONCENTRATE,29,14,15,17,1,0,1,14,12,10,16,3,29
+Neoplasm recurrence,GLEEVEC,32,13,19,0,0,0,0,4,29,12,12,8,32
+Non-Hodgkin's lymphoma,CLOZARIL,18,11,7,4,0,0,2,1,15,3,15,0,18
+Non-Hodgkin's lymphoma,METHOTREXATE,13,7,6,1,0,0,2,1,9,1,9,3,12
+Non-Hodgkin's lymphoma,PREDNISONE,11,5,6,2,0,0,2,2,7,2,8,1,10
+Non-Hodgkin's lymphoma,REMICADE,12,5,7,1,0,0,1,3,10,2,7,3,12
+Oncologic complication,AVASTIN,31,0,31,0,0,0,0,15,15,0,0,31,15
+Pancreatic carcinoma,ACLASTA,16,2,14,3,0,0,0,3,10,11,0,5,16
+Pancreatic carcinoma,ALTACE,11,4,7,8,0,0,0,4,5,0,2,9,11
+Pancreatic carcinoma,HYDROCHLOROTHIAZIDE,11,2,9,9,0,0,0,3,2,0,0,11,11
+Pancreatic carcinoma,LIPITOR,21,11,9,16,0,0,1,4,4,2,7,12,21
+Pancreatic carcinoma,METFORMIN,11,7,3,2,0,0,2,4,3,1,5,5,11
+Pancreatic carcinoma,METOPROLOL,11,3,8,8,0,0,0,2,4,0,0,11,11
+Pancreatic carcinoma,PREDNISONE,11,7,4,4,0,0,1,5,3,1,5,5,11
+Pancreatic carcinoma,REMICADE,15,3,12,7,0,0,4,9,6,0,6,9,15
+Pituitary tumour,SANDOSTATIN LAR 20MG,11,3,8,0,0,0,0,5,9,2,7,2,11
+Plasma cell myeloma,ASA,12,4,8,8,2,0,2,7,7,1,4,7,12
+Plasma cell myeloma,CALCIUM,16,4,12,5,1,0,1,9,11,0,8,8,16
+Plasma cell myeloma,CYCLOPHOSPHAMIDE,23,9,10,7,0,0,0,2,9,9,8,6,16
+Plasma cell myeloma,DEXAMETHASONE,97,43,45,29,3,0,4,18,39,20,46,31,73
+Plasma cell myeloma,PAMIDRONATE DISODIUM FOR INJECTION,17,7,10,6,3,0,1,9,7,5,7,5,17
+Plasma cell myeloma,PREDNISONE,26,11,12,9,2,0,2,9,13,7,8,11,23
+Plasma cell myeloma,REVLIMID,275,145,125,134,17,0,10,57,82,31,114,130,255
+Plasma cell myeloma,SYNTHROID,11,5,6,5,2,0,2,3,4,0,2,9,11
+Plasma cell myeloma,THALOMID,22,15,5,3,1,0,0,3,5,7,6,9,18
+Plasma cell myeloma,VELCADE,12,2,7,7,1,0,0,4,4,4,6,2,12
+Plasma cell myeloma,VELCADE SINGLE USE VIAL,12,4,4,5,1,0,0,2,4,8,1,3,9
+Plasma cell myeloma,VITAMIN D,13,6,7,3,2,0,0,9,8,1,5,7,13
+Post transplant lymphoproliferative disorder,CYCLOSPORINE,13,5,2,12,0,0,1,1,4,8,4,1,13
+Post transplant lymphoproliferative disorder,MYCOPHENOLATE MOFETIL,26,17,8,2,0,0,0,1,15,5,21,0,26
+Post transplant lymphoproliferative disorder,PREDNISONE,18,13,5,6,0,0,0,1,10,4,12,2,18
+Post transplant lymphoproliferative disorder,TACROLIMUS,25,15,10,3,0,0,0,0,13,2,20,3,25
+Prostate cancer,AVODART,11,11,0,0,0,0,2,0,10,6,1,4,11
+Prostate cancer,CALCIUM,11,11,0,7,0,0,0,4,6,1,0,10,11
+Prostate cancer,ENBREL,11,11,0,0,0,0,0,2,6,2,5,4,9
+Prostate cancer,HUMIRA,21,21,0,0,0,0,0,4,19,8,3,10,21
+Prostate cancer,LIPITOR,12,12,0,2,2,0,1,4,8,1,4,7,11
+Prostate cancer,LUPRON DEPOT,77,77,0,53,2,0,0,22,37,41,2,34,76
+Prostate cancer,METHOTREXATE,11,11,0,2,0,0,0,1,10,2,1,8,10
+Prostate cancer,PREDNISONE,17,17,0,7,0,0,0,4,11,2,3,12,17
+Prostate cancer,REMICADE,32,32,0,0,0,0,2,5,29,5,14,13,32
+Prostate cancer metastatic,LUPRON DEPOT,82,81,0,41,0,0,1,37,60,30,2,50,82
+Prostate cancer metastatic,ZYTIGA,13,13,0,2,0,0,0,3,8,1,2,10,9
+Rectal adenocarcinoma,ORENCIA,11,0,11,0,0,0,0,0,11,0,11,0,11
+Rectal cancer,REMICADE,18,12,6,1,0,0,6,10,9,0,16,2,18
+Renal cancer,HUMIRA,12,3,9,1,0,0,0,6,11,3,6,3,12
+Renal cancer,REMICADE,14,7,7,3,0,0,1,9,7,1,11,2,14
+Renal cancer metastatic,VOTRIENT,18,12,6,2,0,0,0,1,15,3,11,4,18
+Renal cell carcinoma,AFINITOR,31,20,11,3,0,0,0,2,22,20,6,5,27
+Second primary malignancy,GLEEVEC,12,3,9,1,0,0,0,1,12,3,3,6,12
+Second primary malignancy,SANDOSTATIN LAR,11,7,4,8,0,0,0,1,11,2,3,6,11
+Second primary malignancy,SANDOSTATIN LAR 30MG,16,6,10,3,0,0,0,5,16,9,6,1,16
+Skin cancer,ACETAMINOPHEN,14,6,8,0,0,0,0,1,5,0,7,7,12
+Skin cancer,ACLASTA,18,0,18,0,0,0,0,4,14,12,5,1,18
+Skin cancer,CALCIUM,11,7,4,0,0,0,1,3,9,0,7,4,11
+Skin cancer,FOLIC ACID,18,10,8,0,0,0,1,3,15,0,7,11,17
+Skin cancer,HUMIRA,32,15,16,0,0,0,0,4,31,15,9,8,32
+Skin cancer,LIPITOR,13,7,6,0,0,0,0,1,10,0,3,10,11
+Skin cancer,METHOTREXATE,27,11,16,0,1,0,1,4,20,0,6,21,25
+Skin cancer,ORENCIA,16,9,7,0,0,0,1,5,11,0,4,12,16
+Skin cancer,PREDNISONE,24,14,10,1,0,0,1,4,17,0,9,15,22
+Skin cancer,REMICADE,69,33,33,0,1,0,1,8,67,6,39,24,69
+Skin cancer,RITUXAN,17,7,10,0,0,0,0,0,9,0,6,11,17
+Skin papilloma,ACTEMRA,16,6,10,0,0,0,0,0,4,0,14,2,6
+Squamous cell carcinoma,ENBREL,16,8,8,2,0,0,3,0,10,2,6,8,16
+Squamous cell carcinoma,FOLIC ACID,13,7,6,0,0,0,2,2,10,0,5,8,13
+Squamous cell carcinoma,HUMIRA,15,8,7,0,0,0,0,3,15,7,4,4,15
+Squamous cell carcinoma,METHOTREXATE,20,9,11,1,0,0,2,3,15,2,8,10,20
+Squamous cell carcinoma,PLAQUENIL,11,4,6,1,0,0,2,2,7,1,4,6,11
+Squamous cell carcinoma,PREDNISONE,29,10,19,3,0,0,0,0,20,0,25,4,28
+Squamous cell carcinoma,RAMIPRIL,11,6,5,0,0,0,0,1,10,0,8,3,10
+Squamous cell carcinoma,REMICADE,39,17,18,0,1,0,1,2,36,3,25,11,39
+Squamous cell carcinoma,ZELBORAF FILM-COATED TABLET,11,6,5,2,0,0,0,3,11,0,4,7,11
+Thyroid cancer,HUMIRA,12,3,8,0,0,0,0,3,11,5,7,0,12
+Thyroid cancer,REMICADE,16,3,13,1,1,0,0,4,11,0,15,1,16
+Thyroid neoplasm,METHOTREXATE,12,2,10,2,0,0,1,5,6,0,7,5,11
+Thyroid neoplasm,REMICADE,20,2,15,0,0,0,0,6,14,1,19,0,20
+Uterine leiomyoma,FOLIC ACID,11,0,11,0,0,0,0,1,10,2,9,0,11
+Uterine leiomyoma,METHOTREXATE,12,0,12,0,0,0,0,2,10,2,9,1,12
+Uterine leiomyoma,MIRENA,14,0,14,0,0,0,0,0,13,1,12,1,13
+Uterine leiomyoma,REMICADE,15,0,15,0,0,0,0,8,12,0,14,1,15

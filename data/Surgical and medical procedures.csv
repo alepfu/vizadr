@@ -1,0 +1,291 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Abdominal cavity drainage,SANDOSTATIN LAR,11,4,7,9,0,0,0,8,5,4,3,4,11
+Abdominal operation,REMICADE,19,7,11,0,0,0,1,8,12,1,18,0,18
+Abortion induced,HUMIRA,17,0,17,4,0,4,0,3,15,8,9,0,16
+Abortion induced,REMICADE,17,0,17,0,0,0,0,0,17,0,17,0,17
+Abscess drainage,HUMIRA,24,11,13,1,1,0,0,22,19,1,22,1,24
+Abscess drainage,REMICADE,43,18,25,4,0,0,0,23,25,2,40,1,43
+Angioplasty,LIPITOR,16,12,4,0,0,0,2,6,6,0,7,9,12
+Angioplasty,PLAVIX,11,8,3,0,0,0,0,6,5,0,6,5,11
+Angioplasty,REMICADE,16,7,8,1,0,0,0,9,10,2,7,7,16
+Ankle arthroplasty,ACTEMRA,18,3,15,0,0,0,0,10,0,0,18,0,18
+Ankle operation,REMICADE,17,3,12,0,0,0,0,3,14,2,10,5,17
+Appendicectomy,REMICADE,51,18,33,0,0,0,2,41,12,2,46,3,51
+Arthrodesis,ACTEMRA,19,0,19,0,0,0,0,4,13,0,19,0,13
+Arthroscopic surgery,REMICADE,20,4,16,0,0,0,0,14,16,0,20,0,20
+Bladder operation,REMICADE,13,3,10,0,0,0,4,11,5,0,11,2,13
+Caesarean section,REMICADE,145,0,145,0,0,1,3,69,88,16,129,0,145
+Cardiac operation,REMICADE,17,9,6,0,0,0,0,9,9,2,11,4,17
+Cardiac pacemaker insertion,FUROSEMIDE,13,6,7,0,0,0,2,11,5,0,12,1,13
+Cardiac pacemaker insertion,REMICADE,11,8,3,0,0,0,0,10,3,0,4,7,11
+Cataract operation,HUMIRA,15,1,14,0,0,0,0,0,15,0,1,14,15
+Cataract operation,LIPITOR,11,4,7,0,0,0,0,4,10,1,0,10,11
+Cataract operation,REMICADE,19,3,15,0,0,0,0,5,17,3,7,9,19
+Cataract operation,XALATAN,37,16,21,0,0,0,0,1,37,0,6,31,37
+Central venous catheterisation,REMICADE,13,1,12,0,0,0,0,6,7,0,8,5,13
+Cholecystectomy,HUMIRA,16,6,9,1,0,0,0,8,14,4,6,6,14
+Cholecystectomy,METHOTREXATE,12,3,9,0,0,0,1,10,6,0,8,4,12
+Cholecystectomy,REMICADE,81,29,50,0,0,0,0,58,42,1,74,6,81
+Cholecystectomy,SANDOSTATIN LAR,15,11,4,5,0,0,5,15,14,0,6,9,15
+Colectomy,HUMIRA,57,23,34,0,0,0,1,32,48,12,42,3,57
+Colectomy,IMURAN,17,11,6,0,0,0,0,12,9,0,12,5,17
+Colectomy,PREDNISONE,38,15,23,0,0,0,1,25,22,1,32,5,38
+Colectomy,REMICADE,205,97,103,2,0,0,0,131,88,31,160,14,205
+Colectomy total,HUMIRA,15,8,7,0,0,0,0,12,13,5,10,0,15
+Colectomy total,REMICADE,46,18,27,2,0,0,0,30,20,7,35,4,46
+Colon operation,REMICADE,27,17,10,0,0,0,0,15,15,7,19,1,27
+Colostomy,HUMIRA,29,7,20,0,1,0,1,21,23,4,20,5,29
+Colostomy,REMICADE,61,30,31,0,1,0,4,45,26,2,59,0,61
+Colostomy closure,REMICADE,17,6,11,0,0,0,1,10,8,2,11,4,17
+Corneal transplant,REMICADE,18,2,16,0,0,0,0,1,17,0,18,0,18
+Coronary arterial stent insertion,REMICADE,12,7,5,0,0,0,1,5,7,0,5,7,12
+Coronary artery bypass,ASA,14,9,4,3,0,0,2,11,9,0,5,9,14
+Coronary artery bypass,EPREX STERILE SOLUTION,11,11,0,0,0,0,0,0,11,0,0,11,11
+Coronary artery bypass,HUMIRA,15,6,9,2,0,0,0,9,12,0,2,13,15
+Coronary artery bypass,LIPITOR,53,43,9,2,0,0,3,11,9,3,25,25,13
+Coronary artery bypass,REMICADE,13,11,1,1,0,0,0,8,4,0,6,7,13
+Craniotomy,AVASTIN,31,0,31,0,0,0,0,15,15,0,0,31,15
+Debridement,REMICADE,14,9,5,4,2,0,1,9,9,1,13,0,14
+Dental operation,REMICADE,36,9,27,0,1,0,0,7,28,3,29,4,36
+Endodontic procedure,REMICADE,40,17,22,0,2,0,0,2,35,0,40,0,39
+Endotracheal intubation,CLOZAPINE,25,25,0,25,0,0,0,21,0,0,25,0,25
+Endotracheal intubation,CLOZARIL,12,9,3,1,0,0,5,12,6,1,9,2,12
+Enterostomy,REMICADE,26,16,10,0,0,0,0,17,11,6,20,0,26
+Eye laser surgery,XALATAN,26,10,16,0,0,0,0,0,26,2,8,16,26
+Eye operation,REMICADE,14,6,8,0,0,0,0,1,13,1,10,3,14
+Fistula repair,REMICADE,25,14,11,4,0,0,0,11,18,1,21,3,25
+Foot operation,ACTEMRA,11,0,11,0,0,0,0,0,5,1,10,0,11
+Foot operation,HUMIRA,15,2,13,0,0,0,0,11,11,0,9,6,15
+Foot operation,METHOTREXATE,17,2,15,0,1,0,0,8,10,1,14,2,17
+Foot operation,REMICADE,28,6,21,0,1,0,0,5,21,2,21,5,27
+Gallbladder operation,REMICADE,31,17,13,0,0,0,0,13,21,1,28,2,31
+Gastrointestinal surgery,REMICADE,16,6,10,0,0,0,5,13,5,1,15,0,16
+Haemorrhoid operation,BOTOX 50U/50ALLERGAN U VIAL, 100U/100ALLERGAN U VIAL, 200U/200ALLERGAN U VIAL,22,0,22,0,0,0,0,22,0,0,0,22,22
+Hepatic embolisation,SANDOSTATIN LAR,12,8,4,11,0,0,5,12,10,0,7,5,12
+Hernia repair,REMICADE,32,17,14,0,0,0,0,18,17,1,21,10,31
+Hip arthroplasty,ACETAMINOPHEN,12,0,12,0,0,0,1,4,4,0,8,4,11
+Hip arthroplasty,ACTEMRA,13,1,12,4,0,0,0,9,5,1,6,6,12
+Hip arthroplasty,CALCIUM,21,3,17,1,1,0,1,15,11,1,7,13,21
+Hip arthroplasty,CELEBREX,20,7,12,1,0,0,0,14,11,0,13,7,20
+Hip arthroplasty,ENBREL,18,7,11,0,0,0,0,12,10,0,11,7,15
+Hip arthroplasty,FOLIC ACID,26,5,20,0,0,0,1,15,14,0,15,11,25
+Hip arthroplasty,FORTEO,25,0,25,0,1,0,0,18,13,2,7,16,24
+Hip arthroplasty,HUMIRA,39,16,23,0,1,0,1,25,30,5,17,17,39
+Hip arthroplasty,LIPITOR,13,4,9,0,0,0,0,9,6,1,6,6,12
+Hip arthroplasty,METHOTREXATE,36,10,25,0,0,0,1,24,18,1,22,13,36
+Hip arthroplasty,PREDNISONE,34,5,29,1,0,0,2,20,18,1,19,14,33
+Hip arthroplasty,REMICADE,115,50,63,1,0,0,2,79,46,3,92,20,115
+Hip arthroplasty,SIMPONI,11,4,7,0,1,0,0,8,2,0,11,0,10
+Hip arthroplasty,VITAMIN D,23,4,18,0,1,0,1,15,14,2,10,11,23
+Hip surgery,ACLASTA,11,1,10,3,1,0,0,3,10,3,1,7,11
+Hip surgery,CALCIUM,11,3,7,1,1,0,0,9,4,0,6,5,11
+Hip surgery,HUMIRA,13,5,8,0,0,0,0,7,12,3,6,4,13
+Hip surgery,METHOTREXATE,15,3,10,0,0,0,0,11,5,0,13,2,14
+Hip surgery,REMICADE,24,12,10,1,0,0,0,11,15,1,17,6,24
+Hospitalisation,APO-CLOZAPINE,13,8,4,0,0,0,0,13,0,3,9,1,13
+Hospitalisation,CALCIUM,21,6,15,1,0,0,1,21,5,1,9,11,21
+Hospitalisation,DENOSUMAB,21,2,19,0,0,0,0,1,0,5,2,14,15
+Hospitalisation,ENBREL,12,3,9,0,0,0,0,5,1,1,4,7,8
+Hospitalisation,EPREX STERILE SOLUTION,14,9,5,2,0,0,1,14,8,0,11,3,14
+Hospitalisation,FORTEO,60,9,51,11,0,0,3,58,10,2,9,49,60
+Hospitalisation,HUMIRA,118,48,69,2,0,0,0,118,3,87,21,10,118
+Hospitalisation,LUPRON DEPOT,17,16,0,2,0,0,0,17,1,8,1,8,17
+Hospitalisation,METFORMIN,11,2,9,2,0,0,1,10,0,1,6,4,11
+Hospitalisation,METHOTREXATE,14,7,7,1,0,0,0,13,3,1,7,6,14
+Hospitalisation,PREDNISONE,23,10,13,2,0,0,1,21,2,4,12,7,22
+Hospitalisation,PROLIA PRE-FILLED SYRINGE. PRESERVATIVE-FREE.,13,1,10,0,0,0,0,13,0,5,1,7,13
+Hospitalisation,REMICADE,148,68,75,4,1,0,1,147,15,15,108,25,148
+Hospitalisation,VITAMIN D,16,4,12,1,0,0,0,15,3,1,8,7,16
+Hysterectomy,HUMIRA,16,0,16,0,0,0,0,8,14,1,14,1,16
+Hysterectomy,REMICADE,51,0,50,0,0,0,0,28,28,3,44,4,51
+Ileectomy,HUMIRA,13,3,10,0,0,0,0,12,5,3,10,0,13
+Ileectomy,REMICADE,22,15,7,0,0,0,0,10,13,0,21,1,22
+Ileostomy,HUMIRA,76,40,36,0,0,0,0,40,73,22,49,5,76
+Ileostomy,IMURAN,11,6,5,0,0,0,0,7,6,1,9,1,11
+Ileostomy,PREDNISONE,26,9,17,0,2,0,1,23,16,0,21,5,26
+Ileostomy,REMICADE,141,65,76,2,2,0,5,116,55,19,113,9,141
+Intensive care,CLOZAPINE,13,13,0,13,0,0,0,9,0,0,13,0,13
+Intensive care,CLOZARIL,22,15,7,2,1,0,6,21,11,2,15,5,22
+Intentional drug misuse,ATIVAN,12,6,6,1,0,0,0,2,10,3,8,1,12
+Intentional drug misuse,CIPRALEX,11,2,9,0,0,0,0,2,9,8,2,1,10
+Intentional drug misuse,CLONAZEPAM,14,9,5,1,0,0,1,2,11,1,11,2,12
+Intentional drug misuse,CYMBALTA,55,13,42,0,0,0,0,2,50,27,27,1,52
+Intentional drug misuse,DILAUDID,15,14,1,0,0,0,0,13,1,0,14,1,14
+Intentional drug misuse,FENTANYL,13,6,7,4,0,0,0,2,6,3,10,0,12
+Intentional drug misuse,LYRICA,18,4,14,0,0,0,0,12,16,1,16,1,16
+Intentional drug misuse,NICORETTE GUM,31,14,16,0,0,0,0,0,31,13,13,5,31
+Intentional drug misuse,OXYNEO,24,20,4,0,0,0,0,0,19,4,15,5,19
+Intentional drug misuse,SEROQUEL,12,7,5,1,0,0,0,3,9,2,10,0,12
+Intentional drug misuse,STRATTERA,12,12,0,0,0,0,0,0,5,5,7,0,5
+Intentional drug misuse,VOLTAREN EMULGEL,30,8,22,0,0,0,0,1,7,4,8,18,8
+Intentional drug misuse,ZYPREXA,12,6,6,1,0,0,3,5,10,4,8,0,12
+Intestinal anastomosis,REMICADE,20,18,2,1,0,0,0,19,17,0,19,1,20
+Intestinal operation,HUMIRA,54,20,34,1,2,0,0,37,41,15,26,13,54
+Intestinal operation,PREDNISONE,14,3,11,0,1,0,0,9,9,2,10,2,14
+Intestinal operation,REMICADE,128,52,76,1,2,0,2,82,59,19,98,11,127
+Intestinal resection,AZATHIOPRINE,19,11,8,0,0,0,0,16,12,2,16,1,19
+Intestinal resection,BENADRYL,11,3,8,0,0,0,0,7,6,1,10,0,11
+Intestinal resection,FOLIC ACID,11,5,6,0,0,0,0,8,6,0,11,0,11
+Intestinal resection,HUMIRA,177,61,115,0,0,0,0,111,145,44,126,7,177
+Intestinal resection,IMURAN,30,7,23,0,0,0,0,22,15,1,28,1,30
+Intestinal resection,IRON,14,8,6,1,0,0,1,13,7,3,11,0,14
+Intestinal resection,METHOTREXATE,19,10,9,0,0,0,0,13,9,1,17,1,19
+Intestinal resection,PREDNISONE,40,14,26,0,0,0,0,26,25,7,27,6,40
+Intestinal resection,REMICADE,427,212,212,1,3,0,3,306,200,38,365,24,427
+Intestinal resection,VITAMIN D,11,5,6,0,0,0,0,8,5,1,8,2,11
+Intra-uterine contraceptive device removal,MIRENA,12,0,12,0,2,0,1,0,8,4,8,0,11
+Joint arthroplasty,METHOTREXATE,14,1,13,0,1,0,0,7,10,0,11,3,14
+Joint arthroplasty,REMICADE,15,1,14,0,0,0,0,7,8,0,12,3,15
+Knee arthroplasty,ACETAMINOPHEN,14,3,11,0,0,0,0,6,6,0,9,5,13
+Knee arthroplasty,ACTEMRA,13,3,10,0,0,0,0,3,3,0,7,6,8
+Knee arthroplasty,CALCIUM,17,1,15,0,0,0,0,12,10,1,9,7,15
+Knee arthroplasty,CELEBREX,22,3,19,0,0,0,0,11,13,0,16,6,21
+Knee arthroplasty,CRESTOR,18,6,11,0,1,0,0,11,9,2,10,6,18
+Knee arthroplasty,ENBREL,24,5,19,0,0,0,0,12,6,2,10,12,20
+Knee arthroplasty,FOLIC ACID,35,5,29,0,0,0,0,18,19,0,19,16,32
+Knee arthroplasty,FORTEO,15,0,15,0,0,0,0,9,7,2,1,12,14
+Knee arthroplasty,HUMIRA,46,8,38,0,0,0,0,31,42,6,23,17,46
+Knee arthroplasty,HYDROCHLOROTHIAZIDE,11,1,10,0,0,0,0,6,8,0,5,6,10
+Knee arthroplasty,METHOTREXATE,49,9,39,0,0,0,0,25,31,0,29,20,48
+Knee arthroplasty,PREDNISONE,48,7,41,0,0,0,0,29,25,2,26,20,44
+Knee arthroplasty,REMICADE,151,50,100,1,0,0,0,96,79,3,97,51,151
+Knee arthroplasty,RITUXAN,12,3,9,0,0,0,0,2,5,0,8,4,12
+Knee arthroplasty,SIMPONI,28,7,21,12,0,0,12,10,6,0,15,13,27
+Knee arthroplasty,SYNTHROID,13,4,9,0,0,0,0,8,7,0,6,7,11
+Knee arthroplasty,XYREM,11,9,2,0,0,0,0,9,11,0,11,0,11
+Knee operation,HUMIRA,26,4,22,0,0,0,0,14,22,6,14,6,26
+Knee operation,METHOTREXATE,15,6,9,0,0,0,0,9,6,1,7,7,14
+Knee operation,REMICADE,32,15,17,0,0,0,0,16,24,1,24,7,32
+Laparotomy,REMICADE,11,5,6,4,0,0,0,7,9,1,10,0,11
+Leg amputation,REMICADE,23,7,15,1,9,0,6,20,2,0,18,5,23
+Limb operation,HUMIRA,11,6,4,0,0,0,0,2,10,1,8,2,10
+Limb operation,REMICADE,23,7,14,0,0,0,0,5,18,2,11,10,23
+Lithotripsy,REMICADE,12,5,7,0,0,0,0,10,3,0,12,0,12
+Liver operation,SANDOSTATIN LAR,17,4,13,2,1,0,0,11,16,2,6,9,17
+Liver operation,SANDOSTATIN LAR 30MG,15,6,9,1,0,0,1,6,15,0,12,3,15
+Mastectomy,REMICADE,11,0,9,0,0,0,0,3,10,0,9,2,11
+Medical device removal,MIRENA,20,0,20,0,0,0,1,1,18,13,7,0,19
+Mineral supplementation,REMICADE,14,12,2,0,0,0,0,0,14,1,13,0,14
+Off label use,ACETAMINOPHEN,33,10,22,0,0,0,1,7,15,5,24,4,26
+Off label use,ACTEMRA,15,6,9,0,0,0,0,0,6,2,9,4,15
+Off label use,ADDERALL XR,14,13,0,0,0,0,0,1,0,3,11,0,1
+Off label use,AMITRIPTYLINE,12,5,7,1,0,0,0,3,8,1,7,4,9
+Off label use,ASPIRIN,15,7,7,2,0,0,1,8,8,3,4,8,15
+Off label use,ATIVAN,11,5,6,1,0,0,0,5,7,2,8,1,11
+Off label use,BENADRYL,11,4,7,0,1,0,1,1,8,0,11,0,10
+Off label use,BOTOX COSMETIC,17,1,16,0,0,0,0,0,1,1,13,3,1
+Off label use,CIPRALEX,16,4,11,0,0,0,0,2,13,11,5,0,15
+Off label use,CITALOPRAM,11,6,5,0,0,0,0,4,8,3,8,0,10
+Off label use,CLONAZEPAM,20,8,12,0,1,0,0,6,12,1,14,5,19
+Off label use,CYMBALTA,40,15,25,2,2,0,2,7,30,12,27,1,39
+Off label use,DIPHENHYDRAMINE HYDROCHLORIDE,15,5,10,0,0,0,0,1,7,1,12,2,11
+Off label use,DOXORUBICIN HYDROCHLORIDE INJECTION,12,9,3,0,0,0,0,0,12,0,4,8,12
+Off label use,ELAVIL,11,4,7,0,1,0,0,8,6,2,9,0,10
+Off label use,EPREX STERILE SOLUTION,31,23,8,0,0,0,0,11,31,0,27,4,31
+Off label use,GABAPENTIN,34,22,12,0,0,0,0,6,24,1,8,25,29
+Off label use,HYDROCHLOROTHIAZIDE,11,5,6,0,0,0,0,3,7,0,9,2,8
+Off label use,LIPIODOL ULTRA FLUIDE 38%,12,9,3,0,0,0,0,0,12,0,4,8,12
+Off label use,LORAZEPAM,17,8,9,2,0,0,0,7,13,2,5,10,15
+Off label use,LOTEMAX,14,6,6,0,0,0,0,0,14,2,12,0,14
+Off label use,LYRICA,31,3,28,1,1,0,0,14,23,5,25,1,28
+Off label use,METFORMIN,12,6,6,0,0,0,0,6,8,0,9,3,11
+Off label use,METHOTREXATE,24,8,13,2,0,0,0,6,12,9,14,1,21
+Off label use,METHYLPREDNISOLONE,15,5,10,0,0,0,0,2,6,1,12,2,10
+Off label use,OMNIPAQUE,12,9,3,0,0,0,0,0,12,0,4,8,12
+Off label use,OXYCONTIN,28,27,1,0,0,0,0,27,28,0,28,0,28
+Off label use,PREDNISONE,56,21,34,1,0,0,1,12,29,8,39,9,50
+Off label use,RAMIPRIL,17,10,6,0,0,0,1,9,7,4,9,4,14
+Off label use,REMICADE,93,21,72,2,0,0,3,29,58,10,81,2,93
+Off label use,RIBAVIRIN/ PEGINTERFERON ALFA-2B,18,13,5,0,0,0,0,4,18,0,18,0,18
+Off label use,RITUXAN,45,11,34,1,0,0,0,2,25,2,33,10,33
+Off label use,SEROQUEL,13,8,5,1,0,0,0,5,8,1,11,1,13
+Off label use,STELARA,26,10,16,0,0,0,0,11,13,0,24,2,24
+Off label use,SYNTHROID,15,3,12,0,0,0,0,5,7,2,12,1,13
+Off label use,TRAZODONE,15,6,9,3,0,0,1,9,6,2,7,6,13
+Off label use,VOLTAREN EMULGEL,11,3,8,0,0,0,0,1,8,1,7,3,9
+Off label use,ZOLOFT,11,7,4,2,0,0,0,5,5,6,3,2,10
+Off label use,ZYPREXA,72,37,35,10,0,0,1,32,45,10,45,17,72
+Off label use,ZYPREXA ZYDIS,19,9,10,0,4,0,0,9,7,0,15,4,19
+Oxygen supplementation,XOLAIR,42,35,7,0,0,0,0,7,42,0,42,0,42
+Packed red blood cell transfusion,FOLIC ACID,15,5,10,1,0,0,0,8,9,0,12,3,15
+Packed red blood cell transfusion,PREDNISONE,11,7,4,0,0,0,1,7,7,0,8,3,11
+Packed red blood cell transfusion,REVLIMID,12,10,2,0,2,0,0,5,9,0,3,9,12
+Packed red blood cell transfusion,SOLIRIS,25,11,14,0,0,0,0,14,11,0,20,5,25
+Palliative care,CLOZARIL,13,8,5,13,0,0,4,12,8,1,8,4,13
+Palliative care,REVLIMID,11,4,7,4,1,0,0,10,5,0,7,4,11
+Palliative care,SANDOSTATIN LAR,29,9,20,19,0,0,5,22,20,9,10,10,29
+Palliative care,SANDOSTATIN LAR 20MG,11,9,2,4,0,0,6,9,8,2,7,2,11
+Pituitary tumour removal,SANDOSTATIN LAR,12,6,6,1,0,0,1,10,9,1,9,2,12
+Pituitary tumour removal,SANDOSTATIN LAR 20MG,12,6,6,0,0,0,0,5,10,1,8,3,12
+Platelet transfusion,REVLIMID,19,9,10,3,1,0,2,9,17,0,12,7,19
+Proctocolectomy,REMICADE,17,9,8,0,0,0,0,15,12,0,11,6,17
+Prosthesis implantation,REMICADE,14,3,11,0,0,0,0,3,11,0,14,0,14
+Resection of rectum,REMICADE,12,8,4,0,0,0,0,9,3,3,9,0,12
+Shoulder operation,REMICADE,21,12,9,0,0,0,0,10,13,1,18,2,21
+Sinus operation,REMICADE,11,2,5,0,0,0,0,3,9,4,7,0,11
+Small intestinal resection,HUMIRA,14,5,9,0,0,0,0,8,13,5,9,0,14
+Small intestinal resection,REMICADE,51,25,26,0,0,0,3,48,7,2,46,3,51
+Small intestine operation,REMICADE,11,4,7,0,0,0,0,8,3,0,6,5,11
+Spinal fusion surgery,HUMIRA,11,1,10,0,0,0,0,4,11,2,6,3,11
+Splenectomy,EPREX STERILE SOLUTION,17,17,0,0,0,0,0,0,17,0,17,0,17
+Stent placement,LIPITOR,13,11,2,1,0,0,2,9,5,0,8,5,12
+Stent placement,PLAVIX,12,8,4,1,0,0,0,8,7,1,7,4,12
+Stent placement,REMICADE,17,8,9,0,0,0,0,13,8,0,15,2,17
+Surgery,ACLASTA,26,1,25,1,1,0,0,4,23,10,4,12,26
+Surgery,CALCIUM,17,3,14,0,0,0,0,9,11,3,7,7,17
+Surgery,CELEBREX,20,6,13,0,0,0,1,10,15,3,10,7,20
+Surgery,CLOZARIL,35,24,11,3,0,0,5,30,17,10,19,6,35
+Surgery,CRESTOR,14,8,6,0,0,0,0,10,8,2,7,5,14
+Surgery,ENBREL,18,3,14,0,0,0,0,8,8,1,12,5,16
+Surgery,EXJADE,17,13,4,0,0,0,2,14,14,3,2,12,17
+Surgery,FOLIC ACID,22,4,18,0,0,0,1,8,17,2,13,7,21
+Surgery,FORTEO,18,1,17,0,0,0,0,16,7,2,10,6,18
+Surgery,GABAPENTIN,11,1,10,1,0,0,0,8,5,2,8,1,11
+Surgery,HUMIRA,182,63,118,1,2,0,0,69,164,73,84,25,182
+Surgery,HYDROCHLOROTHIAZIDE,16,5,11,0,0,0,0,9,11,0,8,8,16
+Surgery,IMURAN,25,9,16,0,0,0,1,11,20,2,19,4,25
+Surgery,LEVOTHYROXINE,12,3,9,2,0,0,0,9,9,2,5,5,12
+Surgery,LIPITOR,13,6,7,2,0,0,0,9,9,1,6,6,13
+Surgery,LORAZEPAM,12,4,8,1,0,0,0,6,7,0,10,2,11
+Surgery,METFORMIN,12,5,7,0,0,0,2,7,8,0,6,6,12
+Surgery,METHOTREXATE,55,12,43,0,0,0,0,27,41,3,33,19,55
+Surgery,MULTIVITAMINE(S),11,3,8,0,1,0,0,4,8,1,7,3,11
+Surgery,NEXIUM,17,4,13,0,0,0,0,5,14,2,10,5,17
+Surgery,PLAVIX,11,6,5,0,0,0,0,6,8,1,4,6,11
+Surgery,PREDNISONE,46,16,30,2,0,0,0,28,31,7,28,11,46
+Surgery,REMICADE,434,184,239,4,3,0,6,202,292,56,320,58,432
+Surgery,SANDOSTATIN LAR,23,8,15,8,4,0,2,14,19,4,15,4,23
+Surgery,SANDOSTATIN LAR 20MG,14,8,6,4,0,0,4,12,13,0,12,2,14
+Surgery,SIMPONI,11,0,10,0,0,0,0,4,7,0,8,3,11
+Surgery,SYNTHROID,14,2,12,0,0,0,1,6,11,0,9,5,13
+Surgery,VITAMIN D,15,2,13,0,1,0,0,7,8,2,9,4,15
+Surgery,XOLAIR,15,13,2,0,0,0,0,2,15,1,12,2,15
+Therapeutic embolisation,SANDOSTATIN LAR 20MG,11,6,5,0,0,0,0,9,10,0,9,2,11
+Toe operation,REMICADE,20,1,19,0,0,0,0,12,10,1,9,10,20
+Tonsillectomy,REMICADE,19,7,12,0,0,0,0,11,8,6,13,0,19
+Tooth extraction,ACTONEL,15,0,15,0,0,0,0,7,10,0,9,6,13
+Tooth extraction,FOLIC ACID,15,4,11,0,0,0,0,6,10,1,9,5,15
+Tooth extraction,HUMIRA,26,3,23,0,0,0,0,4,26,2,21,3,26
+Tooth extraction,METHOTREXATE,18,1,17,0,0,0,0,5,14,1,11,6,18
+Tooth extraction,REMICADE,46,23,23,0,0,0,0,3,44,1,37,8,46
+Transfusion,ASA,14,5,9,0,2,0,0,5,10,0,2,12,14
+Transfusion,CALCIUM,19,10,9,2,0,0,0,14,13,1,6,12,19
+Transfusion,DEXAMETHASONE,19,9,10,1,2,0,0,7,17,0,6,13,19
+Transfusion,EPREX STERILE SOLUTION,49,26,21,0,0,0,4,13,47,3,20,26,49
+Transfusion,FOLIC ACID,16,7,9,0,0,0,1,12,13,0,9,7,16
+Transfusion,FUROSEMIDE,13,5,8,1,0,0,4,11,9,0,4,9,13
+Transfusion,HEPARIN SODIUM,16,1,1,0,0,0,0,2,14,14,0,2,16
+Transfusion,HUMIRA,29,13,16,0,0,0,1,26,21,5,23,1,29
+Transfusion,PEGASYS RBV,18,8,10,0,2,0,2,16,10,2,14,2,18
+Transfusion,PRADAX,11,6,5,1,0,0,2,9,1,2,0,9,11
+Transfusion,PREDNISONE,34,17,17,2,2,0,3,23,22,3,15,16,34
+Transfusion,REMICADE,37,11,25,3,0,0,0,27,13,3,24,10,37
+Transfusion,REVLIMID,86,46,40,3,9,0,2,32,77,0,25,61,85
+Transfusion,SOLIRIS,16,16,0,0,0,0,0,6,16,0,16,0,16
+Tumour excision,SANDOSTATIN LAR 30MG,11,5,6,2,0,0,0,8,11,0,11,0,11
+Uterine dilation and curettage,REMICADE,28,0,28,0,0,0,0,19,18,0,27,1,28
+Vascular graft,REMICADE,15,6,9,0,0,0,0,13,2,0,5,10,15
+Vasectomy,REMICADE,12,12,0,0,0,0,0,3,11,0,12,0,12
+Wisdom teeth removal,REMICADE,18,6,12,0,0,0,0,2,16,4,14,0,18
+Wound drainage,HUMIRA,16,2,14,0,0,0,0,6,12,1,9,6,16
+Wound drainage,REMICADE,15,7,8,4,0,0,0,8,7,0,12,3,15

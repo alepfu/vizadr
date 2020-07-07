@@ -1,0 +1,184 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Adrenal disorder,ACTEMRA,11,0,11,0,0,0,0,0,11,0,0,11,11
+Adrenal disorder,REMICADE,6,3,3,0,0,0,0,3,4,0,5,1,6
+Adrenal haemorrhage,HEPARIN SODIUM INJECTION, USP,14,4,0,1,1,0,10,0,2,10,2,2,14
+Adrenal insufficiency,ADVAIR,12,5,6,0,0,0,1,3,10,11,1,0,12
+Adrenal insufficiency,CAPRELSA,21,0,21,0,0,0,0,21,21,0,21,0,21
+Adrenal insufficiency,CORTEF,6,1,5,0,3,0,0,1,5,0,6,0,5
+Adrenal insufficiency,FENTANYL,9,3,6,0,1,0,1,6,7,1,6,2,9
+Adrenal insufficiency,FLOVENT,8,2,2,0,0,0,0,1,5,6,1,1,6
+Adrenal insufficiency,HUMIRA,6,1,5,0,1,0,0,4,3,0,3,3,6
+Adrenal insufficiency,METHOTREXATE,6,2,4,2,0,0,0,1,4,2,2,2,6
+Adrenal insufficiency,ORGARAN INJ.-750ANTI-XAUNIT/AMP1250UNIT/ML,6,2,4,1,0,0,0,0,5,0,5,1,6
+Adrenal insufficiency,PREDNISONE,20,11,8,2,0,0,0,9,15,7,7,6,20
+Adrenal insufficiency,XOLAIR,9,1,8,0,0,0,0,9,8,5,4,0,9
+Adrenal mass,CYCLOSPORINE,6,0,6,6,0,0,0,6,0,0,6,0,6
+Adrenal mass,SANDOSTATIN LAR,7,0,7,0,0,0,0,7,7,0,7,0,7
+Adrenal suppression,FLOVENT,12,1,7,0,0,0,0,4,8,9,3,0,12
+Adrenal suppression,FLUTICASONE,11,1,10,0,0,0,0,1,11,10,0,1,11
+Adrenal suppression,SALBUTAMOL,9,3,6,0,0,0,0,2,7,5,4,0,9
+Adrenocortical insufficiency acute,CAPRELSA,21,0,21,0,0,0,0,21,21,0,21,0,21
+Adrenocortical insufficiency acute,LEVOTHYROXINE,6,5,1,0,0,0,0,6,1,5,0,1,6
+Adrenocortical insufficiency acute,PREDNISONE,6,2,4,0,0,0,0,4,2,0,3,3,6
+Antidiuretic hormone abnormality,DILANTIN,6,3,2,0,0,0,0,6,0,2,2,2,6
+Antidiuretic hormone abnormality,HYDROCHLOROTHIAZIDE,7,0,7,0,0,0,0,1,0,2,2,3,5
+Antidiuretic hormone abnormality,PROZAC,8,3,4,1,0,0,0,0,0,1,0,7,2
+Carcinoid crisis,SANDOSTATIN LAR 30MG,8,1,7,0,0,0,0,2,8,0,2,6,8
+Cushing's syndrome,BUPROPION,6,0,6,0,0,0,0,3,0,0,6,0,6
+Cushing's syndrome,FLUTICASONE,6,5,1,0,0,0,0,0,6,1,5,0,6
+Cushing's syndrome,KALETRA,6,2,4,0,0,0,0,0,6,0,6,0,6
+Cushing's syndrome,PREDNISONE,17,5,12,0,1,0,0,3,10,4,10,3,15
+Cushing's syndrome,RITONAVIR,6,3,3,0,0,0,0,0,6,0,6,0,6
+Cushingoid,APO-PREDNISONE,6,0,6,0,0,0,0,0,6,6,0,0,6
+Cushingoid,DEXAMETHASONE,7,6,1,0,0,0,0,3,6,2,1,4,7
+Cushingoid,DOCETAXEL,6,6,0,0,0,0,0,5,5,0,0,6,6
+Cushingoid,PREDNISONE,17,11,6,0,0,0,0,6,14,6,5,6,16
+Cushingoid,RITUXAN,7,5,2,0,0,0,1,7,6,5,2,0,7
+Cushingoid,TYLENOL,10,0,10,0,0,0,9,9,10,0,9,1,10
+Diabetes insipidus,ATIVAN,6,3,3,0,0,0,1,4,3,0,5,1,5
+Diabetes insipidus,LITHIUM,17,4,12,0,0,0,0,3,8,2,13,2,13
+Diabetes insipidus,LITHIUM CARBONATE,6,3,2,0,0,0,0,2,2,1,3,2,4
+Diabetes insipidus,QUETIAPINE,8,1,7,0,0,0,1,2,7,0,8,0,8
+Diabetes insipidus,RISPERIDONE,9,0,9,0,0,0,0,0,9,0,9,0,9
+Diabetes insipidus,ZYPREXA,9,5,4,0,0,0,0,9,2,0,9,0,9
+Goitre,REMICADE,11,7,4,0,0,0,0,1,11,0,11,0,11
+Hyperparathyroidism,EPREX STERILE SOLUTION,19,8,11,3,3,0,8,10,17,1,15,3,18
+Hyperparathyroidism,PREDNISONE,6,4,2,0,0,0,1,3,4,0,5,1,6
+Hyperparathyroidism,VITAMIN D,6,0,6,1,1,0,0,3,2,1,2,3,6
+Hyperprolactinaemia,DIPHENHYDRAMINE,6,0,5,6,0,0,2,2,4,6,0,0,6
+Hyperprolactinaemia,LOXAPINE,6,0,5,6,0,0,2,2,4,6,0,0,6
+Hyperprolactinaemia,NORTRIPTYLINE,8,0,7,7,0,0,2,3,5,7,1,0,8
+Hyperprolactinaemia,OLANZAPINE,14,0,12,14,0,0,4,6,9,14,0,0,14
+Hyperprolactinaemia,RISPERDAL,7,2,5,0,2,0,0,1,3,1,6,0,6
+Hyperprolactinaemia,RISPERIDONE,25,0,21,25,0,0,8,9,18,25,0,0,25
+Hyperprolactinaemia,VENLAFAXINE XR,8,0,7,7,0,0,2,2,6,7,1,0,8
+Hyperprolactinaemia,ZYPREXA,12,6,6,0,0,0,0,5,7,0,12,0,12
+Hyperthyroidism,AMIODARONE,76,21,8,3,0,0,2,13,60,47,19,10,75
+Hyperthyroidism,ASA,8,7,1,0,0,0,1,4,2,0,5,3,7
+Hyperthyroidism,BETASERON,9,3,5,0,0,0,0,3,7,0,8,1,9
+Hyperthyroidism,CORDARONE,8,6,1,0,0,0,0,3,1,0,6,2,7
+Hyperthyroidism,COUMADIN,8,6,2,0,0,0,0,5,4,0,6,2,7
+Hyperthyroidism,CRESTOR,6,1,5,1,0,0,0,2,3,0,3,3,6
+Hyperthyroidism,DIGOXIN,8,4,3,1,0,0,0,4,3,0,6,2,8
+Hyperthyroidism,FUROSEMIDE,10,5,4,3,0,0,0,5,2,0,7,3,10
+Hyperthyroidism,LASIX,6,3,3,0,0,0,0,5,0,0,3,3,5
+Hyperthyroidism,LEVOTHYROXINE,8,1,7,0,0,0,0,3,4,0,4,4,7
+Hyperthyroidism,LIPITOR,7,5,2,1,0,0,1,1,2,0,2,5,5
+Hyperthyroidism,LITHIUM,7,3,4,2,0,0,0,0,4,0,7,0,6
+Hyperthyroidism,METOPROLOL,11,6,5,1,0,0,1,5,3,0,7,4,10
+Hyperthyroidism,PEGASYS RBV,6,2,2,0,0,0,0,0,6,2,4,0,6
+Hyperthyroidism,PEGETRON,9,4,5,1,0,0,0,0,8,2,6,1,9
+Hyperthyroidism,PREDNISONE,16,12,4,1,0,0,2,5,7,0,6,10,15
+Hyperthyroidism,PROPYLTHIOURACIL,12,6,5,3,0,0,2,2,5,0,9,3,12
+Hyperthyroidism,REBETRON,15,11,3,1,0,0,0,1,12,3,12,0,14
+Hyperthyroidism,REMICADE,9,4,5,0,0,0,0,6,3,0,8,1,9
+Hyperthyroidism,SYNTHROID,19,5,14,0,2,0,1,5,10,2,15,2,16
+Hyperthyroidism,TAPAZOLE 5MG TABLET,8,7,1,0,0,0,0,4,4,0,7,1,8
+Hyperthyroidism,WARFARIN,11,4,6,1,0,0,0,9,2,0,9,2,11
+Hyperthyroidism,XOLAIR,8,0,8,0,0,0,0,0,8,2,6,0,8
+Hypoparathyroidism,SYNTHROID,8,0,8,0,7,0,0,1,7,0,8,0,8
+Hypothyroidism,ACETAMINOPHEN,14,0,14,0,0,0,0,1,7,2,2,10,14
+Hypothyroidism,AMIODARONE,22,12,10,0,0,0,2,6,15,8,5,9,21
+Hypothyroidism,AMIODARONE HCL,7,4,3,0,0,0,0,0,0,0,4,3,5
+Hypothyroidism,ASA,9,6,2,0,1,0,1,5,3,1,4,4,7
+Hypothyroidism,ATIVAN,9,4,5,1,1,0,2,2,6,1,5,3,9
+Hypothyroidism,AVASTIN,6,0,5,0,0,0,0,0,1,1,4,1,2
+Hypothyroidism,BETASERON,8,0,8,0,0,0,0,1,6,1,7,0,7
+Hypothyroidism,BETHIODYL,6,3,2,0,0,0,0,0,0,1,4,1,4
+Hypothyroidism,CALCIUM,7,1,6,0,0,0,2,2,7,2,2,3,7
+Hypothyroidism,CELEBREX,6,1,5,0,1,0,0,2,4,0,3,3,6
+Hypothyroidism,CELEXA,6,0,6,0,0,0,0,3,4,0,6,0,6
+Hypothyroidism,CLONAZEPAM,8,3,5,1,3,0,0,2,2,1,7,0,8
+Hypothyroidism,CLOZARIL,16,7,9,2,0,0,6,5,13,5,10,1,16
+Hypothyroidism,COLACE,9,6,3,0,0,0,2,2,8,2,3,4,9
+Hypothyroidism,CORDARONE,14,9,5,0,0,0,0,0,1,0,6,8,8
+Hypothyroidism,CRESTOR,9,4,4,1,2,0,0,1,6,2,3,4,8
+Hypothyroidism,DIGOXIN,12,9,3,1,0,0,0,2,3,0,5,7,8
+Hypothyroidism,DIPHENHYDRAMINE HYDROCHLORIDE,7,0,7,0,0,0,0,0,3,1,1,5,7
+Hypothyroidism,ELTROXIN,13,3,9,0,0,0,1,2,5,1,10,2,9
+Hypothyroidism,EPIVAL,8,4,2,0,0,0,1,1,5,4,2,2,5
+Hypothyroidism,FOLIC ACID,8,1,7,0,0,0,0,0,6,1,5,2,8
+Hypothyroidism,FUROSEMIDE,12,4,8,0,0,0,0,6,3,0,6,6,9
+Hypothyroidism,HYDROCHLOROTHIAZIDE,6,1,5,0,0,0,0,1,4,1,3,2,6
+Hypothyroidism,IMOVANE,6,2,4,0,0,0,0,0,5,1,3,2,5
+Hypothyroidism,L-THYROXINE,9,4,5,0,0,0,0,2,3,0,6,3,6
+Hypothyroidism,LASIX,7,6,1,1,0,0,0,0,2,0,2,5,5
+Hypothyroidism,LEVOTHYROXINE,27,16,10,0,0,0,2,15,8,14,10,3,22
+Hypothyroidism,LIPITOR,17,9,8,0,0,0,1,5,10,2,5,10,13
+Hypothyroidism,LITHIUM,8,1,7,0,2,0,0,2,3,0,7,1,7
+Hypothyroidism,LITHIUM CARBONATE,10,5,3,0,0,0,0,0,1,4,4,2,9
+Hypothyroidism,LORAZEPAM,12,4,8,1,2,0,1,2,9,1,8,3,12
+Hypothyroidism,LOSEC,8,3,5,0,0,0,1,3,3,0,7,1,6
+Hypothyroidism,METFORMIN,8,3,5,0,0,0,1,3,6,1,5,2,7
+Hypothyroidism,METHOTREXATE,6,0,6,0,0,0,0,0,5,1,4,1,6
+Hypothyroidism,METHYLPREDNISOLONE,6,0,6,0,0,0,0,0,3,1,1,4,6
+Hypothyroidism,METOPROLOL,13,6,7,2,0,0,1,7,9,0,8,5,13
+Hypothyroidism,MULTIVITAMINE(S),6,3,3,0,0,0,0,1,5,0,5,1,6
+Hypothyroidism,OXAZEPAM,6,2,4,0,0,0,1,2,2,0,4,2,5
+Hypothyroidism,PEGASYS RBV,9,2,7,0,1,0,0,2,8,0,9,0,9
+Hypothyroidism,PEGETRON,11,2,9,0,0,0,0,1,10,0,10,1,11
+Hypothyroidism,PREDNISONE,16,5,11,0,1,0,1,5,9,0,11,5,16
+Hypothyroidism,RAMIPRIL,7,2,5,1,0,0,0,4,4,0,4,3,7
+Hypothyroidism,RANITIDINE,6,4,2,0,1,0,0,2,2,1,4,1,5
+Hypothyroidism,REBETRON,8,3,4,0,0,0,0,0,7,1,7,0,7
+Hypothyroidism,REMICADE,8,2,6,0,0,0,0,0,8,0,8,0,8
+Hypothyroidism,RITUXAN,10,0,10,0,0,0,0,0,6,1,2,7,10
+Hypothyroidism,SANDOSTATIN LAR,7,1,6,2,1,0,0,2,6,0,5,2,7
+Hypothyroidism,SEROQUEL,8,2,6,0,1,0,1,3,5,2,6,0,8
+Hypothyroidism,SUTENT,8,5,3,2,0,0,0,3,4,4,0,4,6
+Hypothyroidism,SYNTHROID,65,17,47,1,2,0,4,16,36,13,36,16,56
+Hypothyroidism,TRAZODONE,6,0,5,0,3,0,0,1,1,2,4,0,5
+Hypothyroidism,VITAMIN D,6,1,5,0,0,0,0,0,5,1,3,2,5
+Hypothyroidism,WARFARIN,9,3,6,0,0,0,0,7,2,0,7,2,8
+Hypothyroidism,ZYPREXA,11,6,5,0,0,0,0,4,7,2,7,2,11
+Inappropriate antidiuretic hormone secretion,ACETAMINOPHEN,8,4,4,0,1,0,0,4,2,3,1,4,7
+Inappropriate antidiuretic hormone secretion,ALLOPURINOL,6,4,2,0,1,0,3,1,1,4,0,2,6
+Inappropriate antidiuretic hormone secretion,ASA,7,3,4,0,0,0,0,6,2,0,0,7,7
+Inappropriate antidiuretic hormone secretion,ATIVAN,10,6,4,0,1,0,1,8,1,0,5,5,9
+Inappropriate antidiuretic hormone secretion,BUPROPION,9,0,9,0,0,0,0,6,0,0,8,1,9
+Inappropriate antidiuretic hormone secretion,CALCIUM,6,1,5,0,0,0,0,4,2,0,0,6,6
+Inappropriate antidiuretic hormone secretion,CARBAMAZEPINE,10,6,4,1,0,0,0,6,7,3,4,3,10
+Inappropriate antidiuretic hormone secretion,CITALOPRAM,7,3,4,0,1,0,2,4,2,1,2,4,7
+Inappropriate antidiuretic hormone secretion,CODEINE,6,3,3,0,2,0,1,2,3,3,1,2,6
+Inappropriate antidiuretic hormone secretion,CYTARABINE INJECTION,7,3,4,1,2,0,2,2,2,7,0,0,7
+Inappropriate antidiuretic hormone secretion,DEXAMETHASONE,7,3,4,0,1,0,2,2,2,5,0,2,7
+Inappropriate antidiuretic hormone secretion,DIMENHYDRINATE,9,3,6,0,1,0,2,3,2,7,1,1,8
+Inappropriate antidiuretic hormone secretion,DOXORUBICIN HYDROCHLORIDE INJECTION,6,2,4,0,1,0,2,2,1,6,0,0,6
+Inappropriate antidiuretic hormone secretion,FLUID(S) RESTRICTION,9,4,5,0,0,0,0,8,1,0,1,8,9
+Inappropriate antidiuretic hormone secretion,FUROSEMIDE,11,3,8,0,1,0,1,7,2,4,1,6,10
+Inappropriate antidiuretic hormone secretion,HYDROCHLOROTHIAZIDE,9,3,6,0,0,0,1,6,0,1,1,7,7
+Inappropriate antidiuretic hormone secretion,LANSOPRAZOLE,6,3,3,0,1,0,2,3,2,5,1,0,6
+Inappropriate antidiuretic hormone secretion,LEVOTHYROXINE,7,1,6,0,0,0,2,4,4,1,1,5,7
+Inappropriate antidiuretic hormone secretion,LORAZEPAM,9,4,5,0,1,0,2,4,3,3,3,3,7
+Inappropriate antidiuretic hormone secretion,METFORMIN,9,5,4,0,0,0,0,8,1,0,3,6,9
+Inappropriate antidiuretic hormone secretion,METHOTREXATE,13,6,7,2,1,0,4,3,6,11,0,2,13
+Inappropriate antidiuretic hormone secretion,NORVASC,6,1,5,0,1,0,1,5,0,0,1,5,6
+Inappropriate antidiuretic hormone secretion,ONDANSETRON,8,3,5,0,1,0,3,2,2,8,0,0,8
+Inappropriate antidiuretic hormone secretion,PANTOPRAZOLE,8,2,6,0,1,0,2,3,3,3,3,2,8
+Inappropriate antidiuretic hormone secretion,PAXIL,8,2,6,0,1,0,0,6,1,0,3,5,7
+Inappropriate antidiuretic hormone secretion,PREDNISONE,9,3,6,0,1,0,1,3,4,4,0,5,9
+Inappropriate antidiuretic hormone secretion,QUETIAPINE,7,0,7,0,0,0,2,5,1,2,3,2,7
+Inappropriate antidiuretic hormone secretion,RANITIDINE,10,4,6,0,1,0,1,5,3,4,2,4,9
+Inappropriate antidiuretic hormone secretion,SODIUM CHLORIDE,7,1,6,0,0,0,1,5,0,1,3,3,5
+Inappropriate antidiuretic hormone secretion,SYNTHROID,6,1,5,0,0,0,0,4,1,0,2,4,5
+Inappropriate antidiuretic hormone secretion,TEGRETOL,13,4,9,0,0,0,0,10,1,0,8,5,11
+Inappropriate antidiuretic hormone secretion,VINCRISTINE SULFATE INJECTION USP,17,4,13,1,3,0,2,11,2,17,0,0,17
+Inappropriate antidiuretic hormone secretion,ZYPREXA,7,6,1,0,0,0,1,6,1,0,7,0,6
+Inappropriate antidiuretic hormone secretion,ZYPREXA - 5MG,17,16,1,0,0,0,0,1,16,0,17,0,17
+Primary hypogonadism,CYCLOPHOSPHAMIDE,8,3,5,0,0,0,0,0,8,4,4,0,8
+Primary hypogonadism,VEPESID,13,4,9,0,0,0,0,0,13,9,4,0,13
+Steroid withdrawal syndrome,PREDNISONE,6,6,0,0,0,0,0,0,6,3,3,0,6
+Thyroid disorder,ACETAMINOPHEN,8,2,6,0,0,0,0,1,3,1,2,5,6
+Thyroid disorder,ACTEMRA,10,0,10,0,0,0,0,3,6,0,3,7,6
+Thyroid disorder,AVASTIN,6,6,0,0,0,0,0,3,3,0,6,0,6
+Thyroid disorder,LEVOTHYROXINE,6,2,4,0,0,0,0,1,5,0,4,2,6
+Thyroid disorder,LIPITOR,8,3,5,0,3,0,0,4,2,0,7,1,8
+Thyroid disorder,PREDNISONE,8,0,8,0,0,0,0,2,5,0,7,1,8
+Thyroid disorder,REMICADE,9,0,9,0,0,0,0,2,8,0,9,0,9
+Thyroid disorder,SANDOSTATIN LAR,11,3,8,0,0,0,0,8,10,2,2,7,11
+Thyroid disorder,SANDOSTATIN LAR 30MG,6,1,5,0,0,0,0,4,6,1,1,4,6
+Thyroid disorder,SYNTHROID,19,1,18,0,0,0,0,3,8,4,7,8,12
+Thyroid disorder,XOLAIR,7,1,6,0,0,0,0,0,7,0,7,0,7
+Thyroid mass,EXJADE,8,0,8,0,0,0,0,0,8,0,8,0,8
+Thyroid mass,REMICADE,7,1,6,0,3,0,0,4,3,2,5,0,7
+Thyroiditis,AMIODARONE,8,8,0,0,0,0,0,3,6,0,6,2,8

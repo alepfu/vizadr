@@ -1,0 +1,198 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Blindness,PREDNISONE,33,11,22,2,8,0,2,7,14,1,15,17,31
+Blindness,SYNTHROID,37,7,30,1,16,0,2,7,23,3,20,14,36
+Blindness,ZYPREXA,53,29,24,0,10,0,4,23,38,2,49,2,53
+Cataract,ACLASTA,39,3,36,0,0,0,0,3,39,15,3,21,39
+Cataract,FOLIC ACID,48,5,43,2,2,0,0,4,38,6,12,30,45
+Cataract,HUMIRA,65,14,51,0,0,0,0,7,61,13,18,34,65
+Cataract,LIPITOR,38,12,26,0,5,0,0,5,32,4,16,18,36
+Cataract,METHOTREXATE,64,8,56,0,2,0,0,4,52,6,19,39,60
+Cataract,PREDNISONE,62,17,45,0,3,0,0,10,45,6,30,26,56
+Cataract,REMICADE,152,54,94,5,1,0,1,14,138,16,56,80,152
+Cataract,SYNTHROID,33,6,27,0,0,0,1,1,29,2,12,19,31
+Cataract,XALATAN,39,9,30,0,1,0,0,0,38,2,3,34,38
+Cataract,ZYPREXA,72,51,21,4,6,0,0,26,57,0,62,10,72
+Conjunctivitis,BENADRYL,111,39,68,1,0,0,6,15,8,21,67,23,44
+Conjunctivitis,PREDNISONE,65,26,39,0,1,0,6,30,6,13,36,16,46
+Conjunctivitis,TYLENOL,34,11,23,0,0,0,1,6,7,14,15,5,18
+Corneal deposits,AMIODARONE HCL,31,19,12,0,0,0,0,0,1,0,20,11,31
+Diabetic retinopathy,ZYPREXA,33,22,11,5,0,0,0,26,29,0,33,0,33
+Diplopia,LYRICA,37,13,23,0,4,0,0,8,24,5,16,16,30
+Diplopia,PREDNISONE,31,6,24,1,2,0,1,10,18,5,23,3,29
+Diplopia,REMICADE,32,13,17,0,2,0,0,7,25,2,26,4,31
+Eye discharge,XOLAIR,47,13,34,2,0,0,0,43,45,0,47,0,47
+Eye disorder,DIPHTHERIA AND TETANUS TOXOIDS WITH PERTUSSIS VACCINE ADSORBED,105,53,48,0,0,0,0,19,3,102,3,0,64
+Eye disorder,EXJADE,33,15,17,0,0,0,0,29,32,2,11,20,33
+Eye disorder,PREDNISONE,34,7,27,1,0,0,2,13,15,3,23,8,30
+Eye disorder,SABIN,64,35,27,0,0,0,0,15,2,63,1,0,43
+Eye disorder,TEMPRA,33,23,10,0,0,0,0,4,2,32,1,0,22
+Eye disorder,TYLENOL,35,16,19,1,0,0,2,10,8,20,10,5,28
+Eye haemorrhage,LUCENTIS,40,10,30,0,0,0,0,1,38,16,2,22,39
+Eye irritation,BENADRYL,52,16,34,0,0,0,1,6,18,3,44,5,27
+Eye irritation,COMPLETE ALL-IN-ONE SOLUTION,37,11,25,0,6,0,0,0,16,11,26,0,22
+Eye irritation,XALATAN,36,7,26,0,1,0,0,2,22,8,7,21,24
+Eye irritation,XOLAIR,33,21,11,2,0,0,0,27,26,1,27,5,33
+Eye pain,ACLASTA,53,11,42,0,8,0,8,2,47,7,18,28,51
+Eye pain,ACTONEL,36,0,34,0,4,0,2,0,12,9,9,18,17
+Eye pain,COMPLETE ALL-IN-ONE SOLUTION,35,11,24,0,10,0,0,1,14,12,23,0,25
+Eye pain,GILENYA,31,7,24,0,0,0,0,1,28,1,30,0,29
+Eye pain,LUCENTIS,51,12,35,1,2,0,0,2,47,18,8,25,50
+Eye pain,PREDNISONE,57,15,42,1,5,0,3,12,25,1,45,11,46
+Eye pain,REMICADE,65,16,48,0,3,0,1,4,51,6,52,7,58
+Eye pain,SYNTHROID,41,6,35,1,7,0,0,5,18,9,18,14,26
+Eye pain,TYLENOL,34,9,25,1,1,0,0,6,14,6,16,12,20
+Eye pain,VITAMIN D,38,8,30,1,7,0,1,9,16,3,19,16,32
+Eye pain,XOLAIR,42,1,41,2,0,0,0,2,35,1,41,0,39
+Eye pruritus,XOLAIR,89,33,54,0,0,0,0,7,81,4,82,3,84
+Eye swelling,GLEEVEC,41,9,32,0,0,0,0,8,37,23,11,7,37
+Eye swelling,PREDNISONE,38,14,24,2,1,0,1,8,30,2,26,10,36
+Eye swelling,REMICADE,86,26,58,0,1,0,3,7,78,5,74,7,86
+Eye swelling,XOLAIR,39,12,27,0,0,0,0,13,39,0,36,3,39
+Eyelid oedema,BENADRYL,109,37,69,0,1,0,15,17,41,31,66,12,73
+Eyelid oedema,DIPHENHYDRAMINE,35,6,28,0,1,0,5,10,14,13,19,3,28
+Eyelid oedema,PREDNISONE,52,11,41,0,0,0,8,19,24,7,35,10,46
+Eyelid oedema,REMICADE,36,10,26,0,0,0,1,3,32,5,29,2,36
+Iritis,REMICADE,59,28,30,0,0,0,0,5,57,0,59,0,59
+Lacrimal disorder,ALLEGRA,38,19,18,0,0,0,0,0,0,8,30,0,0
+Lacrimation increased,REMICADE,56,29,27,0,0,0,2,5,46,15,35,6,53
+Lacrimation increased,XOLAIR,94,53,40,0,0,0,0,20,83,8,71,15,93
+Macular oedema,AVANDIA,40,9,24,0,8,0,0,0,31,18,9,13,38
+Ocular hyperaemia,BENADRYL,33,15,18,0,0,0,0,2,14,3,19,11,15
+Ocular hyperaemia,COMPLETE ALL-IN-ONE SOLUTION,43,16,26,0,9,0,0,1,14,13,30,0,24
+Ocular hyperaemia,PREDNISONE,34,11,22,0,1,0,2,5,19,7,20,7,31
+Ocular hyperaemia,REMICADE,76,37,38,0,0,0,3,6,67,1,68,7,74
+Ocular hyperaemia,SYNTHROID,35,7,28,0,4,0,1,6,11,5,13,17,21
+Ocular hyperaemia,XOLAIR,31,16,15,0,0,0,0,10,30,7,20,4,30
+Oculogyric crisis,COGENTIN,58,22,32,1,0,0,0,3,1,29,28,1,37
+Oculogyric crisis,DIPHTHERIA AND TETANUS TOXOIDS WITH PERTUSSIS VACCINE ADSORBED,107,55,50,0,0,0,0,35,1,106,1,0,88
+Oculogyric crisis,HALDOL,35,18,13,1,0,0,0,2,0,14,20,1,26
+Oculogyric crisis,SABIN,74,38,34,0,0,0,0,28,0,73,1,0,61
+Oculogyric crisis,STEMETIL,82,18,59,1,0,0,0,3,1,44,36,2,56
+Oculogyric crisis,TYLENOL,31,9,22,0,0,0,0,13,1,29,1,1,26
+Periorbital oedema,ACETAMINOPHEN,31,13,17,1,0,0,0,5,4,13,12,6,12
+Periorbital oedema,ACETYLSALICYLIC ACID,34,18,15,0,1,0,1,1,3,15,13,6,9
+Periorbital oedema,ADRENALIN CHLORIDE SOL 1:1000,85,32,50,0,0,0,3,27,6,28,54,3,58
+Periorbital oedema,AMOXIL,36,13,23,0,0,0,0,8,2,20,12,4,13
+Periorbital oedema,AMPICILLIN,49,16,33,0,0,0,0,1,1,12,23,14,8
+Periorbital oedema,ATARAX,59,15,43,1,0,0,1,17,3,7,40,12,26
+Periorbital oedema,BENADRYL,475,152,310,0,1,0,11,87,47,129,279,67,218
+Periorbital oedema,CHLOR-TRIPOLON,76,30,42,0,0,0,0,3,1,19,48,9,25
+Periorbital oedema,DALMANE,33,11,21,0,0,0,0,0,1,7,20,6,7
+Periorbital oedema,DEMEROL,80,23,55,0,0,0,0,1,3,16,55,9,11
+Periorbital oedema,DIPHENHYDRAMINE,78,25,51,2,1,0,2,26,9,21,37,20,48
+Periorbital oedema,DIPHTHERIA AND TETANUS TOXOIDS WITH PERTUSSIS VACCINE ADSORBED,49,28,20,0,0,0,0,8,0,47,2,0,23
+Periorbital oedema,EPINEPHRINE,51,14,37,2,0,0,3,23,10,14,33,4,44
+Periorbital oedema,FUROSEMIDE,31,8,23,3,0,0,1,11,1,5,9,17,16
+Periorbital oedema,GRAVOL,59,17,40,1,0,0,1,4,2,13,36,10,15
+Periorbital oedema,HYDROCORTISONE,44,14,29,2,0,0,1,10,5,11,19,14,26
+Periorbital oedema,HYPAQUE SODIUM,32,11,15,0,0,0,0,0,0,14,16,2,5
+Periorbital oedema,HYPAQUE-M,48,17,28,0,0,0,0,1,0,21,25,2,11
+Periorbital oedema,MMR II,32,18,14,0,0,0,0,8,0,32,0,0,16
+Periorbital oedema,MORPHINE,40,14,24,3,0,0,2,7,1,13,22,5,14
+Periorbital oedema,PENBRITIN,31,13,16,0,0,0,0,0,0,11,13,7,4
+Periorbital oedema,PREDNISONE,119,47,69,1,4,0,1,51,16,20,77,22,86
+Periorbital oedema,RANITIDINE,31,10,21,2,0,0,2,14,2,9,15,7,21
+Periorbital oedema,RENOGRAFIN-76 - LIQ IV,31,16,15,0,0,0,0,0,0,10,20,1,11
+Periorbital oedema,SABIN,41,23,18,0,0,0,0,9,0,39,2,0,22
+Periorbital oedema,SEPTRA,32,14,18,1,0,0,1,4,1,11,15,6,12
+Periorbital oedema,SOLU-CORTEF,87,41,44,0,0,0,2,33,9,23,55,9,64
+Periorbital oedema,SOLU-MEDROL,40,14,23,0,0,0,2,17,6,8,28,4,31
+Periorbital oedema,SYNTHROID,31,3,28,0,0,0,1,3,7,3,14,14,14
+Periorbital oedema,TYLENOL,69,29,37,0,0,0,1,10,4,28,28,13,26
+Periorbital oedema,VENTOLIN,39,15,23,0,0,0,1,8,7,7,23,9,20
+Photophobia,COMPLETE ALL-IN-ONE SOLUTION,35,11,24,0,11,0,0,1,14,8,27,0,26
+Uveitis,REMICADE,63,25,37,0,0,0,0,4,60,9,52,2,63
+Vision blurred,ACETAMINOPHEN,32,13,19,0,2,0,2,6,15,4,20,8,23
+Vision blurred,ACETYLSALICYLIC ACID,36,19,17,1,3,0,0,6,10,4,21,11,21
+Vision blurred,ACTONEL,35,3,30,1,5,0,1,2,12,2,11,22,16
+Vision blurred,ALTACE,38,13,24,0,9,0,1,8,13,1,22,15,27
+Vision blurred,AMITRIPTYLINE,34,12,22,0,3,0,0,7,15,6,24,4,26
+Vision blurred,ASA,64,35,27,0,5,0,1,9,27,1,29,34,39
+Vision blurred,ASPIRIN,43,23,20,0,4,0,3,7,21,1,20,22,33
+Vision blurred,ATENOLOL TABLETS, BP,35,16,19,0,4,0,1,7,13,3,13,19,25
+Vision blurred,ATIVAN,86,25,59,0,8,0,2,13,46,11,54,21,61
+Vision blurred,AVASTIN,31,10,19,0,0,0,0,1,22,1,24,6,22
+Vision blurred,BENADRYL,58,16,40,1,1,0,3,14,14,11,42,5,36
+Vision blurred,BETASERON,61,12,49,0,6,0,0,19,44,0,61,0,55
+Vision blurred,CALCIUM,67,11,56,1,10,0,1,9,36,1,32,34,52
+Vision blurred,CELEBREX,47,16,31,0,11,0,1,6,24,3,28,16,38
+Vision blurred,CLONAZEPAM,65,20,44,1,10,0,4,16,36,7,50,8,51
+Vision blurred,COGENTIN,92,28,27,0,0,0,1,6,5,50,40,2,25
+Vision blurred,CRESTOR,49,21,28,0,9,0,2,10,19,5,21,23,33
+Vision blurred,CYMBALTA,43,4,38,0,13,0,1,6,20,4,26,13,31
+Vision blurred,DEXAMETHASONE,33,11,21,2,2,0,1,7,19,3,16,14,27
+Vision blurred,DIGOXIN,36,21,15,0,0,0,1,10,2,1,7,28,18
+Vision blurred,EFFEXOR XR,50,19,31,0,2,0,2,12,31,3,44,3,38
+Vision blurred,ELAVIL,36,10,26,0,3,0,1,1,4,3,28,5,12
+Vision blurred,ENBREL,34,11,20,0,1,0,1,3,22,3,23,8,26
+Vision blurred,ESTRADERM,44,0,42,0,0,0,0,2,2,9,32,3,5
+Vision blurred,EXJADE,42,9,33,8,1,0,0,31,38,2,3,37,40
+Vision blurred,FOLIC ACID,42,13,29,1,4,0,0,8,23,4,24,14,35
+Vision blurred,FUROSEMIDE,40,14,25,1,6,0,1,9,9,4,11,25,24
+Vision blurred,GABAPENTIN,43,10,31,0,5,0,0,7,26,7,31,5,34
+Vision blurred,GILENYA,46,13,33,0,0,0,0,0,42,3,43,0,42
+Vision blurred,GRAVOL,37,5,32,0,4,0,1,8,8,1,29,7,26
+Vision blurred,HUMIRA,49,13,36,0,3,0,1,14,38,3,36,10,48
+Vision blurred,HYDROCHLOROTHIAZIDE,53,16,36,1,5,0,2,9,22,4,17,32,39
+Vision blurred,INH,44,16,28,0,0,0,0,2,0,19,17,8,10
+Vision blurred,LARGACTIL,41,12,10,0,0,0,0,0,0,25,15,1,12
+Vision blurred,LASIX,36,13,23,0,1,0,1,6,10,1,16,19,20
+Vision blurred,LIPITOR,90,34,55,1,11,0,3,12,40,5,38,47,59
+Vision blurred,LORAZEPAM,73,22,50,1,5,0,5,14,27,15,46,12,47
+Vision blurred,LOSEC,47,11,36,0,8,0,3,7,14,2,31,14,31
+Vision blurred,LUCENTIS,33,9,21,0,0,0,0,0,27,18,2,13,27
+Vision blurred,LYRICA,133,32,98,0,14,0,1,13,82,19,72,42,100
+Vision blurred,METFORMIN,59,16,42,1,11,0,2,9,28,2,29,28,47
+Vision blurred,METHOTREXATE,53,18,32,0,6,0,1,12,36,5,31,17,48
+Vision blurred,METOPROLOL,59,30,29,0,5,0,1,16,26,2,25,32,41
+Vision blurred,MORPHINE,32,10,22,0,2,0,3,7,14,4,20,8,25
+Vision blurred,MULTIVITAMINE(S),51,16,34,0,4,0,3,8,27,3,30,18,35
+Vision blurred,NEXIUM,37,14,23,0,4,0,0,10,19,5,22,10,30
+Vision blurred,NORVASC,42,18,23,0,8,0,1,8,17,4,10,28,28
+Vision blurred,NOZINAN,44,12,24,0,0,0,0,2,1,9,33,2,10
+Vision blurred,PANTOLOC,44,12,32,0,5,0,2,9,22,2,20,22,35
+Vision blurred,PAXIL,49,14,35,1,4,0,1,8,16,9,38,2,30
+Vision blurred,PLAVIX,36,17,19,0,4,0,1,7,16,2,12,22,25
+Vision blurred,PREDNISONE,125,35,88,1,12,0,1,36,60,9,78,38,104
+Vision blurred,PREMARIN,41,0,40,0,3,0,1,6,13,8,28,5,23
+Vision blurred,RANITIDINE,41,15,25,1,2,0,2,13,12,1,32,8,28
+Vision blurred,REMICADE,161,76,82,1,2,0,2,33,124,10,126,25,152
+Vision blurred,SANDOSTATIN LAR 30MG,38,16,22,2,0,0,0,16,34,0,17,21,38
+Vision blurred,STEMETIL,38,5,20,0,0,0,0,0,3,23,13,2,13
+Vision blurred,SYNTHROID,89,10,78,0,12,0,2,14,40,6,49,34,58
+Vision blurred,TYLENOL,67,19,46,1,9,0,1,14,35,6,47,14,51
+Vision blurred,VENTOLIN,53,14,37,0,5,0,2,7,22,6,34,13,34
+Vision blurred,VITAMIN D,83,23,60,2,13,0,3,17,39,4,42,37,60
+Vision blurred,XOLAIR,54,18,36,2,0,0,0,12,48,2,44,8,54
+Vision blurred,ZOPICLONE,44,15,29,0,3,0,1,7,28,2,33,9,34
+Vision blurred,ZYPREXA,83,49,34,0,1,0,0,37,57,5,77,1,81
+Visual acuity reduced,LIPITOR,39,20,19,2,9,0,1,7,18,1,15,23,33
+Visual acuity reduced,LUCENTIS,96,31,64,0,2,0,0,2,78,43,10,43,81
+Visual acuity reduced,PREDNISONE,42,12,30,0,5,0,1,15,19,6,29,7,37
+Visual acuity reduced,REMICADE,36,8,28,1,5,0,0,5,25,1,28,7,32
+Visual acuity reduced,SYNTHROID,32,3,29,0,9,0,0,6,22,2,16,14,27
+Visual impairment,ACETAMINOPHEN,35,13,22,0,4,0,1,10,19,5,17,13,30
+Visual impairment,ACLASTA,39,6,33,0,1,0,8,1,38,3,4,32,39
+Visual impairment,ASA,37,16,21,1,9,0,5,7,19,3,18,16,31
+Visual impairment,ASPIRIN,43,14,29,1,8,0,2,10,18,1,24,18,34
+Visual impairment,ATIVAN,43,15,27,0,4,0,1,7,19,9,24,10,32
+Visual impairment,BENADRYL,36,12,24,0,3,0,1,7,15,6,26,4,26
+Visual impairment,BETASERON,36,13,23,0,4,0,2,10,23,1,34,1,34
+Visual impairment,CALCIUM,44,7,36,1,8,0,1,11,25,4,19,21,34
+Visual impairment,CLONAZEPAM,34,14,20,0,3,0,2,9,10,2,30,2,21
+Visual impairment,EFFEXOR XR,32,9,20,0,2,0,2,3,24,9,21,2,29
+Visual impairment,EXJADE,35,24,11,8,0,0,0,13,30,8,4,23,30
+Visual impairment,HYDROCHLOROTHIAZIDE,31,8,23,0,5,0,0,6,19,1,16,14,25
+Visual impairment,LIPITOR,57,24,32,0,10,0,0,4,29,6,25,26,40
+Visual impairment,LORAZEPAM,35,14,21,0,6,0,1,7,13,3,21,11,23
+Visual impairment,LUCENTIS,39,6,33,0,0,0,0,7,27,11,5,23,32
+Visual impairment,LYRICA,31,3,28,0,4,0,2,9,23,3,15,13,27
+Visual impairment,METFORMIN,34,15,17,0,3,0,1,4,18,5,17,12,22
+Visual impairment,METHOTREXATE,32,10,22,0,5,0,2,3,20,2,23,7,30
+Visual impairment,PREDNISONE,84,27,57,0,9,0,6,20,42,13,46,25,77
+Visual impairment,RANITIDINE,32,11,21,0,7,0,2,5,13,4,18,10,24
+Visual impairment,REMICADE,88,38,49,0,3,0,4,6,77,3,77,8,88
+Visual impairment,SYNTHROID,62,11,51,0,13,0,4,10,31,8,32,22,47
+Visual impairment,TYLENOL,49,12,37,1,6,0,11,19,26,9,33,7,40
+Visual impairment,VITAMIN D,45,8,36,0,13,0,2,8,22,2,23,20,39
+Visual impairment,ZYPREXA,49,37,9,3,6,0,1,16,32,6,42,1,45

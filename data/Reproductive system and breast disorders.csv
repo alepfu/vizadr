@@ -1,0 +1,197 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Amenorrhoea,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,66,0,66,0,4,0,0,2,51,20,46,0,58
+Amenorrhoea,ESTRADERM,14,0,14,0,0,0,0,0,0,8,6,0,0
+Amenorrhoea,MIRENA,98,0,98,0,1,0,0,3,92,31,67,0,95
+Amenorrhoea,OLANZAPINE,12,0,10,10,0,0,2,7,7,11,1,0,12
+Amenorrhoea,PROVERA,17,0,17,0,0,0,0,0,0,8,9,0,2
+Amenorrhoea,PROZAC,11,0,11,0,0,0,1,1,3,3,8,0,5
+Amenorrhoea,RISPERIDONE,22,0,18,17,0,0,4,12,14,19,3,0,21
+Breast enlargement,ESTRADERM,49,0,48,0,0,0,0,0,1,14,32,3,1
+Breast enlargement,PROVERA,13,0,12,0,0,0,0,0,0,4,9,0,0
+Breast mass,ACLASTA,16,0,16,0,0,0,0,0,16,10,1,5,16
+Breast mass,FOLIC ACID,12,1,11,0,0,0,1,0,11,0,10,2,11
+Breast mass,HUMIRA,15,0,15,0,0,0,0,2,14,4,8,3,14
+Breast mass,METHOTREXATE,13,0,13,0,0,0,2,1,12,0,11,2,12
+Breast mass,REMICADE,25,1,24,0,0,0,0,4,22,6,15,4,25
+Breast mass,SANDOSTATIN LAR,11,0,11,2,0,0,0,7,11,0,11,0,11
+Breast mass,SANDOSTATIN LAR 20MG,11,2,9,1,0,0,0,3,11,3,7,1,11
+Breast mass,SANDOSTATIN LAR 30MG,22,2,20,1,0,0,5,7,22,2,11,9,22
+Breast oedema,ESTRADERM,50,0,50,0,0,0,0,0,1,19,25,6,1
+Breast oedema,PROVERA,16,0,16,0,0,0,0,0,0,5,8,3,0
+Breast pain,ACLASTA,13,0,13,0,0,0,0,0,13,6,3,4,13
+Breast pain,ATIVAN,11,0,11,0,0,0,0,2,1,2,9,0,3
+Breast pain,CALCIUM,17,0,17,0,0,0,0,0,7,2,11,4,8
+Breast pain,ESTRADERM,217,0,215,0,0,0,0,0,3,64,129,24,7
+Breast pain,MIRENA,21,0,21,0,3,0,0,0,17,4,17,0,20
+Breast pain,PROVERA,61,0,61,0,0,0,0,0,2,17,35,9,5
+Breast pain,PROZAC,11,2,8,0,0,0,0,0,1,0,9,2,1
+Breast pain,SYNTHROID,11,1,10,0,0,0,0,3,5,1,8,2,6
+Breast pain,TYLENOL,12,2,10,0,3,0,0,3,4,0,10,2,10
+Breast tenderness,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,14,0,14,0,1,0,0,1,7,2,12,0,9
+Breast tenderness,ESTRADERM,117,0,113,0,0,0,0,2,1,41,66,10,3
+Breast tenderness,MIRENA,17,0,17,0,1,0,1,1,15,4,13,0,15
+Breast tenderness,PROVERA,45,0,41,0,0,0,0,2,1,18,25,2,3
+Cervical dysplasia,CONTRACEPTIVES,13,0,13,0,0,0,0,2,0,0,13,0,11
+Cervical dysplasia,MIRENA,12,0,12,0,0,0,0,0,12,7,5,0,12
+Cervical dysplasia,ORTHO-NOVUM 1/50 TABLETS (28 DAY),12,0,12,0,0,0,0,0,0,0,12,0,12
+Cervical dysplasia,OVRAL 21 TAB,16,0,16,0,0,0,0,3,0,0,16,0,14
+Cervical dysplasia,REMICADE,17,0,17,0,0,0,0,2,16,1,16,0,16
+Coital bleeding,MIRENA,20,0,20,0,0,0,0,1,19,6,14,0,20
+Dysmenorrhoea,ESTRADERM,11,0,10,0,0,0,0,0,0,4,7,0,1
+Dysmenorrhoea,MIRENA,24,0,23,0,3,0,1,2,21,1,23,0,24
+Dyspareunia,MIRENA,37,0,37,0,3,0,0,1,32,11,26,0,33
+Endometrial hyperplasia,CLIMACTERON INJECTION,18,0,18,0,0,0,0,0,0,4,14,0,17
+Endometrial hyperplasia,CONTRACEPTIVES,14,0,14,0,0,0,0,5,0,1,13,0,13
+Endometrial hyperplasia,PREMARIN,63,0,62,0,0,0,0,3,1,7,50,6,49
+Erectile dysfunction,ALTACE,11,11,0,0,1,0,0,5,4,2,8,1,9
+Erectile dysfunction,ANAFRANIL,11,11,0,0,0,0,0,0,0,6,5,0,2
+Erectile dysfunction,ASPIRIN,12,12,0,0,2,0,0,3,3,1,10,1,7
+Erectile dysfunction,CHAMPIX,11,11,0,0,3,0,0,0,5,1,10,0,8
+Erectile dysfunction,CIALIS,22,22,0,0,0,0,0,0,2,12,8,2,2
+Erectile dysfunction,CRESTOR,14,14,0,0,3,0,0,0,6,1,9,4,9
+Erectile dysfunction,HYDROCHLOROTHIAZIDE,14,14,0,0,0,0,0,0,0,0,13,1,3
+Erectile dysfunction,LIPITOR,27,27,0,0,5,0,0,7,9,4,18,5,15
+Erectile dysfunction,PROPECIA,20,19,0,0,7,0,0,0,13,2,18,0,18
+Erectile dysfunction,SEROQUEL,11,11,0,1,1,0,0,5,6,2,9,0,11
+Erectile dysfunction,TAGAMET,11,11,0,0,0,0,0,0,0,2,8,1,6
+Erectile dysfunction,VIAGRA,19,19,0,0,3,0,0,1,7,6,8,5,11
+Erectile dysfunction,ZYPREXA,46,46,0,2,2,0,0,23,26,0,42,4,45
+Female genital tract fistula,HUMIRA,14,0,14,0,0,0,0,11,14,2,9,3,14
+Female genital tract fistula,REMICADE,18,0,18,0,0,1,0,2,16,3,15,0,18
+Fibrocystic breast disease,ESTRADERM,13,0,13,0,0,0,0,0,0,1,10,2,0
+Galactorrhoea,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,15,0,15,0,2,0,0,1,8,3,12,0,11
+Galactorrhoea,ELAVIL,13,0,8,0,0,0,0,2,0,7,6,0,2
+Galactorrhoea,LARGACTIL,14,0,11,0,0,0,0,0,0,7,7,0,0
+Galactorrhoea,MAXERAN,12,0,12,0,0,0,0,1,0,1,11,0,2
+Galactorrhoea,MELLARIL,14,0,9,0,0,0,0,1,0,11,3,0,1
+Galactorrhoea,MOTILIUM TAB 10MG,11,0,11,0,0,0,0,0,0,1,9,1,2
+Galactorrhoea,PAXIL,21,0,18,0,0,0,0,0,2,2,19,0,2
+Galactorrhoea,PROZAC,14,0,12,0,0,0,0,0,0,3,11,0,1
+Galactorrhoea,RISPERDAL,12,0,12,0,1,0,0,1,6,4,8,0,8
+Galactorrhoea,STELAZINE,12,0,9,0,0,0,0,2,0,4,8,0,2
+Genital haemorrhage,MIRENA,265,0,262,0,1,0,1,3,264,81,184,0,264
+Gynaecomastia,3TC,12,11,0,0,0,0,0,0,1,1,9,2,1
+Gynaecomastia,ALDACTAZIDE,17,12,1,0,0,0,0,0,0,6,6,5,6
+Gynaecomastia,ALDACTONE,40,37,3,0,0,0,0,4,4,4,21,15,14
+Gynaecomastia,CIMETIDINE,11,9,1,0,0,0,0,0,0,1,3,7,2
+Gynaecomastia,DIGOXIN,26,26,0,0,0,0,0,1,0,1,6,19,4
+Gynaecomastia,FUROSEMIDE,17,17,0,1,0,0,0,0,1,1,5,11,5
+Gynaecomastia,HYDROCHLOROTHIAZIDE,16,12,3,0,0,0,0,2,2,2,6,8,5
+Gynaecomastia,LANOXIN,14,14,0,1,0,0,0,2,1,1,5,8,5
+Gynaecomastia,LASIX,18,17,1,0,1,0,0,3,1,1,8,9,7
+Gynaecomastia,LIPITOR,13,13,0,0,0,0,0,2,8,0,6,7,9
+Gynaecomastia,RANITIDINE,11,10,0,0,0,0,0,2,1,1,5,5,2
+Gynaecomastia,SPIRONOLACTONE,14,13,0,0,0,0,0,0,1,2,7,5,6
+Gynaecomastia,TAGAMET,39,36,2,0,0,0,0,1,1,1,24,14,7
+Hypomenorrhoea,MIRENA,19,0,19,0,0,0,0,0,19,2,17,0,19
+Menopausal symptoms,ESTALIS,14,0,14,0,0,0,0,0,1,10,4,0,1
+Menopausal symptoms,ESTRADERM,42,0,42,0,0,0,0,0,0,28,12,2,0
+Menopausal symptoms,ESTRADOT,33,0,33,0,0,0,0,0,3,20,12,1,3
+Menorrhagia,CONTRACEPTIVES,21,0,21,0,2,0,1,3,5,3,18,0,19
+Menorrhagia,COPPER-7,73,0,73,0,0,0,0,19,0,3,70,0,53
+Menorrhagia,COPPER-T,15,0,15,0,0,0,0,1,0,2,13,0,10
+Menorrhagia,DEPO-PROVERA STERILE AQUEOUS SUSPENSION,11,0,11,0,2,0,0,1,5,3,8,0,8
+Menorrhagia,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,37,0,36,0,2,0,0,9,16,7,30,0,27
+Menorrhagia,ESTRADERM,37,0,35,0,0,0,0,1,1,12,20,5,2
+Menorrhagia,HUMIRA,16,0,16,0,0,0,0,3,15,4,12,0,15
+Menorrhagia,IRON,12,0,12,0,1,0,1,3,6,1,11,0,11
+Menorrhagia,LIPPES LOOP,38,0,38,0,0,0,0,8,0,1,37,0,27
+Menorrhagia,MIRENA,90,0,88,0,6,0,2,7,82,20,70,0,89
+Menorrhagia,MULTIVITAMINE(S),11,0,11,0,2,0,2,2,7,0,11,0,9
+Menorrhagia,ORTHO-NOVUM 1/50 TABLETS (28 DAY),16,0,16,0,0,0,0,2,0,1,15,0,16
+Menorrhagia,OVRAL 21 TAB,14,0,14,0,0,0,0,5,0,1,13,0,14
+Menorrhagia,PREDNISONE,11,0,11,0,0,0,2,3,7,1,10,0,9
+Menorrhagia,PREMARIN,11,0,11,0,0,0,0,4,1,0,11,0,8
+Menorrhagia,PROVERA,36,0,35,0,0,0,0,2,3,15,18,3,6
+Menorrhagia,REMICADE,21,0,21,2,0,0,0,9,13,0,21,0,21
+Menorrhagia,SANDOSTATIN LAR 30MG,15,0,15,0,0,0,1,11,15,0,15,0,15
+Menorrhagia,XARELTO,14,0,14,0,0,0,0,0,13,12,2,0,13
+Menstrual disorder,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,16,0,16,0,1,0,0,0,11,3,13,0,12
+Menstrual disorder,ESTRADERM,31,0,29,0,0,0,0,0,1,12,19,0,1
+Menstrual disorder,MIRENA,25,0,25,0,3,0,0,0,22,5,19,1,24
+Menstrual disorder,PROVERA,26,0,25,0,1,0,0,1,0,9,17,0,2
+Menstruation irregular,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,13,0,13,0,1,0,0,2,7,3,10,0,10
+Menstruation irregular,ESTRADERM,30,0,30,0,0,0,0,1,2,15,13,2,3
+Menstruation irregular,MIRENA,22,0,21,0,2,0,0,1,20,8,14,0,22
+Menstruation irregular,PROVERA,22,0,22,0,0,0,0,1,0,10,10,2,1
+Menstruation irregular,RAPAMUNE,26,0,26,0,0,0,0,0,26,26,0,0,26
+Menstruation irregular,TACROLIMUS,27,0,27,0,0,0,0,0,27,27,0,0,27
+Metrorrhagia,ALESSE 28 TABLETS,13,0,13,0,0,0,0,0,6,3,10,0,6
+Metrorrhagia,AVIANE 21,12,0,12,0,0,0,0,0,2,7,5,0,2
+Metrorrhagia,AVIANE 28,26,0,26,0,0,0,0,0,8,12,14,0,8
+Metrorrhagia,COPPER-7,17,0,17,0,0,0,0,6,0,2,15,0,12
+Metrorrhagia,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,66,0,63,0,2,0,1,8,42,19,47,0,53
+Metrorrhagia,ESTALIS,18,0,18,0,0,0,0,0,5,9,9,0,5
+Metrorrhagia,ESTRADERM,125,1,121,0,0,0,0,2,2,45,75,5,4
+Metrorrhagia,MIRENA,33,0,33,0,0,0,0,3,27,9,24,0,29
+Metrorrhagia,PROVERA,98,1,94,0,0,0,0,2,2,34,60,4,4
+Metrorrhagia,SYNTHROID,11,0,11,0,0,0,0,0,4,1,10,0,4
+Nipple pain,ESTRADERM,11,0,11,0,0,0,0,0,0,4,7,0,0
+Ovarian cyst,HUMIRA,19,0,19,0,0,0,0,8,16,7,12,0,19
+Ovarian cyst,METHOTREXATE,20,0,19,2,0,0,0,11,10,2,12,6,19
+Ovarian cyst,MIRENA,20,0,20,0,0,0,0,2,18,3,17,0,20
+Ovarian cyst,RAPAMUNE,12,0,12,0,0,0,0,0,11,10,2,0,12
+Ovarian cyst,REMICADE,74,0,73,3,0,0,0,37,42,11,56,7,74
+Ovarian cyst ruptured,REMICADE,15,0,15,0,0,0,0,8,8,3,12,0,15
+Ovarian disorder,PERGONAL 75 I.U.,12,0,12,0,0,0,0,3,0,0,12,0,4
+Ovarian hyperstimulation syndrome,CHORIONIC GONADOTROPIN FOR INJECTION, USP,26,0,26,0,0,0,3,5,0,2,24,0,8
+Ovarian hyperstimulation syndrome,PERGONAL 75 I.U.,24,0,24,0,0,0,0,4,0,0,24,0,4
+Ovarian hyperstimulation syndrome,PROGESTERONE,16,0,16,0,0,0,0,4,0,1,15,0,4
+Ovarian hyperstimulation syndrome,PUREGON,12,0,12,0,0,0,1,10,0,2,10,0,11
+Ovarian hyperstimulation syndrome,UROFOLLITROPIN,15,0,15,0,0,0,0,3,0,0,15,0,3
+Pelvic pain,HUMIRA,12,5,7,0,0,0,0,8,10,5,6,1,12
+Pelvic pain,MIRENA,48,0,48,0,4,0,2,4,40,8,39,1,46
+Pelvic pain,RAPAMUNE,14,0,14,0,0,0,0,0,14,14,0,0,14
+Pelvic pain,TACROLIMUS,12,0,12,0,0,0,0,0,12,12,0,0,12
+Penis disorder,PROPECIA,11,11,0,0,0,0,0,0,10,0,11,0,10
+Perineal fistula,REMICADE,11,0,11,0,0,0,0,0,11,1,10,0,11
+Postmenopausal haemorrhage,ESTRADERM,12,0,11,0,0,0,0,0,0,6,6,0,0
+Priapism,CLOZARIL,19,19,0,0,0,0,0,7,14,7,12,0,19
+Priapism,RISPERDAL,18,18,0,0,3,0,0,2,11,8,10,0,14
+Priapism,TRAZODONE,15,14,0,0,0,0,0,3,9,4,9,2,11
+Priapism,VIAGRA,34,34,0,0,0,0,2,2,18,21,12,1,23
+Prostatic disorder,LIPITOR,14,14,0,0,0,0,0,5,7,1,8,5,12
+Scrotal mass,REMICADE,12,12,0,0,0,0,0,0,12,0,12,0,12
+Sexual dysfunction,PAXIL,24,18,4,0,4,0,1,5,13,7,16,1,18
+Sexual dysfunction,ZYPREXA,19,19,0,0,4,0,0,7,9,2,17,0,15
+Suppressed lactation,MICRONOR TABLETS 28-DAY,46,0,45,0,2,0,0,1,22,7,39,0,25
+Suppressed lactation,MIRENA,19,0,19,0,1,0,0,0,16,6,13,0,16
+Uterine haemorrhage,MIRENA,14,0,13,0,0,0,0,0,14,4,10,0,14
+Uterine spasm,MIRENA,11,0,11,0,4,0,0,0,8,3,8,0,10
+Vaginal discharge,ESTRADERM,35,0,34,0,0,0,0,0,0,10,21,4,0
+Vaginal discharge,MIRENA,16,0,16,0,1,0,0,1,12,2,14,0,14
+Vaginal fistula,REMICADE,20,0,20,0,0,0,0,6,18,3,16,1,20
+Vaginal haemorrhage,ACETAMINOPHEN,11,0,11,1,0,0,2,3,5,1,9,1,9
+Vaginal haemorrhage,ARTHROTEC,17,0,17,0,0,0,0,0,10,2,14,1,10
+Vaginal haemorrhage,CELEBREX,11,0,11,0,0,1,1,3,9,0,9,2,11
+Vaginal haemorrhage,COPPER-7,16,0,16,0,0,0,0,8,0,1,15,0,14
+Vaginal haemorrhage,COUMADIN,14,0,14,2,0,0,1,3,4,0,7,7,12
+Vaginal haemorrhage,CYTOTEC,26,0,26,1,0,0,0,1,9,15,10,1,16
+Vaginal haemorrhage,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,17,0,17,0,0,0,0,3,11,3,13,1,16
+Vaginal haemorrhage,ESTALIS,13,0,13,0,0,0,0,0,11,6,6,1,11
+Vaginal haemorrhage,ESTRADERM,21,0,20,0,0,0,0,1,2,4,16,1,3
+Vaginal haemorrhage,FOLIC ACID,13,0,13,0,0,0,1,4,8,0,13,0,12
+Vaginal haemorrhage,HUMIRA,16,0,16,0,0,0,0,7,13,2,13,1,16
+Vaginal haemorrhage,HYDROCHLOROTHIAZIDE,12,0,12,0,0,0,0,2,9,0,9,3,10
+Vaginal haemorrhage,METFORMIN,12,0,12,0,0,0,0,1,9,0,11,1,10
+Vaginal haemorrhage,METHOTREXATE,22,0,22,0,0,0,1,7,17,9,12,1,22
+Vaginal haemorrhage,MIRENA,319,0,313,0,6,0,0,6,305,108,211,0,311
+Vaginal haemorrhage,MULTIVITAMINE(S),11,0,11,0,2,0,0,2,6,1,8,2,8
+Vaginal haemorrhage,PLAN B,40,0,40,0,0,0,0,1,34,20,20,0,34
+Vaginal haemorrhage,PREDNISONE,21,0,21,1,0,0,0,11,9,5,15,1,18
+Vaginal haemorrhage,PREMARIN,11,0,11,0,1,0,0,1,3,0,9,2,10
+Vaginal haemorrhage,PROVERA,21,0,21,0,0,0,0,4,7,2,17,2,13
+Vaginal haemorrhage,REMICADE,73,0,73,2,0,0,0,15,67,6,67,0,73
+Vaginal haemorrhage,SANDOSTATIN LAR 30MG,11,0,11,0,0,0,0,8,11,0,8,3,11
+Vaginal haemorrhage,SYNTHROID,16,0,16,0,1,0,0,1,11,0,13,3,12
+Vaginal haemorrhage,TYLENOL,12,0,12,1,0,0,1,5,3,0,9,3,8
+Vaginal haemorrhage,WARFARIN,12,0,12,0,0,0,1,4,5,0,5,7,11
+Vaginal haemorrhage,XARELTO,11,0,9,0,0,0,0,1,10,6,3,2,11
+Vaginal haemorrhage,YASMIN 28,11,0,11,0,0,0,0,4,7,5,6,0,10
+Vaginal haemorrhage,YAZ,23,0,23,0,2,0,0,0,19,19,4,0,21
+Vaginal haemorrhage,ZYPREXA,15,0,15,0,0,0,0,7,12,0,12,3,15
+Vulvovaginal discomfort,ACTEMRA,11,0,11,0,0,0,0,0,9,0,11,0,9
+Vulvovaginal discomfort,ESTRADERM,26,0,25,0,0,0,0,0,1,7,16,3,1
+Vulvovaginal pruritus,ESTRADERM,11,0,11,0,0,0,0,0,0,5,5,1,0
+Withdrawal bleed,ESTRADERM,15,0,15,0,0,0,0,0,0,6,9,0,0
+Withdrawal bleed,PROVERA,13,0,13,0,0,0,0,0,0,6,7,0,0

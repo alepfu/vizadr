@@ -1,0 +1,235 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Alanine aminotransferase increased,ACETAMINOPHEN,204,87,111,19,0,0,26,101,82,49,117,38,200
+Alanine aminotransferase increased,LIPITOR,194,102,87,5,11,0,16,77,90,14,90,90,181
+Alanine aminotransferase increased,LORAZEPAM,109,54,53,11,5,0,11,43,43,14,59,36,104
+Alanine aminotransferase increased,PREDNISONE,226,89,134,25,4,0,13,115,71,37,133,56,219
+Alanine aminotransferase increased,RANITIDINE,101,46,53,10,2,0,6,42,42,25,56,20,98
+Alanine aminotransferase increased,ZYPREXA,250,159,87,8,3,0,7,79,178,8,223,19,244
+Anti-erythrocyte antibody positive,PRIVIGEN,124,60,64,5,0,0,14,38,104,16,65,43,122
+Antipsychotic drug level increased,CLOZARIL,121,85,36,23,3,0,5,42,83,34,83,4,120
+Aspartate aminotransferase increased,ACETAMINOPHEN,212,91,114,21,2,0,25,103,85,50,118,44,208
+Aspartate aminotransferase increased,FUROSEMIDE,105,39,65,24,1,0,11,51,23,12,40,53,99
+Aspartate aminotransferase increased,LIPITOR,186,95,87,7,10,0,18,75,82,14,83,89,173
+Aspartate aminotransferase increased,LORAZEPAM,122,59,61,12,5,0,13,49,48,13,71,38,117
+Aspartate aminotransferase increased,PREDNISONE,231,87,139,28,5,0,14,119,66,37,136,58,222
+Aspartate aminotransferase increased,ZYPREXA,209,129,77,11,3,0,10,79,147,5,189,15,206
+Blood alkaline phosphatase increased,LIPITOR,101,42,59,4,6,0,9,37,48,3,36,62,94
+Blood alkaline phosphatase increased,PREDNISONE,124,39,84,16,4,0,6,63,43,14,82,28,122
+Blood bilirubin increased,PREDNISONE,143,69,74,24,3,0,13,72,49,15,89,39,143
+Blood cholesterol increased,ZYPREXA,309,229,73,20,0,0,3,94,237,17,286,6,308
+Blood creatine phosphokinase increased,ASA,116,67,48,5,10,0,18,65,39,9,56,51,108
+Blood creatine phosphokinase increased,CLOZARIL,142,111,31,2,1,0,40,67,59,22,113,7,140
+Blood creatine phosphokinase increased,CRESTOR,149,83,61,3,18,0,16,53,70,19,84,46,142
+Blood creatine phosphokinase increased,LIPITOR,275,165,89,20,20,0,23,115,105,54,125,96,254
+Blood creatine phosphokinase increased,NITROGLYCERIN,103,71,32,11,10,0,18,57,17,6,55,42,99
+Blood creatine phosphokinase increased,PLAVIX,103,59,43,11,10,0,11,60,25,6,44,53,100
+Blood creatinine increased,ACETAMINOPHEN,167,91,74,22,5,0,18,80,48,15,83,69,158
+Blood creatinine increased,ALLOPURINOL,154,98,54,21,6,0,13,75,39,4,51,99,147
+Blood creatinine increased,ASA,170,111,54,11,8,0,23,102,58,9,55,106,164
+Blood creatinine increased,ATENOLOL TABLETS, BP,115,62,51,15,1,0,17,56,28,5,51,59,109
+Blood creatinine increased,CRESTOR,102,49,50,10,2,0,19,58,40,5,38,59,102
+Blood creatinine increased,CYCLOSPORINE,110,65,41,14,3,0,8,48,23,16,76,18,98
+Blood creatinine increased,DIGOXIN,245,133,107,28,3,0,11,145,33,4,51,190,224
+Blood creatinine increased,EXJADE,101,69,31,15,0,0,1,41,93,20,34,47,101
+Blood creatinine increased,FUROSEMIDE,351,191,156,64,4,0,29,169,76,14,134,203,321
+Blood creatinine increased,HYDROCHLOROTHIAZIDE,143,66,76,12,4,0,13,69,45,6,52,85,136
+Blood creatinine increased,INSULIN,115,67,47,11,1,0,13,68,24,3,50,62,114
+Blood creatinine increased,LASIX,271,148,120,33,6,0,35,127,55,14,74,183,252
+Blood creatinine increased,LIPITOR,232,143,87,24,8,0,29,137,76,9,97,126,229
+Blood creatinine increased,LORAZEPAM,125,80,44,17,3,0,14,66,37,7,64,54,117
+Blood creatinine increased,METFORMIN,170,103,67,21,7,0,20,99,54,6,68,96,167
+Blood creatinine increased,METOPROLOL,190,116,73,23,12,0,25,107,51,9,62,119,180
+Blood creatinine increased,MORPHINE,110,70,40,26,3,0,15,46,18,7,59,44,101
+Blood creatinine increased,NITROGLYCERIN,114,61,51,18,4,0,20,56,27,6,29,79,106
+Blood creatinine increased,NORVASC,120,61,57,2,0,0,12,71,39,5,45,70,113
+Blood creatinine increased,PANTOLOC,101,54,46,10,2,0,21,61,20,2,47,52,99
+Blood creatinine increased,PREDNISONE,426,224,191,49,9,0,30,229,88,47,239,140,403
+Blood creatinine increased,RAMIPRIL,133,76,57,10,2,0,20,73,44,6,44,83,128
+Blood creatinine increased,RANITIDINE,151,85,63,18,4,0,18,65,42,16,81,54,132
+Blood creatinine increased,TYLENOL,104,50,49,17,3,0,8,46,37,11,36,57,100
+Blood creatinine increased,WARFARIN,124,56,68,20,5,0,14,75,32,6,30,88,119
+Blood glucose increased,GLYBURIDE,112,58,53,4,4,0,7,21,59,10,49,53,81
+Blood glucose increased,HUMALOG,326,165,160,0,1,0,7,42,60,208,97,21,106
+Blood glucose increased,HUMULIN N INJ 100UNIT/ML,116,62,54,0,1,0,2,26,23,80,23,13,48
+Blood glucose increased,LANTUS,147,72,75,2,1,0,5,13,44,27,83,37,60
+Blood glucose increased,LIPITOR,124,63,61,4,8,0,5,32,62,11,72,41,103
+Blood glucose increased,METFORMIN,282,142,135,6,9,0,10,52,128,41,133,108,184
+Blood glucose increased,SANDOSTATIN LAR 30MG,128,54,74,40,2,0,3,51,119,24,59,45,128
+Blood glucose increased,ZYPREXA,112,70,41,2,5,0,1,42,79,15,94,3,110
+Blood iron increased,EXJADE,133,42,91,17,2,0,0,44,82,51,26,56,117
+Blood lactate dehydrogenase increased,PREDNISONE,126,52,74,11,1,0,8,75,43,13,81,32,122
+Blood pressure decreased,PREDNISONE,112,43,68,10,0,0,12,37,64,10,68,34,105
+Blood pressure decreased,REMICADE,295,127,167,2,0,0,21,58,236,28,240,27,291
+Blood pressure decreased,SANDOSTATIN LAR 30MG,115,38,77,18,0,0,6,51,109,28,42,45,115
+Blood pressure decreased,XOLAIR,225,48,177,4,0,0,0,66,191,55,139,31,204
+Blood pressure increased,ACETAMINOPHEN,178,46,131,4,0,0,8,16,102,14,91,73,152
+Blood pressure increased,ACLASTA,229,8,219,9,0,0,1,8,217,43,50,136,227
+Blood pressure increased,ACTEMRA,274,68,206,0,0,0,7,18,157,4,167,103,222
+Blood pressure increased,ALTACE,108,44,61,2,3,0,3,26,64,12,50,46,84
+Blood pressure increased,ASA,119,52,61,4,2,0,7,26,62,17,47,55,88
+Blood pressure increased,AVASTIN,126,85,41,3,0,0,0,28,75,3,78,45,113
+Blood pressure increased,BENADRYL,265,77,186,4,1,0,17,24,145,22,197,46,191
+Blood pressure increased,CALCIUM,121,18,102,3,0,0,3,29,84,10,57,54,110
+Blood pressure increased,CELEBREX,118,36,79,1,0,0,4,30,64,12,66,40,98
+Blood pressure increased,CRESTOR,117,50,64,0,1,0,1,31,60,16,49,52,91
+Blood pressure increased,DEXAMETHASONE,142,32,109,2,1,0,6,20,64,14,111,17,86
+Blood pressure increased,DIOVAN,184,72,83,3,2,0,2,16,105,71,60,53,123
+Blood pressure increased,FOLIC ACID,146,39,105,1,2,0,4,27,97,8,79,59,132
+Blood pressure increased,HYDROCHLOROTHIAZIDE,157,43,112,1,3,0,7,33,77,17,66,74,114
+Blood pressure increased,LIPITOR,167,72,90,3,6,0,13,44,85,17,59,91,128
+Blood pressure increased,METFORMIN,108,44,59,4,3,0,6,27,59,10,56,42,82
+Blood pressure increased,METHOTREXATE,176,47,126,1,1,0,6,29,118,11,101,64,159
+Blood pressure increased,METOPROLOL,122,56,63,5,1,0,9,32,62,16,47,59,91
+Blood pressure increased,NORVASC,138,55,78,3,3,0,6,39,85,21,38,79,109
+Blood pressure increased,PREDNISONE,336,102,234,3,7,0,16,71,221,20,216,100,304
+Blood pressure increased,REMICADE,795,346,439,7,0,0,40,98,684,30,613,152,777
+Blood pressure increased,RITUXAN,144,39,105,0,0,0,3,9,85,2,81,61,127
+Blood pressure increased,SANDOSTATIN LAR,281,128,140,61,2,0,8,129,257,83,100,98,279
+Blood pressure increased,SANDOSTATIN LAR 20MG,336,140,194,38,0,0,3,132,313,66,170,100,336
+Blood pressure increased,SANDOSTATIN LAR 30MG,568,259,309,79,7,0,11,246,531,126,208,234,565
+Blood pressure increased,SYNTHROID,161,23,137,2,7,0,11,33,110,15,80,66,138
+Blood pressure increased,TYLENOL,152,60,92,4,3,0,11,31,97,14,83,55,134
+Blood pressure increased,VENTOLIN,124,39,82,4,3,0,21,20,79,7,84,33,109
+Blood pressure increased,VITAMIN D,125,24,101,4,2,0,10,30,83,8,69,48,108
+Blood pressure increased,XOLAIR,899,444,454,0,10,0,5,238,771,41,745,113,830
+Blood pressure increased,ZOMETA CONCENTRATE,105,61,43,37,0,0,4,32,90,19,45,41,104
+Blood pressure systolic increased,SANDOSTATIN LAR,142,60,71,41,0,0,8,71,129,42,16,84,142
+Blood pressure systolic increased,SANDOSTATIN LAR 20MG,117,50,67,20,0,0,0,49,102,40,16,61,117
+Blood pressure systolic increased,SANDOSTATIN LAR 30MG,251,108,143,45,0,0,5,108,233,89,30,132,251
+Blood pressure systolic increased,XOLAIR,237,127,110,0,0,0,0,50,180,6,183,48,205
+Blood triglycerides increased,ZYPREXA,321,209,108,25,0,0,5,118,231,13,300,8,321
+Blood urea increased,DIGOXIN,103,57,46,8,0,0,4,56,10,1,26,76,86
+Blood urea increased,FUROSEMIDE,145,81,64,34,3,0,7,65,27,3,48,94,128
+Blood urea increased,PREDNISONE,128,61,66,22,0,0,10,71,24,12,63,53,122
+Body temperature decreased,XOLAIR,192,70,118,0,0,0,0,67,161,12,161,19,171
+Body temperature increased,REMICADE,235,117,116,3,0,0,7,93,149,19,191,25,231
+Bone density decreased,ACLASTA,183,5,170,4,0,0,2,14,58,83,41,59,63
+Breath sounds abnormal,XOLAIR,232,71,160,4,0,0,0,66,177,13,189,30,190
+Coombs direct test positive,GAMUNEX,121,60,61,10,4,0,5,30,81,27,67,27,116
+Drug level increased,BIAXIN,144,10,7,0,0,0,3,139,2,131,1,12,144
+Drug level increased,CLOZARIL,105,44,52,31,0,0,8,24,45,24,77,4,102
+Drug level increased,DIGIBIND,166,73,88,7,0,0,9,136,9,1,22,143,161
+Drug level increased,DIGOXIN,650,225,285,30,0,0,12,417,22,144,86,420,594
+Drug level increased,DILANTIN,182,75,103,10,2,0,1,72,21,29,94,59,140
+Drug level increased,ETHANOL,118,74,42,94,0,0,2,17,3,20,89,9,116
+Drug level increased,FUROSEMIDE,181,86,94,15,0,0,4,79,7,7,46,128,153
+Drug level increased,LANOXIN,216,99,110,13,0,0,1,60,5,8,28,180,183
+Drug level increased,LASIX,163,69,87,18,1,0,5,80,5,5,35,123,140
+Drug level increased,PREDNISONE,123,56,63,11,3,0,6,51,14,24,47,52,103
+Ejection fraction decreased,HERCEPTIN VIALS,366,0,353,1,0,0,0,2,366,280,64,22,366
+Glomerular filtration rate decreased,ACLASTA,116,10,105,0,1,0,8,31,83,25,13,78,114
+Haemoglobin decreased,ACETAMINOPHEN,205,79,124,13,3,0,18,90,111,16,101,88,198
+Haemoglobin decreased,ASA,216,115,98,15,9,0,29,126,87,17,46,153,214
+Haemoglobin decreased,ASPIRIN,112,72,36,6,3,0,17,56,57,12,38,62,109
+Haemoglobin decreased,BLOOD WHOLE,189,95,92,16,2,0,22,109,37,13,69,107,186
+Haemoglobin decreased,CALCIUM,160,54,105,9,2,0,12,77,95,14,65,81,156
+Haemoglobin decreased,COUMADIN,116,54,62,16,2,0,9,64,33,3,37,76,112
+Haemoglobin decreased,DEXAMETHASONE,101,57,44,10,8,0,4,40,65,4,46,51,92
+Haemoglobin decreased,EPREX STERILE SOLUTION,403,215,185,27,5,0,32,102,336,17,171,215,401
+Haemoglobin decreased,FOLIC ACID,203,63,138,11,3,0,14,92,104,12,127,64,196
+Haemoglobin decreased,FUROSEMIDE,195,95,100,22,3,0,19,100,74,14,53,128,185
+Haemoglobin decreased,GAMUNEX,131,62,69,8,1,0,12,39,93,24,77,30,125
+Haemoglobin decreased,HEPARIN SODIUM INJECTION, USP,113,64,48,12,1,0,16,40,40,3,34,76,110
+Haemoglobin decreased,HUMIRA,109,37,72,3,2,0,2,65,75,24,65,20,96
+Haemoglobin decreased,IGIVNEX,104,59,45,2,0,0,10,30,69,21,59,24,101
+Haemoglobin decreased,JAKAVI,107,57,50,4,3,0,0,58,85,18,24,65,106
+Haemoglobin decreased,LASIX,142,71,70,22,2,0,18,84,48,6,44,92,137
+Haemoglobin decreased,LIPITOR,205,126,76,14,8,0,29,112,82,10,65,130,201
+Haemoglobin decreased,LORAZEPAM,111,62,47,14,1,0,12,54,55,5,52,54,106
+Haemoglobin decreased,LOSEC,129,53,74,11,1,0,15,73,33,4,43,82,123
+Haemoglobin decreased,METFORMIN,169,93,73,10,7,0,15,87,76,5,72,92,163
+Haemoglobin decreased,METHOTREXATE,117,23,93,15,1,0,10,56,52,8,63,46,111
+Haemoglobin decreased,METOPROLOL,208,128,78,16,7,0,29,120,75,7,59,142,204
+Haemoglobin decreased,MULTIVITAMINE(S),108,54,53,6,1,0,9,62,65,7,54,47,105
+Haemoglobin decreased,NITROGLYCERIN,102,57,45,17,3,0,12,46,35,3,20,79,102
+Haemoglobin decreased,NORVASC,117,78,38,6,1,0,17,66,56,3,39,75,113
+Haemoglobin decreased,PACKED RED BLOOD CELLS,198,99,97,13,2,0,37,106,45,10,66,122,196
+Haemoglobin decreased,PANTOLOC,191,103,87,13,1,0,25,111,62,5,91,95,185
+Haemoglobin decreased,PANTOPRAZOLE,142,78,64,16,2,0,16,79,61,6,44,92,138
+Haemoglobin decreased,PEGASYS RBV,178,94,82,17,6,0,17,78,135,3,150,25,178
+Haemoglobin decreased,PLAVIX,156,93,57,8,4,0,21,93,62,7,38,111,153
+Haemoglobin decreased,PREDNISONE,476,227,248,40,8,0,40,253,185,30,270,176,453
+Haemoglobin decreased,PRIVIGEN,166,100,66,2,0,0,12,60,118,47,69,50,156
+Haemoglobin decreased,RAMIPRIL,127,70,54,10,6,0,21,61,62,5,41,81,126
+Haemoglobin decreased,RANITIDINE,165,83,79,11,1,0,15,103,47,18,60,87,159
+Haemoglobin decreased,REMICADE,359,144,211,9,2,0,4,212,191,34,268,57,357
+Haemoglobin decreased,REVLIMID,231,115,115,13,23,0,8,80,191,1,62,168,228
+Haemoglobin decreased,SOLIRIS,185,53,130,0,0,0,0,60,144,4,163,18,185
+Haemoglobin decreased,SYNTHROID,120,30,89,12,1,0,14,71,46,4,39,77,118
+Haemoglobin decreased,TYLENOL,204,79,123,12,2,0,24,95,114,16,106,82,198
+Haemoglobin decreased,VITAMIN D,144,50,93,18,6,0,16,70,82,12,60,72,141
+Haemoglobin decreased,WARFARIN,157,80,75,13,5,0,18,90,65,3,36,118,155
+Haemoglobin decreased,ZOMETA CONCENTRATE,118,75,43,59,0,0,5,53,95,5,57,56,118
+Heart rate decreased,SANDOSTATIN LAR 30MG,127,80,47,16,0,0,4,63,123,23,28,76,127
+Heart rate increased,ACETAMINOPHEN,116,39,77,1,1,0,6,25,52,7,71,38,95
+Heart rate increased,ACTEMRA,123,32,91,0,0,0,0,4,66,2,83,38,104
+Heart rate increased,BENADRYL,206,63,142,0,2,0,18,33,92,29,142,35,148
+Heart rate increased,DEXAMETHASONE,112,24,87,2,1,0,8,19,48,11,83,18,72
+Heart rate increased,PREDNISONE,229,90,139,5,2,0,13,80,119,28,148,53,203
+Heart rate increased,REMICADE,423,170,248,3,0,0,35,108,315,40,342,41,415
+Heart rate increased,SANDOSTATIN LAR,103,39,60,24,0,0,2,47,87,26,56,21,102
+Heart rate increased,SANDOSTATIN LAR 20MG,102,52,50,26,0,0,16,62,90,17,65,20,102
+Heart rate increased,SANDOSTATIN LAR 30MG,152,76,76,31,2,0,16,75,138,34,75,43,152
+Heart rate increased,TYLENOL,112,41,69,3,0,0,17,38,68,17,72,23,99
+Heart rate increased,VENTOLIN,107,39,66,4,4,0,9,37,57,15,68,24,90
+Heart rate increased,XOLAIR,668,336,332,2,3,0,4,209,601,63,559,46,634
+Heart rate irregular,XOLAIR,112,97,15,0,5,0,0,15,109,7,95,10,111
+Hepatic enzyme increased,METHOTREXATE,104,29,71,3,0,0,3,20,66,26,64,14,84
+Hepatic enzyme increased,PREDNISONE,136,52,84,8,1,0,8,61,45,16,95,25,121
+Hepatic enzyme increased,REMICADE,124,43,73,2,2,0,2,32,95,27,91,6,121
+International normalised ratio increased,COUMADIN,206,93,110,14,2,0,21,82,82,15,62,129,177
+International normalised ratio increased,VITAMIN K,110,38,71,10,0,0,19,55,27,9,20,81,105
+International normalised ratio increased,WARFARIN,275,119,143,27,4,0,30,136,130,24,66,185,262
+Neutrophil count decreased,APO-CLOZAPINE,102,66,36,2,0,0,2,17,89,12,87,3,100
+Neutrophil count decreased,CLOZARIL,192,95,97,18,3,0,19,64,166,40,126,26,192
+Oxygen saturation decreased,REMICADE,176,76,98,1,0,0,8,33,149,24,135,17,176
+Platelet count decreased,AVASTIN,131,64,67,14,0,0,0,12,94,6,111,14,123
+Platelet count decreased,DEXAMETHASONE,107,60,46,14,6,0,3,33,74,3,64,40,102
+Platelet count decreased,REVLIMID,205,114,90,17,23,0,9,76,153,4,74,127,201
+Respiratory rate increased,REMICADE,149,65,84,5,0,0,22,24,111,12,126,11,148
+Respiratory rate increased,XOLAIR,168,76,92,3,0,0,0,75,158,10,126,32,162
+Serum ferritin increased,EXJADE,206,113,93,20,1,0,3,71,160,79,32,95,178
+Weight decreased,ACETAMINOPHEN,172,43,128,7,3,0,4,29,84,14,91,67,143
+Weight decreased,ACTEMRA,484,84,400,0,0,0,6,47,286,12,318,154,426
+Weight decreased,CALCIUM,150,30,118,14,8,0,8,70,77,9,71,70,138
+Weight decreased,CELEBREX,104,28,75,7,9,0,3,27,54,8,60,36,92
+Weight decreased,CLONAZEPAM,101,32,68,6,4,0,6,36,53,8,73,20,86
+Weight decreased,FOLIC ACID,190,52,137,12,7,0,4,68,97,11,94,85,173
+Weight decreased,HUMIRA,278,99,178,15,3,0,8,171,152,49,162,67,234
+Weight decreased,LIPITOR,153,84,69,12,12,0,11,45,75,8,62,83,127
+Weight decreased,METFORMIN,121,67,54,15,12,0,4,42,61,5,61,55,109
+Weight decreased,METHOTREXATE,264,78,186,15,8,0,9,92,140,15,146,103,242
+Weight decreased,PREDNISONE,366,131,234,16,9,0,20,154,172,27,209,130,334
+Weight decreased,REMICADE,612,301,310,9,7,0,15,267,416,46,474,92,602
+Weight decreased,RITUXAN,116,23,93,0,0,0,7,6,57,5,60,51,96
+Weight decreased,SANDOSTATIN LAR,198,103,93,73,7,0,5,119,181,37,81,80,197
+Weight decreased,SANDOSTATIN LAR 20MG,162,72,90,37,2,0,3,70,146,38,72,52,159
+Weight decreased,SANDOSTATIN LAR 30MG,265,135,130,97,2,0,6,111,244,71,82,112,264
+Weight decreased,SYNTHROID,151,36,114,13,6,0,5,49,79,4,81,66,130
+Weight decreased,TYLENOL,109,37,72,7,9,0,17,45,61,11,63,35,101
+Weight decreased,VITAMIN D,134,33,99,8,5,0,13,63,64,12,58,64,125
+Weight decreased,XOLAIR,171,73,98,4,1,0,0,75,145,10,145,16,168
+Weight increased,ACETAMINOPHEN,132,36,96,2,2,0,0,16,74,10,88,34,105
+Weight increased,ACTEMRA,576,117,458,0,0,0,7,43,351,31,373,172,478
+Weight increased,ATIVAN,122,52,69,5,9,0,3,27,77,13,96,13,105
+Weight increased,CLONAZEPAM,157,65,90,5,7,0,3,47,99,16,128,13,141
+Weight increased,CLOZARIL,132,56,76,11,5,0,5,18,103,53,77,2,126
+Weight increased,EFFEXOR XR,117,48,66,3,4,0,1,32,76,22,89,6,102
+Weight increased,ESTRADERM,139,0,136,0,1,0,0,0,3,49,83,7,4
+Weight increased,FOLIC ACID,145,30,114,1,1,0,0,17,95,9,114,22,120
+Weight increased,LIPITOR,119,52,66,1,13,0,5,27,72,14,66,39,99
+Weight increased,LYRICA,176,37,129,0,12,0,6,10,135,31,116,29,151
+Weight increased,METFORMIN,101,49,50,1,4,0,5,24,57,13,64,24,79
+Weight increased,METHOTREXATE,176,35,141,0,2,0,3,21,110,11,132,33,141
+Weight increased,PAXIL,117,35,82,1,12,0,1,23,60,35,80,2,87
+Weight increased,PREDNISONE,233,70,163,4,12,0,3,39,134,34,157,42,196
+Weight increased,REMICADE,253,88,163,0,0,0,0,47,200,24,217,12,239
+Weight increased,RISPERDAL,117,51,65,4,6,0,1,24,76,31,84,2,97
+Weight increased,SEROQUEL,164,76,87,5,11,0,6,56,100,11,142,11,152
+Weight increased,SYNTHROID,141,16,125,2,7,0,2,16,85,16,94,31,100
+Weight increased,TRI-CYCLEN TABLETS - 28-DAY,113,0,113,0,0,0,0,0,113,112,1,0,113
+Weight increased,XOLAIR,195,113,80,0,1,0,0,39,178,11,175,9,186
+Weight increased,ZYPREXA,891,529,351,63,14,0,18,335,623,81,782,28,872
+Weight increased,ZYPREXA ZYDIS,223,131,85,7,6,0,0,57,177,19,200,4,220
+White blood cell count decreased,ACTEMRA,114,21,93,0,0,0,0,22,47,16,52,46,110
+White blood cell count decreased,CLOZARIL,215,119,95,23,4,0,22,83,181,33,168,14,215

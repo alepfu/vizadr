@@ -1,0 +1,462 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Acute hepatic failure,ACETAMINOPHEN,59,19,38,19,0,0,6,50,12,13,45,1,59
+Autoimmune hepatitis,MINOCYCLINE,13,8,5,0,0,0,0,3,10,12,1,0,13
+Autoimmune hepatitis,REMICADE,21,4,16,0,0,0,0,15,18,2,19,0,21
+Bile duct obstruction,REMICADE,11,7,4,0,2,0,0,10,4,0,10,1,11
+Bile duct obstruction,SANDOSTATIN LAR,14,8,6,4,2,0,0,14,10,4,5,5,14
+Bile duct obstruction,SANDOSTATIN LAR 30MG,12,9,3,6,0,0,0,12,10,5,4,3,12
+Bile duct stenosis,SANDOSTATIN LAR 20MG,11,11,0,0,0,0,11,11,11,0,11,0,11
+Bile duct stone,SANDOSTATIN LAR,13,9,4,6,0,0,0,12,13,1,0,12,13
+Cholangitis,SANDOSTATIN LAR 20MG,11,11,0,0,0,0,11,11,11,0,11,0,11
+Cholecystitis,CLOZARIL,11,2,9,2,2,0,3,10,8,4,5,2,11
+Cholecystitis,LIPITOR,11,6,5,0,0,0,0,11,5,0,10,1,11
+Cholecystitis,OXYCONTIN,28,27,1,0,0,0,0,28,27,0,28,0,28
+Cholecystitis,PREDNISONE,11,2,9,2,0,0,2,5,3,0,10,1,11
+Cholecystitis,REMICADE,34,6,27,3,0,0,1,31,15,1,28,5,34
+Cholecystitis,YASMIN 28,15,0,15,0,0,0,0,5,14,2,13,0,15
+Cholecystitis acute,DOXORUBICIN HYDROCHLORIDE INJECTION,12,9,3,0,0,0,0,0,12,0,4,8,12
+Cholecystitis acute,LIPIODOL ULTRA FLUIDE 38%,12,9,3,0,0,0,0,0,12,0,4,8,12
+Cholecystitis acute,OMNIPAQUE,12,9,3,0,0,0,0,0,12,0,4,8,12
+Cholecystitis acute,YASMIN 21,15,0,15,0,0,0,0,14,1,2,13,0,15
+Cholecystitis chronic,YASMIN 21,18,0,18,0,0,0,0,4,16,1,17,0,18
+Cholecystitis chronic,YASMIN 28,44,0,44,0,0,0,0,13,36,13,31,0,44
+Cholecystitis chronic,YAZ,30,0,30,0,0,0,0,7,27,11,19,0,30
+Cholelithiasis,ACETAMINOPHEN,13,3,10,0,0,0,0,6,2,0,7,6,13
+Cholelithiasis,ACTEMRA,35,2,33,0,0,0,0,1,29,0,28,7,35
+Cholelithiasis,ANTIINFECTIVES FOR SYSTEMIC USE,12,5,7,0,0,0,1,9,4,0,11,1,12
+Cholelithiasis,ASA,15,6,9,2,1,0,0,10,6,0,5,10,15
+Cholelithiasis,ASPIRIN,12,10,2,1,1,0,1,9,5,0,7,5,12
+Cholelithiasis,BETASERON,23,10,13,0,0,0,0,17,7,1,21,1,23
+Cholelithiasis,CALCIUM,29,8,21,4,0,0,2,18,9,2,15,12,27
+Cholelithiasis,CALCIUM CARBONATE,28,1,27,1,0,0,0,19,8,0,2,26,27
+Cholelithiasis,CELEBREX,21,6,15,1,0,0,0,11,15,1,16,4,20
+Cholelithiasis,CLONAZEPAM,11,1,10,2,1,0,1,7,3,0,10,1,10
+Cholelithiasis,CLOZARIL,17,6,11,3,2,0,3,9,6,2,13,2,16
+Cholelithiasis,COLACE,11,5,6,2,0,0,0,6,7,0,8,3,11
+Cholelithiasis,CRESTOR,14,10,4,2,0,0,1,11,4,0,9,5,14
+Cholelithiasis,ENBREL,11,7,4,0,0,0,0,8,5,0,6,5,9
+Cholelithiasis,ERGOCALCIFEROL,13,2,11,0,0,0,0,9,7,1,8,4,13
+Cholelithiasis,FOLIC ACID,21,3,18,3,0,0,1,11,8,0,11,10,19
+Cholelithiasis,FORTEO,14,0,14,1,0,0,0,14,3,0,3,11,14
+Cholelithiasis,HUMIRA,61,21,37,0,0,0,1,38,36,4,41,16,61
+Cholelithiasis,HYDROCHLOROTHIAZIDE,13,1,11,0,0,0,0,9,5,2,7,4,12
+Cholelithiasis,IMURAN,13,4,9,0,1,0,0,8,9,1,12,0,13
+Cholelithiasis,LIPITOR,31,9,22,0,3,0,0,23,8,0,17,14,31
+Cholelithiasis,LORAZEPAM,13,5,8,1,0,0,0,6,6,1,6,6,13
+Cholelithiasis,METFORMIN,23,8,15,1,0,0,0,13,12,3,12,8,23
+Cholelithiasis,METHOTREXATE,38,7,31,2,0,0,2,21,23,0,26,12,38
+Cholelithiasis,METOPROLOL,12,8,3,0,0,0,0,9,5,0,6,6,12
+Cholelithiasis,MORPHINE,13,6,7,3,0,0,2,9,2,1,10,2,13
+Cholelithiasis,MULTIVITAMINE(S),14,3,11,0,0,0,1,10,5,1,10,3,14
+Cholelithiasis,NORVASC,15,4,11,1,0,0,0,10,8,0,6,9,15
+Cholelithiasis,ORENCIA,11,0,11,0,0,0,3,8,5,0,2,9,11
+Cholelithiasis,PANTOLOC,17,7,10,2,0,0,1,11,8,0,14,3,17
+Cholelithiasis,PANTOPRAZOLE,11,5,5,0,0,0,1,7,4,1,5,5,11
+Cholelithiasis,PLAVIX,13,6,6,4,2,0,1,9,5,0,6,7,13
+Cholelithiasis,PREDNISONE,31,11,20,3,0,0,4,13,13,0,22,9,30
+Cholelithiasis,RAMIPRIL,20,11,8,2,0,0,2,17,7,0,13,7,20
+Cholelithiasis,RANITIDINE,12,7,4,0,0,0,0,9,3,1,9,2,12
+Cholelithiasis,REBIF,16,5,11,0,0,0,1,9,10,3,13,0,16
+Cholelithiasis,REMICADE,109,32,75,4,2,0,4,62,62,4,91,14,109
+Cholelithiasis,SANDOSTATIN LAR,35,19,16,5,0,0,5,17,29,10,15,10,35
+Cholelithiasis,SANDOSTATIN LAR 10MG,11,5,6,3,0,0,2,5,8,2,7,2,11
+Cholelithiasis,SANDOSTATIN LAR 20MG,34,12,22,3,0,0,0,19,34,5,23,6,34
+Cholelithiasis,SANDOSTATIN LAR 30MG,38,16,22,6,0,0,0,19,36,7,20,11,38
+Cholelithiasis,SYNTHROID,21,6,15,1,0,0,0,14,12,0,9,12,21
+Cholelithiasis,TRAZODONE,12,5,7,1,0,0,1,9,3,2,9,1,12
+Cholelithiasis,TYLENOL,15,7,8,3,0,0,2,9,3,0,10,5,15
+Cholelithiasis,VITAMIN D,18,5,13,2,0,0,2,13,6,1,10,7,18
+Cholelithiasis,XENICAL 120MG CAPSULE,12,2,10,0,0,0,0,6,6,1,11,0,12
+Cholelithiasis,YASMIN 21,27,0,26,0,0,0,0,7,21,2,25,0,27
+Cholelithiasis,YASMIN 28,73,0,72,0,0,0,2,23,57,24,49,0,73
+Cholelithiasis,YAZ,44,0,43,0,0,0,1,15,35,15,29,0,44
+Cholelithiasis,ZYPREXA,19,4,15,2,1,0,3,9,10,0,18,1,19
+Cholestasis,INSULIN,11,10,1,2,0,0,0,8,3,2,8,1,11
+Cholestasis,PREDNISONE,18,6,12,2,0,0,0,14,3,2,11,5,18
+Cholestasis,QUETIAPINE,11,9,1,0,0,0,0,9,5,1,10,0,11
+Cholestasis,ZOPICLONE,11,9,1,0,0,0,0,9,4,1,10,0,11
+Drug-induced liver injury,CLOZAPINE,17,3,14,3,0,0,0,16,8,0,17,0,17
+Drug-induced liver injury,LAMIVUDINE,11,11,0,0,0,0,0,0,9,0,11,0,9
+Gallbladder disorder,CLOZARIL,11,9,2,4,0,0,0,6,1,1,8,2,11
+Gallbladder disorder,FOLIC ACID,17,3,13,0,0,0,0,8,10,2,11,4,17
+Gallbladder disorder,HUMIRA,20,8,11,0,0,0,0,12,11,4,10,6,19
+Gallbladder disorder,LIPITOR,14,10,3,0,1,0,0,10,8,2,10,2,14
+Gallbladder disorder,METHOTREXATE,15,3,11,0,0,0,0,6,10,1,11,3,15
+Gallbladder disorder,PREDNISONE,12,3,9,1,1,0,1,5,4,0,11,1,12
+Gallbladder disorder,REMICADE,54,15,37,3,1,0,0,29,23,3,46,5,54
+Gallbladder disorder,SANDOSTATIN LAR,12,10,2,1,0,0,0,11,10,3,6,3,12
+Hepatic cirrhosis,CLOZARIL,11,9,2,1,0,0,2,4,9,3,8,0,11
+Hepatic cirrhosis,FUROSEMIDE,20,13,7,6,0,0,1,10,6,2,9,9,20
+Hepatic cirrhosis,HUMIRA,14,6,8,4,0,0,0,9,8,0,11,3,14
+Hepatic cirrhosis,METHOTREXATE,13,5,8,1,0,0,1,5,5,1,12,0,12
+Hepatic cirrhosis,PEGASYS RBV,11,3,8,1,2,0,4,4,6,2,9,0,11
+Hepatic cirrhosis,REMICADE,16,9,7,5,0,0,1,9,9,0,14,2,16
+Hepatic cirrhosis,RIBAVIRIN,18,17,1,2,0,0,0,3,1,15,2,1,18
+Hepatic cirrhosis,ZYPREXA,13,12,1,1,0,0,0,5,7,0,12,1,13
+Hepatic congestion,XOLAIR,11,0,11,0,0,0,0,11,0,0,0,11,11
+Hepatic failure,ACETAMINOPHEN,45,16,27,21,0,0,5,20,8,10,29,6,45
+Hepatic failure,ALBUMIN (HUMAN),15,8,6,9,0,0,9,1,5,4,8,3,15
+Hepatic failure,ASA,12,4,8,8,1,0,6,3,5,1,7,4,12
+Hepatic failure,CLOZARIL,13,9,4,7,0,0,0,6,3,3,10,0,13
+Hepatic failure,CYCLOPHOSPHAMIDE,13,6,6,9,0,0,2,1,4,3,5,5,13
+Hepatic failure,CYCLOSPORINE,13,9,4,10,0,0,0,5,3,3,10,0,13
+Hepatic failure,DIURETIC(S),11,6,5,9,0,0,6,0,8,0,6,5,11
+Hepatic failure,FRESH FROZEN PLASMA,14,6,8,13,0,0,3,1,8,1,7,6,14
+Hepatic failure,FUROSEMIDE,11,8,2,10,0,0,0,2,0,2,8,1,11
+Hepatic failure,HALOTHANE,11,3,7,4,0,0,0,4,0,1,9,1,11
+Hepatic failure,HUMIRA,13,7,6,6,0,0,1,6,6,4,7,2,13
+Hepatic failure,HYDROCHLOROTHIAZIDE,11,6,4,4,2,0,4,7,5,1,8,2,11
+Hepatic failure,LACTULOSE SYRUP,18,13,5,11,0,0,2,5,0,3,10,5,18
+Hepatic failure,LASIX,16,10,6,8,0,0,2,5,4,1,9,6,16
+Hepatic failure,LIPITOR,11,7,4,3,3,0,5,5,0,1,5,5,11
+Hepatic failure,METFORMIN,11,7,4,7,0,0,4,4,0,1,7,3,11
+Hepatic failure,METHOTREXATE,13,5,8,6,0,0,0,4,4,2,10,1,13
+Hepatic failure,MORPHINE,13,2,11,9,0,0,2,4,2,1,9,3,13
+Hepatic failure,PEGETRON,12,9,3,5,0,0,3,3,1,1,11,0,12
+Hepatic failure,PREDNISONE,42,18,24,25,0,0,4,14,7,10,22,10,42
+Hepatic failure,RANITIDINE,13,4,9,7,0,0,1,6,1,5,5,3,13
+Hepatic failure,REMICADE,17,10,6,8,0,0,4,14,6,2,12,3,17
+Hepatic failure,SANDOSTATIN LAR 20MG,11,11,0,0,0,0,11,11,11,0,11,0,11
+Hepatic failure,SANDOSTATIN LAR 30MG,13,13,0,5,0,0,7,8,12,4,9,0,13
+Hepatic failure,TRASYLOL,11,5,6,11,0,0,4,0,11,0,6,5,11
+Hepatic failure,TYLENOL,22,11,11,9,0,0,4,11,2,4,14,4,22
+Hepatic failure,VITAMIN K,16,8,7,7,0,0,4,6,0,6,8,2,16
+Hepatic function abnormal,ACETAMINOPHEN,17,5,11,3,1,0,0,7,4,3,6,8,16
+Hepatic function abnormal,AFINITOR,11,10,1,0,0,0,0,1,11,3,1,7,11
+Hepatic function abnormal,ALDOMET,12,6,6,0,0,0,0,4,0,1,8,3,11
+Hepatic function abnormal,CLOZARIL,12,10,2,4,0,0,0,7,5,1,10,1,12
+Hepatic function abnormal,COLACE,11,4,5,1,0,0,1,4,1,2,4,5,10
+Hepatic function abnormal,DIGOXIN,23,8,15,1,0,0,0,7,1,0,6,17,19
+Hepatic function abnormal,FUROSEMIDE,11,5,6,2,0,0,0,5,1,0,5,6,9
+Hepatic function abnormal,INH,85,42,43,1,0,0,0,3,0,52,27,6,29
+Hepatic function abnormal,LASIX,23,13,10,5,0,0,1,9,2,1,9,13,20
+Hepatic function abnormal,LIPITOR,11,5,5,1,0,0,0,4,6,2,1,8,11
+Hepatic function abnormal,METFORMIN,11,8,3,5,0,0,0,5,6,2,7,2,10
+Hepatic function abnormal,PREDNISONE,36,17,19,11,1,0,2,13,7,5,18,13,30
+Hepatic function abnormal,PYRIDOXINE,13,7,6,1,0,0,0,1,0,6,6,1,4
+Hepatic function abnormal,RANITIDINE,11,2,9,2,0,0,0,3,3,0,6,5,8
+Hepatic function abnormal,SLOW K 600MG,14,6,8,1,0,0,0,4,0,0,4,10,9
+Hepatic function abnormal,ZOMETA CONCENTRATE,12,0,12,0,0,0,0,0,12,0,7,5,12
+Hepatic lesion,SANDOSTATIN LAR,22,9,13,7,0,0,5,20,18,3,10,9,22
+Hepatic lesion,SANDOSTATIN LAR 30MG,43,18,25,7,5,0,0,24,38,7,23,13,43
+Hepatic necrosis,ACETAMINOPHEN,33,3,7,12,0,0,3,6,14,26,6,1,33
+Hepatic necrosis,CLOZAPINE,11,4,7,10,0,0,0,4,2,6,5,0,11
+Hepatic necrosis,ETHANOL,15,0,4,10,0,0,0,0,5,11,3,1,15
+Hepatic necrosis,HALOTHANE,14,4,10,9,0,0,0,2,0,1,8,5,14
+Hepatic necrosis,PREDNISONE,17,4,13,4,0,0,3,6,4,3,12,2,17
+Hepatic pain,SANDOSTATIN LAR,16,5,11,4,0,0,0,7,13,4,6,6,16
+Hepatic pain,SANDOSTATIN LAR 30MG,17,9,8,2,0,0,0,8,16,5,10,2,17
+Hepatic steatosis,ACETAMINOPHEN,11,4,7,0,0,0,0,7,6,1,8,2,11
+Hepatic steatosis,ASA,11,5,6,1,1,0,1,7,6,1,5,5,11
+Hepatic steatosis,ASPIRIN,13,11,2,1,1,0,2,5,8,0,11,2,13
+Hepatic steatosis,ATIVAN,21,13,8,1,0,0,0,12,13,0,17,4,20
+Hepatic steatosis,CELEXA,20,9,10,2,0,0,0,9,11,2,18,0,20
+Hepatic steatosis,CLONAZEPAM,21,11,10,4,2,0,0,7,10,0,19,2,21
+Hepatic steatosis,CLOZARIL,22,7,15,2,0,0,0,10,16,9,13,0,21
+Hepatic steatosis,CRESTOR,14,7,7,0,0,0,2,6,9,2,9,3,14
+Hepatic steatosis,DEXAMETHASONE,31,30,1,0,0,0,0,3,30,1,30,0,31
+Hepatic steatosis,EFFEXOR XR,14,9,5,1,0,0,0,4,11,1,13,0,14
+Hepatic steatosis,EPIVAL,13,9,4,0,0,0,0,6,9,0,11,2,13
+Hepatic steatosis,FOLIC ACID,18,14,4,0,0,0,0,5,13,0,15,3,17
+Hepatic steatosis,LAMIVUDINE,14,14,0,0,0,0,0,0,12,0,14,0,12
+Hepatic steatosis,LIPITOR,23,10,13,0,2,0,0,9,12,2,13,8,22
+Hepatic steatosis,LORAZEPAM,29,20,9,2,1,0,1,16,16,0,28,1,29
+Hepatic steatosis,METFORMIN,23,8,15,0,1,0,0,11,12,0,17,6,22
+Hepatic steatosis,METHOTREXATE,23,12,11,0,0,0,0,10,18,0,22,1,23
+Hepatic steatosis,MOXIFLOXACIN,14,14,0,0,14,0,0,0,14,0,14,0,14
+Hepatic steatosis,OXYCONTIN,28,27,1,0,0,0,0,27,28,0,27,1,28
+Hepatic steatosis,PREDNISONE,17,7,10,2,0,0,1,7,11,0,16,1,17
+Hepatic steatosis,REMICADE,27,11,15,0,0,0,0,11,24,2,25,0,27
+Hepatic steatosis,RISPERDAL,26,19,7,4,0,0,0,11,18,1,24,1,26
+Hepatic steatosis,SEROQUEL,27,18,9,1,0,0,0,12,17,1,26,0,27
+Hepatic steatosis,SYNTHROID,15,2,13,0,1,0,1,8,9,1,12,2,15
+Hepatic steatosis,TEMAZEPAM,11,8,3,1,0,0,0,0,7,1,10,0,9
+Hepatic steatosis,TEMOZOLOMIDE,11,11,0,0,0,0,0,0,11,0,11,0,11
+Hepatic steatosis,TRAZODONE,15,7,7,3,1,0,0,3,9,1,14,0,15
+Hepatic steatosis,VITAMIN D,12,10,2,0,0,0,0,3,7,1,10,1,11
+Hepatic steatosis,VITAMIN E,11,9,2,0,0,0,1,1,7,0,10,1,10
+Hepatic steatosis,ZOLOFT,12,9,3,5,0,0,0,5,5,4,7,1,12
+Hepatic steatosis,ZOPICLONE,17,13,4,1,1,0,0,4,12,0,16,1,16
+Hepatic steatosis,ZYPREXA,185,139,46,18,2,0,0,91,113,7,162,16,185
+Hepatic steatosis,ZYPREXA ZYDIS,42,26,16,4,1,0,0,14,28,0,40,2,42
+Hepatitis,3TC,14,9,3,1,0,0,0,6,5,3,10,1,12
+Hepatitis,ACETAMINOPHEN,42,20,22,5,0,0,5,15,14,10,23,9,41
+Hepatitis,ACETYLSALICYLIC ACID,14,7,7,2,1,0,0,5,1,2,7,5,12
+Hepatitis,ACETYLSALICYLIC ACID ENT CTD,13,7,6,1,0,0,1,9,2,1,6,6,13
+Hepatitis,ALDOMET,13,5,7,0,0,0,0,4,0,2,9,2,13
+Hepatitis,ALLOPURINOL,12,5,7,3,0,0,1,5,2,1,5,6,12
+Hepatitis,ALTACE,16,8,8,1,0,0,3,4,8,0,10,6,16
+Hepatitis,AMPICILLIN,18,11,7,3,0,0,0,8,2,1,11,6,18
+Hepatitis,ASA,15,5,10,0,0,0,1,9,7,1,6,8,15
+Hepatitis,ATARAX,12,5,7,1,0,0,1,8,1,2,8,2,12
+Hepatitis,ATENOLOL TABLETS, BP,12,6,6,0,1,0,0,5,6,1,6,5,11
+Hepatitis,ATIVAN,24,8,16,1,0,0,6,12,6,0,15,9,23
+Hepatitis,AVANDIA,12,6,5,0,0,0,2,6,3,3,5,4,11
+Hepatitis,BENADRYL,11,5,5,1,0,0,1,5,1,1,8,2,10
+Hepatitis,BIAXIN,11,5,6,1,0,0,1,4,5,1,8,2,11
+Hepatitis,CELEBREX,18,5,13,2,1,0,4,7,6,2,11,5,18
+Hepatitis,CHLORPROMAZINE,19,10,9,1,0,0,0,1,0,3,14,2,13
+Hepatitis,CLONAZEPAM,11,2,9,0,0,0,1,3,5,0,10,1,9
+Hepatitis,CLOZARIL,18,10,7,2,0,0,5,6,11,7,11,0,18
+Hepatitis,CORDARONE,12,5,7,2,0,0,0,3,2,1,6,5,12
+Hepatitis,COUMADIN,16,9,7,3,1,0,2,5,4,2,7,7,16
+Hepatitis,CRESTOR,23,11,8,1,2,0,2,10,10,7,9,7,23
+Hepatitis,DEMEROL,17,9,8,2,0,0,0,5,0,1,12,4,17
+Hepatitis,DIGOXIN,19,12,7,4,0,0,0,8,0,0,6,13,19
+Hepatitis,DILANTIN,28,13,14,0,0,0,5,7,3,7,19,2,25
+Hepatitis,DIMENHYDRINATE,13,4,9,1,0,0,1,5,1,2,8,3,11
+Hepatitis,DIPHENHYDRAMINE,11,4,7,3,0,0,3,5,2,4,7,0,11
+Hepatitis,EFFEXOR XR,13,2,11,0,0,0,2,2,8,1,12,0,12
+Hepatitis,ENBREL,11,5,5,1,0,0,0,6,2,2,9,0,10
+Hepatitis,ENTROPHEN,11,6,5,1,0,0,0,3,2,1,6,4,11
+Hepatitis,ETHAMBUTOL,24,12,12,1,1,0,1,3,5,5,16,3,23
+Hepatitis,FERROUS SULPHATE,12,1,11,1,0,0,1,3,1,4,4,4,10
+Hepatitis,FLUOTHANE ANESTHETIC,18,5,12,3,0,0,0,1,0,1,13,4,17
+Hepatitis,FOLIC ACID,19,8,9,5,0,0,0,6,4,3,13,3,17
+Hepatitis,FUROSEMIDE,20,12,8,4,0,0,2,8,2,2,7,11,19
+Hepatitis,GENTAMICIN,13,6,7,0,0,0,2,6,2,0,9,4,11
+Hepatitis,GRAVOL,25,7,17,2,0,0,1,14,5,1,19,5,25
+Hepatitis,HALOTHANE,39,13,25,2,0,0,0,5,1,9,27,3,37
+Hepatitis,HYDROCHLOROTHIAZIDE,13,5,8,0,0,0,0,1,4,0,7,6,12
+Hepatitis,IBUPROFEN,11,5,6,0,0,0,3,6,2,2,6,3,10
+Hepatitis,ILOSONE,15,5,9,0,0,0,0,3,0,10,5,0,12
+Hepatitis,INH,96,47,48,3,0,0,1,17,0,37,50,9,86
+Hepatitis,ISONIAZID,16,8,8,1,1,0,0,4,6,2,6,8,15
+Hepatitis,LACTULOSE SYRUP,13,6,7,3,0,0,3,5,1,2,10,1,12
+Hepatitis,LASIX,32,16,16,5,0,0,3,11,4,1,12,19,31
+Hepatitis,LEVOTHYROXINE,13,3,10,2,0,0,2,6,4,0,7,6,12
+Hepatitis,LIPITOR,36,23,12,4,2,0,2,11,16,3,16,17,34
+Hepatitis,LORAZEPAM,24,8,15,3,1,0,3,11,12,4,18,2,23
+Hepatitis,LOSEC,21,9,12,2,1,0,5,8,7,0,13,8,21
+Hepatitis,METFORMIN,22,16,6,2,0,0,3,10,7,2,13,7,22
+Hepatitis,METHOTREXATE,27,16,10,1,0,0,1,9,14,4,16,7,24
+Hepatitis,METOPROLOL,13,8,5,2,1,0,2,5,4,1,6,6,13
+Hepatitis,MORPHINE,11,4,7,2,0,0,3,4,0,2,7,2,11
+Hepatitis,NAPROSYN,12,2,10,0,0,0,0,4,2,2,8,2,11
+Hepatitis,NITROFURANTOIN,11,2,9,0,0,0,1,4,0,0,6,5,9
+Hepatitis,NORVASC,16,7,9,0,0,0,1,8,9,0,10,6,16
+Hepatitis,OMEPRAZOLE,12,7,5,4,1,0,0,5,2,2,4,6,11
+Hepatitis,OXAZEPAM,12,2,10,0,1,0,0,5,3,0,8,4,11
+Hepatitis,PANTOLOC,17,6,11,1,1,0,0,10,5,0,12,5,17
+Hepatitis,PAXIL,12,2,8,0,0,0,3,5,4,1,10,1,12
+Hepatitis,PREDNISONE,78,31,46,7,2,0,3,35,21,11,52,15,75
+Hepatitis,PREMARIN,18,1,16,2,1,0,1,5,5,1,11,6,18
+Hepatitis,PREVACID,15,6,9,1,0,0,2,6,6,3,9,3,14
+Hepatitis,PYRAZINAMIDE,11,5,6,0,0,0,1,4,5,2,6,3,10
+Hepatitis,PYRIDOXINE,23,8,14,3,1,0,0,0,3,8,8,7,20
+Hepatitis,RANITIDINE,14,6,8,2,1,0,1,7,2,4,6,4,13
+Hepatitis,REMICADE,36,14,19,1,1,0,1,3,29,10,21,5,35
+Hepatitis,RIFAMPIN,31,19,12,3,1,0,0,3,6,6,14,11,30
+Hepatitis,SEPTRA,11,5,6,0,0,0,1,6,0,2,7,2,10
+Hepatitis,SEROQUEL,13,6,7,0,0,0,3,6,6,1,11,1,12
+Hepatitis,SERZONE-5HT2,12,1,11,0,0,0,2,6,4,0,10,2,12
+Hepatitis,SLOW K 600MG,11,7,4,1,0,0,1,4,0,0,5,6,11
+Hepatitis,SYNTHROID,32,5,26,1,1,0,2,11,12,1,17,14,31
+Hepatitis,TEGRETOL,17,8,9,1,0,0,2,6,1,5,12,0,15
+Hepatitis,TYLENOL,49,15,33,3,2,0,5,17,9,7,26,16,46
+Hepatitis,VASOTEC,11,6,5,1,0,0,1,5,2,0,6,5,9
+Hepatitis,VENTOLIN,15,7,8,2,0,0,0,10,3,2,6,7,15
+Hepatitis,VIOXX,11,5,5,0,0,0,3,4,3,1,9,1,10
+Hepatitis,VITAMIN B COMPLEX,11,3,6,4,0,0,1,3,3,2,4,5,11
+Hepatitis,VITAMIN D,11,2,9,1,0,0,0,3,9,1,7,3,11
+Hepatitis,VITAMIN E,11,3,6,2,0,0,0,3,5,3,5,3,11
+Hepatitis,VITAMIN K,17,9,8,3,0,0,1,10,2,1,14,2,16
+Hepatitis,VOLTAREN,14,4,9,0,0,0,0,6,0,3,4,7,13
+Hepatitis,ZANTAC,16,7,9,1,0,0,2,7,7,0,10,6,16
+Hepatitis,ZITHROMAX,15,10,3,2,0,0,1,9,2,5,5,5,14
+Hepatitis,ZOPICLONE,11,6,5,0,1,0,0,7,6,0,10,1,11
+Hepatitis,ZYPREXA,26,13,13,0,0,0,2,10,15,0,24,2,25
+Hepatitis cholestatic,PREDNISONE,12,3,9,2,0,0,2,11,2,3,7,2,12
+Hepatitis cholestatic,TICLID TAB 250MG,13,6,6,1,0,0,0,9,0,1,3,9,11
+Hepatocellular injury,ACETAMINOPHEN,12,2,10,1,3,0,2,4,4,6,5,1,12
+Hepatocellular injury,INH,20,12,7,2,0,0,0,0,0,9,9,2,20
+Hepatocellular injury,PREDNISONE,15,6,9,4,0,0,0,10,1,1,12,2,15
+Hepatomegaly,ACETAMINOPHEN,20,12,7,2,2,0,3,10,7,10,10,0,19
+Hepatomegaly,PREDNISONE,28,19,9,6,0,0,1,13,8,8,16,4,28
+Hepatomegaly,RANITIDINE,11,6,5,3,0,0,3,5,5,6,4,1,10
+Hepatomegaly,SANDOSTATIN LAR 20MG,12,11,1,0,0,0,11,11,12,0,12,0,12
+Hepatomegaly,SANDOSTATIN LAR 30MG,15,12,3,2,0,0,7,13,15,1,13,1,15
+Hepatomegaly,ZYPREXA,36,22,14,2,0,0,0,27,16,0,36,0,36
+Hepatomegaly,ZYPREXA ZYDIS,17,9,8,3,0,0,0,11,7,0,17,0,17
+Hepatosplenomegaly,ZYPREXA,20,17,3,0,0,0,0,11,15,0,20,0,20
+Hepatotoxicity,3TC,12,11,1,0,0,0,0,1,11,0,12,0,12
+Hepatotoxicity,ACETAMINOPHEN,21,5,8,0,1,0,1,15,2,11,8,2,19
+Hepatotoxicity,ATORVASTATIN CALCIUM,12,7,4,0,0,0,0,6,9,1,8,3,12
+Hyperbilirubinaemia,ACETAMINOPHEN,27,8,18,2,0,0,1,11,6,6,17,4,26
+Hyperbilirubinaemia,ALLOPURINOL,11,6,5,2,0,0,0,6,2,2,5,4,11
+Hyperbilirubinaemia,GRAVOL,12,5,7,0,0,0,0,7,2,2,8,2,9
+Hyperbilirubinaemia,LASIX,15,6,9,2,0,0,0,9,2,1,5,9,13
+Hyperbilirubinaemia,LORAZEPAM,17,9,8,1,0,0,2,7,5,2,14,1,15
+Hyperbilirubinaemia,NAPROXEN,11,10,1,0,0,0,0,8,2,0,10,1,11
+Hyperbilirubinaemia,OXAZEPAM,15,10,5,0,0,0,1,6,6,0,10,5,15
+Hyperbilirubinaemia,OXYCONTIN,29,28,1,0,0,0,1,28,27,0,28,1,29
+Hyperbilirubinaemia,PREDNISONE,24,8,15,3,0,0,2,12,4,6,14,4,21
+Hyperbilirubinaemia,RANITIDINE,14,4,10,5,1,0,0,5,2,4,7,3,12
+Hyperbilirubinaemia,TICLID TAB 250MG,18,11,7,1,0,0,0,10,1,3,2,13,14
+Hyperbilirubinaemia,TYLENOL,13,5,7,1,0,0,0,6,3,3,6,4,12
+Jaundice,3TC,17,11,5,5,1,0,0,8,2,1,14,2,16
+Jaundice,ACETAMINOPHEN,58,31,26,10,2,0,7,27,16,7,33,18,54
+Jaundice,ACETYLSALICYLIC ACID,22,9,12,4,0,0,0,10,3,3,10,9,20
+Jaundice,ACETYLSALICYLIC ACID ENT CTD,17,10,6,3,0,0,0,8,3,0,4,13,16
+Jaundice,ALDOMET,13,2,10,0,0,0,0,5,0,1,7,5,11
+Jaundice,ALLOPURINOL,27,16,11,14,0,0,2,6,4,1,9,17,26
+Jaundice,ALTACE,25,13,10,8,2,0,3,9,10,1,10,14,25
+Jaundice,AMPICILLIN,26,13,13,2,0,0,0,6,1,4,17,5,24
+Jaundice,ANTIINFECTIVES FOR SYSTEMIC USE,16,9,7,5,0,0,1,9,2,2,8,6,16
+Jaundice,ASA,22,13,9,5,0,0,4,9,11,0,12,10,22
+Jaundice,ASPIRIN,17,7,10,8,2,0,0,7,6,0,6,11,16
+Jaundice,ATARAX,21,6,15,2,2,0,3,7,3,0,15,6,19
+Jaundice,ATENOLOL TABLETS, BP,24,15,9,2,1,0,3,13,6,2,7,15,23
+Jaundice,ATIVAN,31,14,17,9,0,0,2,12,7,3,17,11,29
+Jaundice,AVELOX,12,9,3,4,0,0,1,5,2,1,7,4,11
+Jaundice,AZATHIOPRINE,11,3,8,3,0,0,2,6,3,0,11,0,11
+Jaundice,BENADRYL,23,12,11,3,0,0,2,12,5,0,19,4,23
+Jaundice,BETASERON,14,0,14,7,0,0,0,7,1,1,6,7,14
+Jaundice,BIAXIN,16,7,8,1,2,0,1,6,5,2,12,2,16
+Jaundice,BLOOD WHOLE,11,7,4,3,0,0,2,5,0,2,7,2,10
+Jaundice,CALCIUM,31,11,19,8,0,0,2,15,12,0,20,11,30
+Jaundice,CELEBREX,22,6,14,6,4,0,4,7,2,0,9,13,21
+Jaundice,CHLORPROMAZINE,35,20,15,1,0,0,0,8,0,2,18,15,29
+Jaundice,CHOLESTYRAMINE,15,7,8,0,3,0,0,9,3,1,11,3,15
+Jaundice,CIPRO,15,9,6,5,0,0,1,6,1,0,9,6,13
+Jaundice,CIPROFLOXACIN,20,7,13,4,0,0,1,13,5,1,15,4,20
+Jaundice,CLAVULIN,19,11,8,0,0,0,3,5,6,4,11,4,16
+Jaundice,CLONAZEPAM,17,6,10,3,3,0,0,8,5,0,16,1,16
+Jaundice,CLOXACILLIN,13,8,4,2,2,0,0,4,1,3,4,6,12
+Jaundice,CLOZARIL,22,14,8,5,0,0,0,10,13,3,13,6,22
+Jaundice,COLACE,16,8,7,2,1,0,2,10,6,2,6,8,16
+Jaundice,COUMADIN,16,12,4,5,0,0,3,7,3,0,5,11,16
+Jaundice,CRESTOR,23,16,6,4,1,0,4,9,12,3,14,6,23
+Jaundice,CYCLOPHOSPHAMIDE,11,7,3,5,0,0,1,6,1,1,9,1,11
+Jaundice,CYCLOSPORINE,12,9,3,4,1,0,2,6,1,0,11,1,12
+Jaundice,DEMEROL,16,10,6,3,0,0,0,5,4,0,14,2,15
+Jaundice,DEXAMETHASONE,11,8,3,5,0,0,2,4,2,1,8,2,11
+Jaundice,DIGOXIN,35,21,13,4,0,0,1,14,2,1,3,31,30
+Jaundice,DILANTIN,16,10,5,0,0,0,1,6,2,6,7,3,15
+Jaundice,DIMENHYDRINATE,17,8,8,2,1,0,2,6,4,2,10,5,16
+Jaundice,DOMPERIDONE,14,10,3,5,0,0,3,5,3,0,8,6,12
+Jaundice,DYAZIDE TAB,11,4,7,0,0,0,0,5,2,0,3,8,9
+Jaundice,EFFEXOR XR,11,5,6,2,0,0,1,4,5,2,7,2,11
+Jaundice,ELAVIL,13,6,6,0,1,0,1,2,2,2,8,3,7
+Jaundice,ELTROXIN,13,5,8,3,0,0,1,5,3,1,7,5,13
+Jaundice,ERYTHROMYCIN,11,4,4,3,0,0,2,4,0,2,5,4,11
+Jaundice,ETHAMBUTOL,17,10,7,0,1,0,1,7,1,3,9,5,16
+Jaundice,EXJADE,17,15,2,6,0,0,4,6,10,7,0,10,17
+Jaundice,FERROUS SULPHATE,14,5,9,3,0,0,1,2,2,2,6,6,13
+Jaundice,FLOVENT,13,10,3,1,0,0,2,6,5,2,9,2,12
+Jaundice,FLUCONAZOLE,15,9,6,4,0,0,4,8,4,1,14,0,14
+Jaundice,FLUOTHANE ANESTHETIC,19,4,13,3,0,0,0,0,0,4,9,6,15
+Jaundice,FOLIC ACID,36,21,13,7,0,0,2,19,9,5,19,12,35
+Jaundice,FOSAMAX,13,5,8,5,0,0,1,3,4,0,4,9,12
+Jaundice,FRAGMIN,13,7,6,2,0,0,1,6,10,1,10,2,13
+Jaundice,FUROSEMIDE,42,23,19,13,0,0,3,16,11,2,14,26,39
+Jaundice,GABAPENTIN,14,6,6,3,0,0,2,8,7,2,11,1,14
+Jaundice,GAMUNEX,23,12,11,0,1,0,5,17,10,3,16,4,23
+Jaundice,GENTAMICIN,18,10,7,2,0,0,0,8,2,2,13,3,17
+Jaundice,GLYBURIDE,17,10,7,3,0,0,3,9,2,1,8,8,16
+Jaundice,GRAVOL,30,14,16,4,0,0,2,15,3,1,22,7,28
+Jaundice,HALDOL,15,9,5,3,1,0,1,6,1,0,9,6,11
+Jaundice,HALOPERIDOL,11,4,7,0,0,0,0,2,1,4,3,4,9
+Jaundice,HALOTHANE,37,11,26,1,0,0,0,9,0,7,27,3,36
+Jaundice,HYDROCHLOROTHIAZIDE,43,15,28,9,4,0,1,14,7,0,15,28,42
+Jaundice,HYDROMORPHONE,11,6,5,3,1,0,2,8,8,0,10,1,11
+Jaundice,IBUPROFEN,19,10,9,8,1,0,2,6,5,1,9,9,19
+Jaundice,IGIVNEX,23,16,7,0,0,0,6,11,8,1,13,9,23
+Jaundice,ILOSONE,21,9,11,0,0,0,0,3,0,4,15,2,18
+Jaundice,IMOVANE,12,5,7,0,3,0,1,6,4,0,10,2,12
+Jaundice,IMURAN,11,7,4,1,2,0,1,7,6,0,7,4,11
+Jaundice,INDERAL,11,5,6,1,0,0,0,1,1,1,7,3,10
+Jaundice,INH,57,30,27,3,0,0,1,11,0,22,21,14,49
+Jaundice,INSULIN,23,20,3,5,1,0,0,14,11,1,18,4,23
+Jaundice,LACTULOSE,12,5,7,7,1,0,3,6,5,0,5,7,12
+Jaundice,LACTULOSE SYRUP,25,15,10,13,0,0,2,7,2,1,11,13,24
+Jaundice,LAMISIL,14,4,10,0,1,0,4,3,4,0,9,5,13
+Jaundice,LANOXIN,15,9,6,2,0,0,0,9,1,0,1,14,13
+Jaundice,LARGACTIL,58,22,30,1,0,0,0,7,0,14,27,17,47
+Jaundice,LASIX,40,22,18,15,0,0,2,13,8,2,16,22,35
+Jaundice,LEVOTHYROXINE,16,4,12,6,1,0,0,6,2,4,4,8,14
+Jaundice,LIPITOR,50,22,28,10,4,0,5,18,18,3,21,26,49
+Jaundice,LITHIUM,13,11,2,0,1,0,0,11,4,0,13,0,13
+Jaundice,LORAZEPAM,37,19,18,5,2,0,0,18,11,0,19,18,34
+Jaundice,LOSEC,26,15,11,5,0,0,2,9,13,4,16,6,24
+Jaundice,LYRICA,11,5,6,1,0,0,0,3,8,0,6,5,11
+Jaundice,MELLARIL,15,4,11,0,0,0,0,2,0,2,4,9,12
+Jaundice,METFORMIN,29,17,10,5,1,0,2,19,7,1,17,11,29
+Jaundice,METHOTREXATE,15,7,8,0,0,0,1,11,7,3,4,8,15
+Jaundice,METOCLOPRAMIDE,14,7,7,5,0,0,0,5,5,1,7,6,13
+Jaundice,METOPROLOL,34,19,14,12,1,0,1,15,13,2,10,22,33
+Jaundice,METRONIDAZOLE,16,11,4,1,1,0,2,9,4,1,15,0,15
+Jaundice,MORPHINE,33,22,10,8,0,0,3,8,2,4,22,7,28
+Jaundice,MULTIVITAMINE(S),21,12,9,1,2,0,1,14,8,2,15,4,21
+Jaundice,NIFEDIPINE,15,5,10,6,1,0,1,5,1,2,3,10,13
+Jaundice,NITROFURANTOIN,16,3,13,3,1,0,1,9,2,0,8,8,14
+Jaundice,NITROGLYCERIN,25,12,12,8,0,0,1,8,5,0,5,20,25
+Jaundice,NORVASC,20,9,10,4,0,0,1,12,4,1,8,11,19
+Jaundice,OMEPRAZOLE,22,11,10,5,1,0,3,14,6,2,14,6,21
+Jaundice,OXAZEPAM,16,7,7,2,0,0,1,9,3,1,8,7,16
+Jaundice,OXYCONTIN,32,28,4,0,0,0,1,31,29,1,28,3,32
+Jaundice,PANTOLOC,24,16,8,10,0,0,1,12,10,0,12,12,24
+Jaundice,PAXIL,12,4,7,1,1,0,0,7,2,5,5,2,10
+Jaundice,PEGASYS RBV,11,6,4,0,0,0,2,8,7,3,8,0,11
+Jaundice,PLAVIX,20,8,9,11,1,0,1,5,3,4,5,11,18
+Jaundice,POTASSIUM CHLORIDE,18,11,7,4,0,0,2,4,6,1,11,6,15
+Jaundice,PREDNISONE,126,68,57,24,2,0,13,63,27,10,78,38,120
+Jaundice,PREMARIN,20,0,20,1,1,0,0,8,4,1,11,8,19
+Jaundice,PREVACID,16,10,5,2,1,0,3,9,3,0,12,4,16
+Jaundice,PRIVIGEN,16,8,8,0,0,0,7,9,7,0,16,0,16
+Jaundice,PYRIDIUM,12,4,6,0,0,0,0,1,1,3,2,7,10
+Jaundice,QUESTRAN,15,6,9,0,1,0,2,8,2,1,9,5,15
+Jaundice,RAMIPRIL,16,10,6,3,0,0,2,10,4,1,5,10,14
+Jaundice,RANITIDINE,42,22,18,7,2,0,4,18,9,5,26,11,36
+Jaundice,REMICADE,26,17,8,5,0,0,0,14,15,4,16,6,26
+Jaundice,RIFAMPIN,22,9,13,2,1,0,0,5,2,7,7,8,21
+Jaundice,SALBUTAMOL,12,6,6,1,0,0,2,7,4,0,8,4,12
+Jaundice,SANDOSTATIN LAR,30,23,7,14,0,0,1,25,30,4,18,8,30
+Jaundice,SANDOSTATIN LAR 20MG,18,14,4,14,0,0,0,10,15,3,12,3,18
+Jaundice,SANDOSTATIN LAR 30MG,34,33,1,23,0,0,1,20,34,8,14,12,34
+Jaundice,SEPTRA,14,9,5,2,0,0,0,9,2,1,10,3,14
+Jaundice,SERAX,11,1,7,1,0,0,0,3,1,3,2,6,10
+Jaundice,SEROQUEL,11,7,4,3,0,0,0,8,3,1,5,5,11
+Jaundice,SERZONE-5HT2,18,4,13,2,0,0,3,6,7,2,14,2,18
+Jaundice,SLOW K 600MG,15,7,8,1,0,0,1,5,0,0,2,13,12
+Jaundice,SOLIRIS,23,19,1,0,0,0,0,17,14,1,22,0,23
+Jaundice,SPIRONOLACTONE,16,10,5,5,1,0,1,7,5,2,8,6,15
+Jaundice,STEMETIL,13,10,3,2,2,0,4,7,5,1,11,1,13
+Jaundice,SYNTHROID,36,8,27,6,0,0,3,17,8,1,19,16,34
+Jaundice,TEMAZEPAM,11,3,8,8,0,0,0,3,1,0,2,9,11
+Jaundice,TETRACYCLINE,11,4,7,1,0,0,0,4,0,1,7,3,10
+Jaundice,TICLID TAB 250MG,30,16,14,2,0,0,0,14,4,9,4,17,21
+Jaundice,TRACLEER,11,0,11,2,0,0,3,3,11,0,2,9,11
+Jaundice,TYLENOL,50,19,28,8,2,0,8,22,13,6,24,20,46
+Jaundice,TYLENOL WITH CODEINE NO. 3 - TAB,17,7,9,6,0,0,0,4,4,2,6,9,15
+Jaundice,VASOTEC,13,8,5,4,0,0,0,4,2,1,2,10,10
+Jaundice,VENTOLIN,16,10,6,3,1,0,1,8,4,1,8,7,13
+Jaundice,VITAMIN B12,13,5,6,3,0,0,0,4,6,2,9,2,13
+Jaundice,VITAMIN C,12,4,5,4,0,0,2,5,2,2,7,3,12
+Jaundice,VITAMIN D,24,5,18,2,1,0,2,17,7,0,12,12,23
+Jaundice,VITAMIN E,11,4,5,4,0,0,0,4,3,2,5,4,11
+Jaundice,VITAMIN K,33,16,17,10,0,0,6,17,4,3,27,3,33
+Jaundice,WARFARIN,24,16,8,4,0,0,1,13,8,0,8,16,22
+Jaundice,ZANTAC,21,12,8,2,1,0,2,7,4,0,15,6,19
+Jaundice,ZITHROMAX,12,10,2,3,0,0,1,6,2,2,5,5,12
+Jaundice,ZOPICLONE,25,16,9,3,3,0,3,19,9,0,20,5,25
+Jaundice cholestatic,CHLORPROMAZINE,23,13,10,0,0,0,0,2,0,4,9,10,18
+Jaundice cholestatic,LARGACTIL,21,12,9,0,0,0,0,1,0,6,10,5,20
+Liver disorder,ACETAMINOPHEN,11,4,7,1,0,0,3,3,6,2,9,0,11
+Liver disorder,ENBREL,20,7,9,4,0,0,0,3,7,4,13,3,15
+Liver disorder,EXJADE,31,28,3,2,0,0,0,7,30,16,9,6,31
+Liver disorder,FOLIC ACID,16,12,4,2,0,0,0,5,11,4,11,1,14
+Liver disorder,FUROSEMIDE,11,6,5,2,1,0,1,5,4,0,4,7,10
+Liver disorder,GLEEVEC,12,10,2,1,0,0,0,0,10,1,3,8,11
+Liver disorder,HUMIRA,28,12,16,0,0,0,0,15,10,6,18,4,19
+Liver disorder,LIPITOR,19,10,9,3,2,0,3,5,10,1,8,10,18
+Liver disorder,METHOTREXATE,37,10,23,4,0,0,0,10,18,9,25,3,26
+Liver disorder,PREDNISONE,20,10,10,4,1,0,0,6,9,2,15,3,18
+Liver disorder,REMICADE,49,13,35,2,2,0,0,31,20,3,42,4,49
+Liver disorder,SANDOSTATIN LAR,32,6,26,4,0,0,0,18,26,9,9,14,32
+Liver disorder,SANDOSTATIN LAR 30MG,31,14,17,3,0,0,0,20,27,6,16,9,31
+Liver disorder,SYNTHROID,14,3,11,2,1,0,0,6,8,2,10,2,14
+Liver disorder,TASIGNA,13,0,13,0,0,0,0,11,13,2,11,0,13
+Liver disorder,VITAMIN D,12,4,8,2,0,0,1,5,6,0,10,2,11
+Liver injury,METHOTREXATE,12,7,5,2,0,0,0,9,5,3,6,3,12
+Liver injury,PREDNISONE,11,7,4,4,0,0,2,6,2,4,6,1,11

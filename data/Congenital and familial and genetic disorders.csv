@@ -1,0 +1,68 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Anterior chamber cleavage syndrome,HYDROXYCHLOROQUINE,6,0,6,0,2,3,0,0,2,6,0,0,6
+Anterior chamber cleavage syndrome,METHOTREXATE,6,0,6,0,2,3,0,0,2,6,0,0,6
+Aplasia,CLOZARIL,6,6,0,0,0,0,0,6,6,0,6,0,6
+Clinodactyly,METHOTREXATE,6,0,0,2,0,3,0,0,3,6,0,0,6
+Clinodactyly,MISOPROSTOL,6,0,0,2,0,3,0,0,3,6,0,0,6
+Colour blindness,BETASERON,6,3,3,0,0,0,0,1,5,0,6,0,6
+Colour blindness,ETHAMBUTOL,6,2,3,0,0,0,0,0,0,3,1,2,6
+Colour blindness,INH,6,1,4,0,0,0,0,0,0,2,3,1,6
+Congenital anomaly,BENDECTIN,11,3,7,3,0,1,0,0,0,8,3,0,9
+Congenital anomaly,DICLECTIN,6,2,3,0,0,6,0,1,0,5,1,0,6
+Congenital anomaly,FOLIC ACID,7,0,3,1,0,5,0,0,1,6,1,0,6
+Congenital anomaly,FORANE,24,0,0,0,0,24,0,0,5,24,0,0,24
+Congenital anomaly,PAXIL,12,8,3,0,0,11,0,4,0,10,2,0,12
+Congenital anomaly in offspring,HYDROCHLOROTHIAZIDE,6,0,6,0,0,0,0,0,6,2,4,0,6
+Congenital anomaly in offspring,ONDANSETRON,10,0,10,0,0,0,0,1,10,3,7,0,10
+Congenital anomaly in offspring,VALSARTAN,6,0,6,0,0,0,0,0,6,2,4,0,6
+Congenital cardiovascular anomaly,SUPRANE 1ML/ML,6,0,0,0,0,0,0,0,6,6,0,0,6
+Congenital hand malformation,DILANTIN,6,1,4,0,0,1,0,0,0,5,1,0,1
+Congenital hand malformation,PHENOBARBITAL,8,1,6,0,0,1,0,0,0,8,0,0,1
+Congenital musculoskeletal anomaly,FLUCONAZOLE,8,7,1,1,1,7,0,0,1,8,0,0,8
+Cystic fibrosis,XOLAIR,10,0,10,2,0,0,0,6,7,3,7,0,10
+Ear malformation,ACCUTANE ROCHE,7,0,7,0,0,7,0,0,0,7,0,0,7
+Factor VII deficiency,ACTEMRA,12,0,12,0,0,0,0,0,1,0,12,0,1
+Fallot's tetralogy,METHOTREXATE,6,0,0,2,0,4,1,2,4,3,3,0,6
+Fanconi syndrome,CALCIUM CARBONATE,8,0,8,0,0,0,0,1,7,8,0,0,8
+Fanconi syndrome,CARNITINE,7,0,7,0,0,0,0,1,6,7,0,0,7
+Fanconi syndrome,LANSOPRAZOLE,8,0,8,0,0,0,0,1,7,8,0,0,8
+Fanconi syndrome,RITONAVIR,6,5,1,0,1,0,0,1,5,1,5,0,6
+Fanconi syndrome,TOPIRAMATE,12,0,12,0,0,0,0,1,11,12,0,0,12
+Fanconi syndrome,TRUVADA,6,6,0,0,0,0,0,1,5,1,5,0,6
+Fanconi syndrome,VALPROIC ACID,10,0,10,0,0,0,0,1,9,10,0,0,10
+Gene mutation,ROSUVASTATIN,11,0,11,0,0,0,0,0,11,0,5,6,11
+Heart disease congenital,PAXIL,10,3,6,0,0,9,0,3,0,10,0,0,10
+Huntington's disease,CLOZARIL,8,5,3,7,0,0,0,1,1,2,6,0,8
+Hydrocele,REMICADE,7,7,0,0,0,0,0,3,4,0,7,0,7
+Hypertelorism of orbit,METHOTREXATE,6,0,0,2,0,3,0,0,3,6,0,0,6
+Hypertelorism of orbit,MISOPROSTOL,6,0,0,2,0,3,0,0,3,6,0,0,6
+Low set ears,METHOTREXATE,6,0,0,2,0,3,0,0,3,6,0,0,6
+Low set ears,MISOPROSTOL,6,0,0,2,0,3,0,0,3,6,0,0,6
+Micrognathia,METHOTREXATE,6,0,0,2,0,3,0,0,3,6,0,0,6
+Micrognathia,MISOPROSTOL,6,0,0,2,0,3,0,0,3,6,0,0,6
+Multiple congenital abnormalities,BENDECTIN,7,1,5,2,0,0,0,0,0,5,2,0,4
+Muscular dystrophy,CYMBALTA,6,6,0,0,6,0,0,0,3,0,6,0,6
+Progressive external ophthalmoplegia,CRIXIVAN,11,11,0,0,0,0,0,0,10,0,11,0,11
+Progressive external ophthalmoplegia,FUZEON,6,6,0,0,0,0,0,0,6,0,6,0,6
+Progressive external ophthalmoplegia,INTELENCE,7,7,0,0,0,0,0,0,6,0,7,0,7
+Progressive external ophthalmoplegia,ISENTRESS,7,7,0,0,0,0,0,0,6,0,7,0,7
+Progressive external ophthalmoplegia,KALETRA,6,6,0,0,0,0,0,0,4,0,6,0,6
+Progressive external ophthalmoplegia,LAMIVUDINE,19,19,0,0,0,0,0,0,15,0,19,0,19
+Progressive external ophthalmoplegia,LOPINAVIR,7,7,0,0,0,0,0,0,6,0,7,0,7
+Progressive external ophthalmoplegia,PREZISTA,7,7,0,0,0,0,0,0,6,0,7,0,7
+Progressive external ophthalmoplegia,RITONAVIR,10,10,0,0,0,0,0,0,8,0,10,0,10
+Progressive external ophthalmoplegia,SAQUINAVIR,11,11,0,0,0,0,0,0,9,0,11,0,11
+Progressive external ophthalmoplegia,VIDEX EC,13,13,0,0,0,0,0,0,9,0,13,0,13
+Progressive external ophthalmoplegia,VIRAMUNE,13,13,0,0,0,0,0,0,10,0,13,0,13
+Progressive external ophthalmoplegia,VIREAD,9,9,0,0,0,0,0,0,8,0,9,0,9
+Progressive external ophthalmoplegia,ZERIT,9,9,0,0,0,0,0,0,7,0,9,0,9
+Progressive external ophthalmoplegia,ZIAGEN,10,10,0,0,0,0,0,0,9,0,10,0,10
+Progressive external ophthalmoplegia,ZIDOVUDINE,12,12,0,0,0,0,0,0,10,0,12,0,12
+Sickle cell anaemia with crisis,EXJADE,25,1,24,0,0,0,0,23,6,6,19,0,25
+Spina bifida,SYNTHROID,6,0,5,0,0,5,0,1,3,6,0,0,6
+Talipes,METHOTREXATE,6,5,0,0,0,1,0,0,6,6,0,0,6
+Tourette's disorder,CONCERTA,7,7,0,0,5,0,5,5,7,7,0,0,7
+Tourette's disorder,RISPERDAL,6,4,1,0,1,0,1,2,4,5,1,0,5
+Tourette's disorder,RITALIN,6,5,1,0,2,0,2,1,3,4,2,0,6
+Tourette's disorder,STRATTERA,6,6,0,0,0,0,0,0,0,6,0,0,0
+Trisomy 21,REMICADE,6,1,2,1,0,4,0,1,2,6,0,0,6

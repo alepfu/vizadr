@@ -1,0 +1,171 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Activities of daily living impaired,ACETAMINOPHEN,8,4,4,0,1,0,1,4,7,1,3,4,8
+Activities of daily living impaired,ACETYLSALICYLIC ACID,6,4,2,1,1,0,0,2,3,1,1,4,5
+Activities of daily living impaired,ACLASTA,9,0,9,0,3,0,0,0,6,0,2,7,8
+Activities of daily living impaired,ACTONEL,14,7,7,0,6,0,1,4,7,1,4,9,11
+Activities of daily living impaired,ALTACE,6,1,5,0,3,0,0,1,2,0,5,1,4
+Activities of daily living impaired,AMITRIPTYLINE,11,3,8,0,2,0,0,1,7,1,9,1,9
+Activities of daily living impaired,ARICEPT,7,3,4,1,4,0,0,1,3,1,0,6,7
+Activities of daily living impaired,ASA,15,6,9,2,5,0,0,1,7,0,4,11,12
+Activities of daily living impaired,ASAPHEN,7,3,4,0,1,0,0,1,4,0,2,5,4
+Activities of daily living impaired,ASPIRIN,7,3,4,0,2,0,0,3,5,1,1,5,7
+Activities of daily living impaired,ATENOLOL TABLETS, BP,7,1,6,0,0,0,0,0,4,0,4,3,4
+Activities of daily living impaired,ATIVAN,10,3,7,0,3,0,0,3,6,0,6,4,9
+Activities of daily living impaired,BENLYSTA FOR I.V. INFUSION ONLY. 80MG/ML (RECONST.),7,0,7,0,0,0,0,4,7,0,7,0,7
+Activities of daily living impaired,BOTOX PWS INJ 100UNIT/VIAL,14,0,14,0,4,0,0,0,10,1,13,0,14
+Activities of daily living impaired,CALCIUM,15,1,14,0,6,0,1,1,7,0,7,8,13
+Activities of daily living impaired,CELEBREX,8,3,5,0,4,0,0,2,3,1,2,5,7
+Activities of daily living impaired,CHAMPIX,71,30,40,0,23,0,12,4,34,5,54,12,60
+Activities of daily living impaired,CITALOPRAM,6,1,5,0,0,0,1,1,2,2,2,2,4
+Activities of daily living impaired,CLONAZEPAM,6,3,3,0,3,0,1,3,2,0,5,1,5
+Activities of daily living impaired,CONCERTA,6,4,2,0,0,0,1,4,5,5,1,0,6
+Activities of daily living impaired,CRESTOR,25,10,14,0,7,0,0,2,10,4,11,10,17
+Activities of daily living impaired,CRESTOR - 10MG,13,12,1,0,4,0,1,1,4,2,2,9,9
+Activities of daily living impaired,CYMBALTA,13,3,10,2,5,0,0,3,5,0,11,2,10
+Activities of daily living impaired,DICLOFENAC,6,6,0,0,0,0,0,0,2,0,4,2,2
+Activities of daily living impaired,DIOVAN,8,2,5,1,0,0,0,0,5,1,2,5,7
+Activities of daily living impaired,DOMPERIDONE,6,1,5,0,3,0,0,0,2,0,2,4,5
+Activities of daily living impaired,ENBREL,15,3,12,0,0,0,0,2,8,1,6,8,10
+Activities of daily living impaired,EXELON,9,1,8,6,1,0,0,0,4,4,0,5,9
+Activities of daily living impaired,EXJADE,18,8,10,1,0,0,0,17,7,1,10,7,18
+Activities of daily living impaired,EZETROL,9,4,5,0,4,0,0,2,1,0,3,6,6
+Activities of daily living impaired,FOLIC ACID,16,2,14,0,5,0,0,5,6,2,6,8,13
+Activities of daily living impaired,FOSAMAX,6,0,6,0,2,0,0,0,1,0,3,3,3
+Activities of daily living impaired,FUROSEMIDE,7,3,4,0,2,0,0,2,2,0,1,6,5
+Activities of daily living impaired,GABAPENTIN,9,2,7,0,2,0,0,0,8,5,3,1,9
+Activities of daily living impaired,HUMIRA,20,6,14,0,1,0,0,7,8,3,11,6,12
+Activities of daily living impaired,HYDROCHLOROTHIAZIDE,8,5,3,0,4,0,0,3,3,0,2,6,7
+Activities of daily living impaired,JAKAVI,6,0,6,0,0,0,0,6,0,0,0,6,6
+Activities of daily living impaired,LEVOTHYROXINE,7,1,6,0,3,0,0,2,3,0,3,4,6
+Activities of daily living impaired,LIPITOR,32,11,21,3,8,0,1,10,18,3,7,22,25
+Activities of daily living impaired,LORAZEPAM,8,3,5,0,0,0,0,2,4,1,4,3,5
+Activities of daily living impaired,LOSEC,8,0,8,0,3,0,0,1,5,1,0,7,7
+Activities of daily living impaired,LUPRON DEPOT,8,7,1,2,2,0,0,4,5,1,0,7,7
+Activities of daily living impaired,LYRICA,16,2,14,0,4,0,0,1,8,1,12,3,11
+Activities of daily living impaired,MAGNESIUM,6,1,5,0,3,0,0,0,3,0,3,3,5
+Activities of daily living impaired,METFORMIN,18,7,11,2,2,0,1,6,8,2,9,7,13
+Activities of daily living impaired,METHOTREXATE,14,2,12,0,3,0,0,4,8,1,4,9,11
+Activities of daily living impaired,METOPROLOL,10,5,5,1,2,0,0,4,3,2,2,6,6
+Activities of daily living impaired,MICARDIS,7,3,4,0,1,0,0,1,5,0,0,7,5
+Activities of daily living impaired,MIRENA,6,0,6,0,2,0,2,0,6,5,1,0,6
+Activities of daily living impaired,MULTIVITAMINE(S),16,2,14,0,5,0,0,1,9,1,5,10,12
+Activities of daily living impaired,NEXIUM,7,1,6,0,3,0,0,0,4,0,6,1,6
+Activities of daily living impaired,NITROGLYCERIN,6,2,4,1,3,0,0,2,2,0,0,6,6
+Activities of daily living impaired,NORVASC,8,3,5,0,3,0,0,3,4,0,2,6,6
+Activities of daily living impaired,OMEGA - 3,8,3,5,0,2,0,1,1,4,1,5,2,7
+Activities of daily living impaired,OMEPRAZOLE,7,1,6,0,2,0,0,0,2,1,2,4,5
+Activities of daily living impaired,PANTOLOC,10,1,9,1,2,0,0,1,3,0,4,6,7
+Activities of daily living impaired,PLAVIX,6,2,4,1,2,0,0,2,3,0,1,5,5
+Activities of daily living impaired,PREDNISONE,20,5,15,0,8,0,0,6,12,3,12,5,17
+Activities of daily living impaired,PREVACID,7,4,3,0,2,0,1,1,4,0,3,4,6
+Activities of daily living impaired,RAMIPRIL,10,5,5,0,1,0,0,7,5,1,1,8,10
+Activities of daily living impaired,RATIO-MORPHINE SR,7,1,6,0,7,0,6,6,6,0,6,1,7
+Activities of daily living impaired,REMICADE,16,4,12,0,4,0,1,5,10,2,13,1,16
+Activities of daily living impaired,SANDOSTATIN LAR 30MG,13,3,10,0,0,0,0,2,13,3,2,8,13
+Activities of daily living impaired,SPIRIVA,8,3,5,0,1,0,0,3,3,2,2,4,5
+Activities of daily living impaired,SULFASALAZINE,6,2,4,0,1,0,0,1,3,1,1,4,4
+Activities of daily living impaired,SYMBICORT TURBUHALER,9,5,4,0,3,0,1,1,2,2,6,1,3
+Activities of daily living impaired,SYNTHROID,24,6,17,1,8,0,1,2,15,1,6,17,20
+Activities of daily living impaired,TAMOXIFEN,8,0,8,0,0,0,0,0,8,0,8,0,8
+Activities of daily living impaired,TYLENOL,11,2,9,1,5,0,3,3,4,0,6,5,10
+Activities of daily living impaired,VENTOLIN,9,3,6,0,4,0,1,3,2,1,5,3,5
+Activities of daily living impaired,VITAMIN D,20,3,17,0,8,0,2,2,8,1,11,8,14
+Activities of daily living impaired,WARFARIN,7,1,6,0,2,0,0,3,1,3,0,4,5
+Activities of daily living impaired,XOLAIR,8,3,5,0,4,0,3,7,8,1,4,3,8
+Activities of daily living impaired,XYREM,10,0,10,0,0,0,0,0,10,0,10,0,10
+Activities of daily living impaired,ZOPICLONE,6,4,2,0,1,0,0,1,2,0,2,4,4
+Activities of daily living impaired,ZYPREXA,6,6,0,0,0,0,0,5,1,0,6,0,6
+Alcohol use,PAXIL,10,4,6,0,0,0,1,2,8,10,0,0,10
+Bedridden,ACLASTA,17,0,17,0,2,0,1,1,11,7,2,8,13
+Bedridden,CALCIUM,7,2,5,1,1,0,0,3,1,1,2,4,5
+Bedridden,CRESTOR,9,3,6,0,2,0,2,3,5,0,5,4,9
+Bedridden,CYMBALTA,7,2,5,2,0,0,0,0,0,0,7,0,2
+Bedridden,HUMIRA,8,0,8,0,3,0,0,3,7,0,6,2,8
+Bedridden,LIPITOR,7,0,7,3,4,0,0,3,4,3,1,3,7
+Bedridden,PREDNISONE,9,4,5,1,1,0,0,5,6,0,6,3,9
+Bedridden,REMICADE,32,20,12,1,1,0,0,13,17,1,22,9,31
+Bedridden,TYLENOL,7,1,6,2,2,0,0,3,3,0,2,5,6
+Bedridden,VITAMIN D,7,0,7,0,2,0,0,2,4,0,2,5,6
+Breast feeding,BACLOFEN,6,0,6,0,0,0,0,0,6,6,0,0,6
+Disability,HUMIRA,6,2,4,0,6,0,0,3,5,0,6,0,6
+Educational problem,NOVO-METHYLPHENIDATE ER-C,9,8,1,0,0,0,0,0,3,9,0,0,3
+Educational problem,PAXIL,8,2,6,0,0,2,0,0,6,6,2,0,8
+Educational problem,TEVA-METHYLPHENIDATE ER-C,6,4,2,0,0,0,0,0,0,6,0,0,0
+Gambling,MIRAPEX,6,5,1,0,1,0,0,2,2,2,3,1,5
+Homicide,COCAINE,6,4,2,1,0,0,0,0,5,2,4,0,6
+Immobile,BACLOFEN,6,0,6,0,0,0,0,0,6,6,0,0,6
+Immobile,METFORMIN,6,2,4,0,5,0,0,1,1,1,2,3,6
+Immobile,REMICADE,8,2,6,0,0,0,0,0,8,1,7,0,8
+Impaired driving ability,CHAMPIX,30,15,15,0,3,0,10,5,8,5,22,3,21
+Impaired driving ability,CLONAZEPAM,6,1,5,0,0,0,2,0,4,0,6,0,6
+Impaired driving ability,COCAINE,6,6,0,0,0,0,0,1,6,0,6,0,6
+Impaired driving ability,ETHANOL,8,6,2,0,0,0,0,1,8,1,7,0,8
+Impaired driving ability,LYRICA,6,2,4,0,0,0,0,2,5,1,4,1,5
+Impaired driving ability,MARIJUANA,9,6,3,0,0,0,0,0,8,0,8,1,9
+Impaired driving ability,MORPHINE SULFATE,6,2,4,0,0,0,0,0,5,0,6,0,6
+Impaired driving ability,OXYCODONE,10,7,3,0,0,0,0,2,9,0,9,1,9
+Impaired driving ability,OXYCONTIN,17,16,1,0,0,0,0,3,17,5,12,0,17
+Impaired driving ability,PREDNISONE,8,1,7,0,0,0,0,0,8,0,8,0,8
+Impaired driving ability,VENLAFAXINE XR,6,0,6,0,0,0,0,0,0,0,6,0,0
+Impaired driving ability,ZOPICLONE,7,2,5,0,0,0,2,0,2,0,7,0,3
+Impaired work ability,AMITRIPTYLINE,6,1,5,0,1,0,1,0,6,1,5,0,6
+Impaired work ability,CHAMPIX,34,18,16,0,7,0,3,4,22,8,25,1,30
+Impaired work ability,CRESTOR,15,11,4,0,5,0,0,3,6,0,10,5,13
+Impaired work ability,EFFEXOR XR,7,1,6,0,3,0,0,2,2,1,5,1,6
+Impaired work ability,HUMIRA,7,4,3,0,3,0,0,1,5,0,6,1,5
+Impaired work ability,LYRICA,6,5,1,0,1,0,0,3,2,2,4,0,5
+Impaired work ability,METFORMIN,8,4,2,0,2,0,0,0,3,2,5,1,5
+Impaired work ability,REMICADE,25,9,16,0,2,0,1,2,22,0,25,0,25
+Impaired work ability,SYNTHROID,7,0,7,0,7,0,0,0,7,0,7,0,7
+Impaired work ability,VITAMIN D,7,1,6,0,4,0,2,1,2,1,4,2,6
+Impaired work ability,XOLAIR,7,1,6,0,0,0,3,3,7,3,4,0,7
+Impaired work ability,ZELDOX,6,1,5,0,0,0,0,0,6,1,5,0,6
+Inadequate diet,REMICADE,9,4,5,0,0,0,0,5,3,1,8,0,8
+Menopause,ACTEMRA,9,0,9,0,0,0,0,0,2,0,9,0,9
+Physical assault,REMICADE,8,8,0,0,0,0,0,8,0,0,8,0,8
+Pregnancy of partner,REMICADE,24,24,0,0,3,0,0,8,14,5,19,0,24
+Stress at work,XOLAIR,10,4,5,0,0,0,0,0,4,1,9,0,4
+Theft,DILAUDID,8,6,2,0,0,0,0,0,8,0,8,0,8
+Theft,OXYCONTIN,12,10,2,0,0,0,0,0,12,1,11,0,12
+Tobacco user,CHAMPIX,13,11,2,0,1,0,0,0,9,1,10,2,9
+Tobacco user,PROLOPA,6,6,0,0,3,0,0,0,0,0,6,0,6
+Treatment noncompliance,APO-CLOZAPINE,47,38,9,0,0,0,0,40,8,24,23,0,43
+Treatment noncompliance,BENZTROPINE,6,5,1,0,0,0,0,3,3,2,4,0,5
+Treatment noncompliance,BISOPROLOL,8,6,2,0,0,0,0,6,1,0,7,1,7
+Treatment noncompliance,CARBAMAZEPINE,8,5,3,0,0,0,2,5,6,0,7,1,8
+Treatment noncompliance,CITALOPRAM,6,6,0,1,0,0,0,3,2,1,5,0,6
+Treatment noncompliance,CLONAZEPAM,9,5,4,0,0,0,0,3,5,1,7,1,8
+Treatment noncompliance,CLOZARIL,20,18,2,3,0,0,6,10,10,8,11,1,20
+Treatment noncompliance,COUMADIN,9,5,4,0,1,0,0,0,8,3,4,2,9
+Treatment noncompliance,DIAZEPAM,10,10,0,0,0,0,0,10,0,0,10,0,10
+Treatment noncompliance,DILAUDID,13,13,0,0,0,0,0,13,0,0,13,0,13
+Treatment noncompliance,DIOVAN,15,1,6,1,0,0,0,0,10,8,1,6,11
+Treatment noncompliance,DIOVAN-HCT,7,0,4,3,0,0,0,0,7,2,2,3,7
+Treatment noncompliance,DURAGESIC,7,0,7,1,0,0,0,0,6,1,6,0,7
+Treatment noncompliance,EXJADE,30,8,21,1,0,0,0,15,25,6,5,19,30
+Treatment noncompliance,FLURAZEPAM HYDROCHLORIDE,10,10,0,0,0,0,0,10,0,0,10,0,10
+Treatment noncompliance,GLYBURIDE,6,6,0,0,0,0,0,5,1,0,6,0,6
+Treatment noncompliance,HUMIRA,7,1,6,1,0,0,0,4,2,1,5,1,7
+Treatment noncompliance,INVEGA,6,5,1,0,0,0,0,4,4,4,2,0,6
+Treatment noncompliance,LIPITOR,10,8,2,0,0,0,1,7,4,0,8,2,9
+Treatment noncompliance,MEDROXYPROGESTERONE ACETATE,7,7,0,0,0,0,0,7,0,0,7,0,7
+Treatment noncompliance,METFORMIN,12,7,5,0,1,0,0,7,1,1,10,1,9
+Treatment noncompliance,REMICADE,7,3,3,0,0,0,0,0,6,2,5,0,6
+Treatment noncompliance,RISPERDAL CONSTA,6,4,2,0,0,0,1,5,5,1,5,0,6
+Treatment noncompliance,RISPERIDONE,15,8,7,1,0,0,0,7,8,1,14,0,15
+Treatment noncompliance,XOLAIR,23,15,8,0,0,0,1,7,23,4,18,1,23
+Treatment noncompliance,ZYPREXA ZYDIS,8,2,6,4,1,0,0,0,2,4,4,0,7
+Walking aid user,BETASERON,11,1,10,0,5,0,0,3,8,1,10,0,11
+Walking aid user,HUMIRA,9,3,6,0,2,0,0,5,8,0,6,3,9
+Walking aid user,METFORMIN,7,1,6,0,4,0,0,5,6,0,3,4,7
+Walking aid user,METHOTREXATE,7,2,5,0,1,0,0,4,6,0,6,1,6
+Walking aid user,PREDNISONE,13,4,9,0,2,0,0,6,11,1,9,3,11
+Walking aid user,REBIF,9,0,9,0,4,0,3,5,1,2,7,0,7
+Walking aid user,REMICADE,20,10,10,0,4,0,0,10,14,1,11,8,20
+Walking aid user,VITAMIN D,6,1,5,0,3,0,0,2,4,1,1,4,5
+Walking aid user,XOLAIR,14,6,8,4,3,0,0,8,14,5,9,0,14
+Walking disability,CRESTOR,8,3,5,0,2,0,0,0,3,0,2,6,4
+Walking disability,RATIO-MORPHINE SR,8,0,8,0,0,0,0,4,4,4,4,0,8
+Wheelchair user,ACLASTA,6,0,6,0,1,0,0,3,5,2,1,3,6
+Wheelchair user,PREDNISONE,6,3,3,1,2,0,0,1,3,1,2,3,5
+Wheelchair user,XOLAIR,12,2,10,2,0,0,0,10,12,10,0,2,12

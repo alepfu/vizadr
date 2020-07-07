@@ -1,0 +1,663 @@
+reaction,drug,count,countmale,countfemale,countdeath,countdisab,countanomal,countthreat,counthosp,countother,countyoung,countadult,countelderly,countserious
+Anaphylactic reaction,ACETAMINOPHEN,39,12,27,1,0,0,16,5,9,10,21,8,35
+Anaphylactic reaction,ACETYLSALICYLIC ACID,16,9,7,0,0,0,2,6,1,4,10,2,12
+Anaphylactic reaction,ADALAT,12,6,6,0,0,0,2,1,1,0,6,6,12
+Anaphylactic reaction,ADRENALIN CHLORIDE SOL 1:1000,133,42,84,5,0,0,23,39,21,26,85,22,126
+Anaphylactic reaction,ADVAIR,16,5,11,1,0,0,8,7,8,4,7,5,16
+Anaphylactic reaction,ALLOPURINOL,13,7,6,0,0,0,7,1,3,1,4,8,12
+Anaphylactic reaction,AMINOPHYLLINE,23,10,13,0,0,0,1,7,0,3,14,6,22
+Anaphylactic reaction,AMPICILLIN,23,11,12,3,0,0,1,4,1,5,13,5,20
+Anaphylactic reaction,ANCEF,14,8,4,0,0,0,2,1,2,1,6,7,12
+Anaphylactic reaction,ANTIHISTAMINIC DRUGS,19,4,15,1,0,0,5,4,4,3,14,2,19
+Anaphylactic reaction,ASA,25,12,12,1,0,0,12,8,7,0,13,12,24
+Anaphylactic reaction,ASPIRIN,21,9,11,2,0,0,8,5,8,4,14,3,21
+Anaphylactic reaction,ATARAX,19,3,15,0,0,0,4,7,4,2,16,1,18
+Anaphylactic reaction,ATIVAN,20,11,9,2,0,0,4,4,7,0,12,8,19
+Anaphylactic reaction,ATROPINE,35,18,16,1,0,0,6,7,0,7,21,7,33
+Anaphylactic reaction,ATROVENT,16,6,10,1,0,0,4,7,2,3,10,3,15
+Anaphylactic reaction,AVELOX,56,15,34,1,0,0,11,13,36,24,27,5,56
+Anaphylactic reaction,BENADRYL,307,100,200,5,1,0,81,80,75,63,195,49,286
+Anaphylactic reaction,BENADRYL INJ. 50MG/ML,15,5,10,0,0,0,8,1,3,2,11,2,14
+Anaphylactic reaction,CALCIUM,20,4,16,0,0,0,6,11,8,0,13,7,20
+Anaphylactic reaction,CEFAZOLIN FOR INJECTION, USP,23,12,11,1,0,0,5,3,7,5,12,6,21
+Anaphylactic reaction,CELEBREX,29,5,22,0,0,0,10,9,11,6,17,6,27
+Anaphylactic reaction,CHLOR-TRIPOLON,14,7,7,0,0,0,2,2,2,2,10,2,13
+Anaphylactic reaction,CLONAZEPAM,12,2,10,1,0,0,5,4,6,2,9,1,11
+Anaphylactic reaction,CORTICOSTEROID(S),11,0,10,0,0,0,4,3,5,0,10,1,11
+Anaphylactic reaction,CYCLOPHOSPHAMIDE,11,0,11,0,1,0,2,2,5,2,8,1,11
+Anaphylactic reaction,DECADRON,21,8,13,0,0,0,6,7,8,1,18,2,20
+Anaphylactic reaction,DEMEROL,32,13,15,1,0,0,0,5,1,7,22,3,30
+Anaphylactic reaction,DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML,11,0,11,0,0,0,1,3,6,7,4,0,10
+Anaphylactic reaction,DEXAMETHASONE,24,9,15,1,0,0,8,7,8,4,16,4,22
+Anaphylactic reaction,DEXTROSE 5% IN WATER,17,11,6,0,0,0,2,1,3,6,4,7,14
+Anaphylactic reaction,DIAZEPAM,14,7,7,1,0,0,4,2,0,2,6,6,13
+Anaphylactic reaction,DIGOXIN,29,14,15,2,0,0,1,4,1,1,2,26,28
+Anaphylactic reaction,DIMENHYDRINATE,17,5,12,0,0,0,3,2,1,1,13,3,15
+Anaphylactic reaction,DIPHENHYDRAMINE,93,41,52,2,0,0,36,21,26,14,63,16,89
+Anaphylactic reaction,DOCUSATE SODIUM,13,7,6,0,0,0,1,2,2,0,4,9,11
+Anaphylactic reaction,ENTROPHEN,11,3,7,1,0,0,0,1,0,1,5,5,10
+Anaphylactic reaction,EPINEPHRINE,205,74,126,3,0,0,88,51,41,45,127,33,193
+Anaphylactic reaction,EPIPEN,21,6,14,0,0,0,8,3,10,8,13,0,21
+Anaphylactic reaction,EPREX STERILE SOLUTION,15,9,6,1,0,0,7,4,3,1,8,6,15
+Anaphylactic reaction,ERYTHROMYCIN,11,3,8,1,0,0,1,2,1,1,9,1,10
+Anaphylactic reaction,FENTANYL,26,9,17,2,0,0,10,3,7,4,18,4,23
+Anaphylactic reaction,FLOVENT,14,4,9,0,0,0,4,7,7,3,10,1,14
+Anaphylactic reaction,FOLIC ACID,20,5,14,1,0,0,9,4,4,5,14,1,19
+Anaphylactic reaction,FUROSEMIDE,32,18,14,1,0,0,10,5,6,6,12,14,30
+Anaphylactic reaction,GAMUNEX,16,4,12,0,0,0,7,5,13,1,10,5,16
+Anaphylactic reaction,GENTAMICIN,16,5,11,0,0,0,5,2,2,3,11,2,15
+Anaphylactic reaction,GRAVOL,26,7,19,1,0,0,3,4,4,3,13,10,25
+Anaphylactic reaction,HALCION,13,6,7,1,0,0,0,0,0,1,6,6,11
+Anaphylactic reaction,HEPARIN SODIUM INJECTION, USP,14,7,7,2,0,0,2,4,0,0,10,4,11
+Anaphylactic reaction,HIZENTRA,11,0,11,0,0,0,0,2,10,0,11,0,11
+Anaphylactic reaction,HUMIRA,13,7,6,0,0,0,2,3,11,5,7,1,13
+Anaphylactic reaction,HYDROCHLOROTHIAZIDE,18,3,15,1,0,0,8,6,4,0,10,8,18
+Anaphylactic reaction,HYDROCORTISONE,52,21,30,2,0,0,21,14,9,14,25,13,49
+Anaphylactic reaction,HYPAQUE SODIUM,11,6,5,1,0,0,0,2,0,2,8,1,11
+Anaphylactic reaction,HYPAQUE-M,15,10,5,2,0,0,0,3,0,4,8,3,15
+Anaphylactic reaction,IBUPROFEN,19,12,7,0,0,0,8,5,12,12,6,1,19
+Anaphylactic reaction,INFUFER,11,7,2,0,0,0,6,2,5,3,5,3,11
+Anaphylactic reaction,INTUBATION,11,4,7,0,0,0,7,4,0,0,8,3,10
+Anaphylactic reaction,LANOXIN,22,12,10,1,0,0,0,4,0,1,3,18,21
+Anaphylactic reaction,LASIX,13,5,8,1,0,0,0,3,2,0,2,11,12
+Anaphylactic reaction,LEVAQUIN,13,1,10,0,0,0,6,2,2,4,8,1,10
+Anaphylactic reaction,LIDOCAINE,15,8,7,0,0,0,4,3,2,1,7,7,14
+Anaphylactic reaction,LIPITOR,24,9,15,4,0,0,5,9,11,1,16,7,24
+Anaphylactic reaction,LORAZEPAM,24,6,18,0,0,0,11,7,4,0,17,7,23
+Anaphylactic reaction,LOSEC,14,6,7,0,0,0,4,4,5,2,5,7,12
+Anaphylactic reaction,LYRICA,11,1,9,0,0,0,2,1,8,3,6,2,11
+Anaphylactic reaction,METFORMIN,16,6,10,0,0,0,5,4,9,0,12,4,16
+Anaphylactic reaction,METHOTREXATE,25,5,20,0,0,0,4,8,13,5,20,0,24
+Anaphylactic reaction,METHYLPREDNISOLONE SODIUM SUCCINATE FOR INJECTION,37,14,23,1,0,0,18,10,7,9,22,6,37
+Anaphylactic reaction,METOPROLOL,22,11,10,2,0,0,5,6,7,0,15,7,21
+Anaphylactic reaction,MORPHINE,32,8,24,1,0,0,5,6,7,3,18,11,30
+Anaphylactic reaction,MORPHINE SULFATE,22,8,14,1,0,0,0,2,0,1,14,7,21
+Anaphylactic reaction,MULTIVITAMINE(S),18,4,14,0,0,0,6,6,11,2,14,2,18
+Anaphylactic reaction,NAPROSYN,14,4,10,0,0,0,3,6,1,0,12,2,13
+Anaphylactic reaction,NARCAN INJ,11,6,5,1,0,0,0,0,0,0,8,3,11
+Anaphylactic reaction,NITROGLYCERIN,32,17,15,2,0,0,5,3,4,2,16,14,30
+Anaphylactic reaction,NORMAL SALINE,36,19,17,0,0,0,9,10,4,3,20,13,33
+Anaphylactic reaction,NORVASC,12,8,4,1,0,0,3,5,9,3,4,5,12
+Anaphylactic reaction,OMNIPAQUE,12,4,7,1,0,0,0,2,4,0,10,2,11
+Anaphylactic reaction,ONDANSETRON,12,4,8,0,0,0,7,5,2,6,3,3,12
+Anaphylactic reaction,OXYGEN,89,33,54,2,0,0,30,18,12,15,51,23,89
+Anaphylactic reaction,PANTOLOC,19,5,14,0,0,0,7,5,8,0,13,6,18
+Anaphylactic reaction,PANTOPRAZOLE,12,4,8,1,0,0,4,8,4,0,9,3,12
+Anaphylactic reaction,PENBRITIN,17,9,8,1,0,0,0,0,0,3,11,3,12
+Anaphylactic reaction,PENICILLIN G,12,8,4,2,0,0,0,0,0,1,8,3,9
+Anaphylactic reaction,PENICILLIN NOS,26,13,11,5,0,0,0,3,0,5,20,1,16
+Anaphylactic reaction,POTASSIUM CHLORIDE,14,8,6,1,0,0,1,1,2,0,4,10,12
+Anaphylactic reaction,PREDNISONE,133,40,93,3,0,0,39,53,38,31,88,14,129
+Anaphylactic reaction,PREMARIN,16,0,16,0,0,0,3,3,6,0,14,2,13
+Anaphylactic reaction,PREVACID,12,3,9,0,0,0,0,5,6,3,8,1,12
+Anaphylactic reaction,PROPOFOL INJECTION,13,6,7,1,0,0,6,5,4,4,7,2,13
+Anaphylactic reaction,PROTAMINE SULFATE INJECTION, USP,13,8,5,3,0,0,0,1,2,2,9,2,13
+Anaphylactic reaction,RAMIPRIL,16,6,10,1,0,0,6,5,7,0,10,6,16
+Anaphylactic reaction,RANITIDINE,44,17,27,3,0,0,23,13,10,11,20,13,42
+Anaphylactic reaction,REMICADE,89,27,57,0,0,0,29,14,58,19,68,2,89
+Anaphylactic reaction,RITUXAN,11,4,7,0,0,0,5,1,4,1,9,1,11
+Anaphylactic reaction,SALBUTAMOL,31,10,21,0,0,0,15,8,6,6,21,4,30
+Anaphylactic reaction,SINGULAIR,19,5,14,0,0,0,5,7,15,6,12,1,19
+Anaphylactic reaction,SOLU-CORTEF,121,49,69,4,0,0,24,35,17,18,81,22,114
+Anaphylactic reaction,SOLU-MEDROL,72,32,40,2,0,0,24,27,8,7,50,15,65
+Anaphylactic reaction,STEMETIL,17,8,9,0,0,0,1,4,1,3,9,5,17
+Anaphylactic reaction,STEROID(S),29,8,20,1,0,0,12,1,6,3,18,8,26
+Anaphylactic reaction,SYNTHROID,17,2,15,0,0,0,4,6,7,3,8,6,17
+Anaphylactic reaction,TAXOTERE,11,0,10,0,0,0,3,3,6,2,9,0,9
+Anaphylactic reaction,TUBERSOL,15,3,12,0,0,0,4,1,10,4,7,4,15
+Anaphylactic reaction,TYLENOL,32,10,22,2,0,0,9,7,10,2,22,8,31
+Anaphylactic reaction,TYLENOL WITH CODEINE NO. 3 - TAB,16,6,10,2,0,0,1,3,2,3,11,2,15
+Anaphylactic reaction,VASOTEC,12,6,6,2,0,0,5,4,4,1,4,7,12
+Anaphylactic reaction,VENTOLIN,105,38,64,5,0,0,26,33,22,25,61,19,97
+Anaphylactic reaction,VITAMIN B12,18,4,13,0,0,0,6,5,4,0,12,6,17
+Anaphylactic reaction,VITAMIN D,15,2,13,0,0,0,5,7,10,4,9,2,15
+Anaphylactic reaction,XOLAIR,39,1,36,0,0,0,1,25,38,8,30,1,39
+Anaphylactic reaction,XYLOCAINE HCL,11,9,2,0,0,0,1,2,0,2,6,3,10
+Anaphylactic reaction,ZANTAC,34,19,15,2,0,0,12,5,8,5,18,11,33
+Anaphylactic reaction,ZYBAN,20,11,9,1,0,0,6,3,10,1,19,0,20
+Anaphylactic shock,ADRENALIN CHLORIDE SOL 1:1000,55,17,36,6,0,0,16,21,6,10,39,6,54
+Anaphylactic shock,AVELOX,19,3,13,0,3,0,12,5,14,8,6,5,19
+Anaphylactic shock,BENADRYL,69,28,40,2,1,0,28,22,11,13,46,10,68
+Anaphylactic shock,CELEBREX,11,4,6,0,1,0,4,1,8,4,5,2,11
+Anaphylactic shock,DIPHENHYDRAMINE,20,9,11,1,1,0,11,10,0,7,9,4,20
+Anaphylactic shock,EPINEPHRINE,52,18,34,2,0,0,23,20,7,11,27,14,51
+Anaphylactic shock,EPIPEN,11,5,6,2,0,0,6,2,1,3,8,0,11
+Anaphylactic shock,HYDROCORTISONE,11,7,4,1,0,0,5,4,2,5,6,0,11
+Anaphylactic shock,METHOTREXATE,11,7,4,0,0,0,5,7,3,4,7,0,11
+Anaphylactic shock,OXYGEN,23,10,13,0,0,0,10,7,4,6,15,2,23
+Anaphylactic shock,PREDNISONE,30,8,22,1,0,0,12,11,8,8,17,5,29
+Anaphylactic shock,RANITIDINE,13,6,7,1,0,0,5,7,2,5,6,2,13
+Anaphylactic shock,REMICADE,39,6,31,0,0,0,9,16,26,13,26,0,39
+Anaphylactic shock,SOLU-CORTEF,32,11,21,0,0,0,14,13,4,7,19,6,32
+Anaphylactic shock,SOLU-MEDROL,19,9,9,2,0,0,10,4,4,4,12,3,19
+Anaphylactic shock,STEROID(S),12,3,9,1,1,0,5,4,1,4,7,1,12
+Anaphylactic shock,TYLENOL,11,1,9,0,0,0,3,3,5,2,8,1,10
+Anaphylactic shock,VENTOLIN,18,6,11,1,1,0,10,5,7,8,7,3,18
+Anaphylactic shock,XOLAIR,20,5,15,0,0,0,2,7,14,3,17,0,20
+Anaphylactoid reaction,ACETAMINOPHEN,26,8,17,1,1,0,2,7,2,8,14,4,23
+Anaphylactoid reaction,ACETYLSALICYLIC ACID,30,15,15,0,0,0,0,5,5,5,16,9,23
+Anaphylactoid reaction,ACETYLSALICYLIC ACID ENT CTD,15,8,7,0,0,0,0,1,0,1,5,9,11
+Anaphylactoid reaction,ADALAT,23,5,18,0,0,0,0,2,0,4,12,7,21
+Anaphylactoid reaction,ADRENALIN CHLORIDE SOL 1:1000,246,87,148,3,0,0,7,97,11,83,137,26,213
+Anaphylactoid reaction,AMINOPHYLLINE,40,16,23,1,0,0,0,13,1,4,24,12,39
+Anaphylactoid reaction,AMOXIL,23,8,15,0,0,0,0,9,0,9,10,4,19
+Anaphylactoid reaction,AMPICILLIN,47,25,20,0,0,0,0,4,2,10,22,15,36
+Anaphylactoid reaction,ANCEF,14,7,7,0,0,0,0,2,0,2,6,6,13
+Anaphylactoid reaction,ANTIHISTAMINIC DRUGS,26,9,17,1,0,0,2,8,4,6,17,3,22
+Anaphylactoid reaction,ASPIRIN,18,14,4,0,0,0,0,7,7,1,11,6,17
+Anaphylactoid reaction,ATARAX,23,13,10,0,0,0,0,6,0,8,11,4,18
+Anaphylactoid reaction,ATIVAN,35,8,27,1,0,0,0,3,2,1,21,13,33
+Anaphylactoid reaction,ATROPINE,38,19,18,2,0,0,0,3,2,5,21,12,37
+Anaphylactoid reaction,ATROVENT,16,5,10,2,0,0,0,6,1,2,7,7,14
+Anaphylactoid reaction,BACTRIM ROCHE,13,6,7,0,0,0,0,2,0,1,11,1,11
+Anaphylactoid reaction,BECLOVENT  -  AEM 50MCG/AEM,22,7,14,0,0,0,0,8,0,2,13,7,19
+Anaphylactoid reaction,BENADRYL,470,167,285,1,1,0,13,123,30,88,309,73,359
+Anaphylactoid reaction,CAPTOPRIL,12,4,8,0,0,0,0,0,1,2,5,5,9
+Anaphylactoid reaction,CECLOR,14,7,7,0,0,0,1,6,0,6,7,1,10
+Anaphylactoid reaction,CEFAZOLIN FOR INJECTION, USP,13,8,5,0,0,0,0,0,1,4,8,1,9
+Anaphylactoid reaction,CHLOR-TRIPOLON,50,14,31,0,0,0,0,5,1,11,25,14,43
+Anaphylactoid reaction,CIMETIDINE,21,4,16,1,0,0,0,2,0,3,8,10,15
+Anaphylactoid reaction,CIPRO,14,4,10,0,0,0,0,5,0,2,7,5,8
+Anaphylactoid reaction,CLOXACILLIN,18,10,7,0,0,0,0,1,1,5,7,6,17
+Anaphylactoid reaction,CODEINE PHOSPHATE,14,3,10,0,0,0,0,3,0,1,9,4,11
+Anaphylactoid reaction,COGENTIN,12,3,9,0,0,0,0,2,0,3,9,0,11
+Anaphylactoid reaction,COLACE,13,5,7,0,0,0,0,1,0,0,5,8,11
+Anaphylactoid reaction,CONRAY 30,12,1,6,0,0,0,0,0,0,7,3,2,11
+Anaphylactoid reaction,CONRAY 400,14,7,6,2,0,0,0,4,0,1,11,2,12
+Anaphylactoid reaction,CONRAY 60,30,5,12,0,0,0,0,1,0,18,9,3,26
+Anaphylactoid reaction,DALMANE,11,3,7,0,0,0,0,1,0,3,7,1,10
+Anaphylactoid reaction,DEMEROL,73,28,43,0,0,0,1,9,1,6,54,13,66
+Anaphylactoid reaction,DEXAMETHASONE,25,4,21,0,0,0,3,9,2,6,16,3,22
+Anaphylactoid reaction,DEXTROSE 5% IN WATER,32,16,14,1,0,0,0,6,0,8,14,10,24
+Anaphylactoid reaction,DIAZEPAM,11,5,6,0,0,0,0,1,0,0,9,2,9
+Anaphylactoid reaction,DIGOXIN,52,20,31,0,0,0,0,8,0,3,16,33,44
+Anaphylactoid reaction,DILANTIN,25,8,17,0,0,0,0,3,1,3,15,7,19
+Anaphylactoid reaction,DILTIAZEM,16,8,8,0,0,0,0,2,0,1,5,10,13
+Anaphylactoid reaction,DIMENHYDRINATE,24,5,18,0,0,0,0,3,1,4,14,6,17
+Anaphylactoid reaction,DIPHENHYDRAMINE,59,23,36,1,1,0,2,17,7,9,34,16,52
+Anaphylactoid reaction,DIPHTHERIA AND TETANUS TOXOIDS ADSORBED,15,9,6,0,0,0,0,3,0,13,2,0,13
+Anaphylactoid reaction,DIPHTHERIA AND TETANUS TOXOIDS WITH PERTUSSIS VACCINE ADSORBED,53,32,21,0,0,0,0,20,0,53,0,0,51
+Anaphylactoid reaction,DOPAMINE HCL,19,11,8,3,0,0,0,6,0,2,9,8,18
+Anaphylactoid reaction,DYAZIDE TAB,25,5,20,0,0,0,0,4,2,1,12,12,22
+Anaphylactoid reaction,ENTROPHEN,20,14,6,0,0,0,0,3,0,2,9,9,15
+Anaphylactoid reaction,EPINEPHRINE,102,43,56,4,1,0,4,28,15,22,65,15,89
+Anaphylactoid reaction,ERYTHROMYCIN,22,6,16,0,0,0,0,3,0,4,17,1,19
+Anaphylactoid reaction,FENTANYL,18,5,12,3,0,0,1,2,4,4,13,1,18
+Anaphylactoid reaction,FLAGYL,11,3,8,1,0,0,0,2,1,2,6,3,10
+Anaphylactoid reaction,FUROSEMIDE,44,23,19,0,0,0,3,9,9,5,17,22,34
+Anaphylactoid reaction,GENTAMICIN,19,7,12,0,0,0,0,2,0,1,13,5,14
+Anaphylactoid reaction,GRAVOL,55,16,38,1,0,0,0,6,1,9,38,8,42
+Anaphylactoid reaction,HALCION,33,14,19,0,0,0,0,5,1,2,17,14,31
+Anaphylactoid reaction,HEPARIN SODIUM INJECTION, USP,28,14,13,2,0,0,0,2,3,2,15,11,24
+Anaphylactoid reaction,HEXABRIX,16,8,5,0,0,0,0,1,0,4,7,5,14
+Anaphylactoid reaction,HYDROCHLOROTHIAZIDE,17,7,10,1,0,0,1,2,1,0,10,7,13
+Anaphylactoid reaction,HYDROCORTISONE,54,23,31,2,0,0,4,16,5,15,26,13,49
+Anaphylactoid reaction,HYPAQUE SODIUM,15,5,8,1,0,0,0,1,0,8,4,3,13
+Anaphylactoid reaction,HYPAQUE-M,47,18,27,5,0,0,0,6,0,13,22,12,43
+Anaphylactoid reaction,I.V. SOLUTIONS,16,6,8,1,0,0,0,4,0,3,11,2,13
+Anaphylactoid reaction,IMITREX,14,0,14,0,0,0,0,4,0,8,6,0,6
+Anaphylactoid reaction,INDERAL,18,7,11,0,0,0,0,2,0,0,9,9,13
+Anaphylactoid reaction,INSULIN,12,6,6,0,0,0,0,1,0,2,6,4,9
+Anaphylactoid reaction,ISORDIL,29,15,14,0,0,0,0,3,1,2,10,17,24
+Anaphylactoid reaction,ISOVUE,21,6,15,0,0,0,0,4,2,2,16,3,13
+Anaphylactoid reaction,KEFLEX,13,2,11,0,0,0,1,3,0,2,7,4,10
+Anaphylactoid reaction,LANOXIN,17,7,9,0,0,0,0,4,0,3,4,10,14
+Anaphylactoid reaction,LASIX,37,9,28,1,0,0,0,5,1,7,16,14,28
+Anaphylactoid reaction,LIDOCAINE,18,8,10,1,0,0,1,3,2,2,11,5,15
+Anaphylactoid reaction,LIPITOR,11,7,4,0,0,0,4,3,4,0,3,8,11
+Anaphylactoid reaction,LORAZEPAM,12,4,8,0,0,0,0,3,1,1,5,6,5
+Anaphylactoid reaction,MAALOX,12,3,9,0,0,0,0,2,0,1,6,5,8
+Anaphylactoid reaction,MAXERAN,13,5,8,0,0,0,0,3,0,0,11,2,13
+Anaphylactoid reaction,MEFOXIN,21,4,17,0,0,0,0,0,1,3,12,6,17
+Anaphylactoid reaction,METAMUCIL,42,6,36,0,0,0,0,3,5,14,24,4,29
+Anaphylactoid reaction,METHYLPREDNISOLONE SODIUM SUCCINATE FOR INJECTION,13,6,5,0,0,0,2,2,2,4,7,2,11
+Anaphylactoid reaction,METOPROLOL,17,10,7,0,0,0,1,3,7,0,10,7,16
+Anaphylactoid reaction,MMR II,17,5,12,0,0,0,0,9,0,17,0,0,15
+Anaphylactoid reaction,MODURET,19,5,14,1,0,0,0,10,0,0,9,10,17
+Anaphylactoid reaction,MORPHINE,46,20,26,2,0,0,0,0,2,4,29,13,39
+Anaphylactoid reaction,MORPHINE SULFATE,27,15,12,0,0,0,0,3,1,2,14,11,21
+Anaphylactoid reaction,NAPROSYN,17,7,10,0,0,0,0,0,1,1,12,4,15
+Anaphylactoid reaction,NARCAN,15,6,9,2,0,0,0,2,0,1,9,5,14
+Anaphylactoid reaction,NARCAN INJ,12,8,4,0,0,0,0,1,1,0,6,6,9
+Anaphylactoid reaction,NITROGLYCERIN,45,24,21,1,0,0,0,9,5,4,22,19,38
+Anaphylactoid reaction,NORMAL SALINE,74,25,45,1,0,0,2,11,5,16,44,14,63
+Anaphylactoid reaction,OMNIPAQUE,41,15,24,0,0,0,0,6,6,10,25,6,30
+Anaphylactoid reaction,OXAZEPAM,17,5,12,0,0,0,0,4,1,1,8,8,13
+Anaphylactoid reaction,OXYGEN,125,53,66,2,0,0,1,45,9,36,66,23,114
+Anaphylactoid reaction,PENICILLIN NOS,15,2,12,0,0,0,0,4,0,6,9,0,11
+Anaphylactoid reaction,PENTOTHAL,14,6,7,0,0,0,0,0,2,4,9,1,14
+Anaphylactoid reaction,PETHIDINE INJECTION B.P.,12,7,5,0,0,0,0,0,0,2,6,4,11
+Anaphylactoid reaction,PHENERGAN,12,5,7,0,0,0,0,2,0,4,6,2,10
+Anaphylactoid reaction,PHENOBARBITAL,12,5,6,0,0,0,0,0,0,4,6,2,12
+Anaphylactoid reaction,POTASSIUM CHLORIDE,12,4,6,0,0,0,0,0,1,4,1,7,7
+Anaphylactoid reaction,PREDNISONE,71,25,44,1,0,0,5,22,10,14,44,13,60
+Anaphylactoid reaction,PROPRANOLOL HYDROCHLORIDE INJECTION USP,15,5,10,0,0,0,0,4,0,0,7,8,13
+Anaphylactoid reaction,PROTAMINE SULFATE INJECTION, USP,16,10,6,2,0,0,0,0,2,0,10,6,13
+Anaphylactoid reaction,RAMIPRIL,11,6,5,0,0,0,3,4,5,0,9,2,11
+Anaphylactoid reaction,RANITIDINE,20,5,15,0,0,0,1,4,4,5,11,4,14
+Anaphylactoid reaction,RENO-M-60,19,6,8,0,0,0,0,1,0,7,9,3,14
+Anaphylactoid reaction,RENOGRAFIN-60 - LIQ IV,39,17,21,2,0,0,0,4,0,7,24,8,28
+Anaphylactoid reaction,RENOGRAFIN-76 - LIQ IV,23,11,10,0,0,0,0,1,0,5,12,6,18
+Anaphylactoid reaction,SABIN,42,27,15,0,0,0,0,16,0,42,0,0,41
+Anaphylactoid reaction,SALBUTAMOL,26,13,13,1,0,0,0,8,0,7,9,10,19
+Anaphylactoid reaction,SEPTRA,24,6,18,1,0,0,0,4,1,7,13,4,16
+Anaphylactoid reaction,SERAX,29,14,15,1,0,0,0,1,1,2,18,9,24
+Anaphylactoid reaction,SLOW K 600MG,20,7,12,1,0,0,0,3,1,1,9,10,14
+Anaphylactoid reaction,SOLU-CORTEF,204,91,102,1,0,0,5,70,14,44,120,40,177
+Anaphylactoid reaction,SOLU-MEDROL,78,20,53,4,0,0,2,25,5,14,55,9,65
+Anaphylactoid reaction,STEMETIL,24,5,19,0,0,0,0,4,0,4,15,5,17
+Anaphylactoid reaction,STEROID(S),15,6,8,2,0,0,1,6,2,5,6,4,14
+Anaphylactoid reaction,STREPTASE,12,11,1,1,0,0,0,1,1,0,8,4,9
+Anaphylactoid reaction,STREPTOKINASE,14,8,6,0,0,0,0,3,0,1,7,6,12
+Anaphylactoid reaction,SUBLIMAZE INJ 50MCG/ML,15,3,10,0,0,0,0,3,2,4,8,3,14
+Anaphylactoid reaction,SUCCINYLCHOLINE CHLORIDE,14,4,10,2,0,0,0,1,1,7,7,0,14
+Anaphylactoid reaction,SYNTHROID,18,1,17,3,0,0,0,4,1,3,10,5,14
+Anaphylactoid reaction,TAGAMET,14,2,12,0,0,0,0,4,0,0,9,5,12
+Anaphylactoid reaction,TALWIN 30 MG/ML,11,3,8,0,0,0,0,0,0,0,8,3,8
+Anaphylactoid reaction,THEO-DUR,30,10,20,0,0,0,0,5,1,3,17,10,23
+Anaphylactoid reaction,THIOPENTAL SODIUM,13,3,10,1,0,0,0,1,1,4,8,1,10
+Anaphylactoid reaction,TOBRAMYCIN INJECTION USP,20,7,10,1,0,0,0,1,0,6,9,5,17
+Anaphylactoid reaction,TORADOL,14,4,10,0,0,0,0,3,1,6,8,0,9
+Anaphylactoid reaction,TYLENOL,45,15,29,0,0,0,2,9,1,13,25,7,38
+Anaphylactoid reaction,TYLENOL WITH CODEINE NO. 3 - TAB,55,16,39,0,0,0,0,9,2,9,35,11,45
+Anaphylactoid reaction,VALIUM INJ ROCHE 5MG/ML,12,7,5,0,0,0,0,2,0,1,8,3,12
+Anaphylactoid reaction,VALIUM NOS,14,5,8,0,0,0,0,1,0,2,10,2,12
+Anaphylactoid reaction,VANCOCIN,36,9,25,0,0,0,0,0,2,6,28,2,29
+Anaphylactoid reaction,VASOTEC,14,6,7,0,0,0,0,6,0,4,3,7,11
+Anaphylactoid reaction,VENTOLIN,99,38,60,2,0,0,4,20,2,16,59,24,85
+Anaphylactoid reaction,VENTOLIN FOR INHALATION,33,11,22,1,0,0,0,13,0,7,20,6,25
+Anaphylactoid reaction,VEPESID,16,14,2,0,0,0,1,2,2,5,10,1,14
+Anaphylactoid reaction,VISIPAQUE,12,3,9,0,0,0,3,5,4,1,7,4,12
+Anaphylactoid reaction,VOLTAREN,20,8,12,0,0,0,0,10,2,5,11,4,20
+Anaphylactoid reaction,XYLOCAINE HCL,18,9,8,0,0,0,0,2,0,7,6,5,13
+Anaphylactoid reaction,ZANTAC,35,13,22,1,0,0,0,5,4,0,23,12,29
+Anaphylactoid reaction,ZOMAX,44,16,26,1,0,0,0,13,0,8,35,1,43
+Autoimmune disorder,PREDNISONE,15,6,9,2,0,0,2,6,6,3,12,0,15
+Drug hypersensitivity,ACETAMINOPHEN,32,8,24,1,0,0,0,7,15,9,18,5,28
+Drug hypersensitivity,ACETYLSALICYLIC ACID,11,2,9,0,0,0,0,2,6,0,6,5,9
+Drug hypersensitivity,ACLASTA,19,2,17,0,0,0,0,2,17,11,3,5,19
+Drug hypersensitivity,ACTEMRA,40,3,37,0,0,0,0,3,14,4,32,4,32
+Drug hypersensitivity,ACTONEL,11,2,9,0,0,0,0,2,4,0,7,4,9
+Drug hypersensitivity,ASA,11,2,9,0,0,0,0,3,5,1,6,4,8
+Drug hypersensitivity,BENADRYL,12,1,10,0,0,0,0,2,8,3,6,3,10
+Drug hypersensitivity,CALCIUM,15,2,13,0,0,0,0,8,6,1,6,8,12
+Drug hypersensitivity,CELEBREX,14,2,12,0,0,0,1,6,5,1,11,2,12
+Drug hypersensitivity,DIPHENHYDRAMINE HYDROCHLORIDE,11,2,9,0,0,0,0,0,4,2,7,2,10
+Drug hypersensitivity,ENBREL,25,3,22,0,2,0,0,3,12,3,13,9,19
+Drug hypersensitivity,EXTRANEAL,12,2,10,0,1,0,0,5,8,6,3,3,12
+Drug hypersensitivity,FOLIC ACID,25,1,24,0,2,0,0,3,9,2,15,8,17
+Drug hypersensitivity,FORTEO,11,2,9,0,0,0,0,9,3,0,2,9,9
+Drug hypersensitivity,FUROSEMIDE,15,7,8,1,0,0,0,4,4,2,7,6,10
+Drug hypersensitivity,GABAPENTIN,11,3,8,0,2,0,1,4,4,2,6,3,10
+Drug hypersensitivity,HUMALOG,11,10,1,0,0,0,0,6,3,7,0,4,9
+Drug hypersensitivity,HUMIRA,17,2,15,0,2,0,1,10,15,1,16,0,16
+Drug hypersensitivity,LIPITOR,15,5,9,0,0,0,0,4,8,2,5,8,10
+Drug hypersensitivity,METFORMIN,15,7,8,0,1,0,0,5,9,1,7,7,10
+Drug hypersensitivity,METHOTREXATE,42,9,33,0,2,0,0,7,15,6,26,10,29
+Drug hypersensitivity,METHYLPREDNISOLONE,11,3,8,0,0,0,0,0,4,3,6,2,10
+Drug hypersensitivity,METRONIDAZOLE,12,2,10,0,0,0,0,5,8,0,10,2,12
+Drug hypersensitivity,PANTOPRAZOLE,16,4,12,0,1,0,0,7,9,1,8,7,15
+Drug hypersensitivity,PREDNISONE,56,12,44,0,0,0,1,13,24,7,34,15,46
+Drug hypersensitivity,RAMIPRIL,12,3,9,0,2,0,0,3,8,0,6,6,9
+Drug hypersensitivity,REMICADE,49,2,46,0,5,0,5,14,34,15,29,5,49
+Drug hypersensitivity,RITUXAN,28,5,23,0,0,0,0,1,6,2,17,9,20
+Drug hypersensitivity,SIMPONI,12,0,12,12,0,0,12,0,0,0,0,12,12
+Drug hypersensitivity,SYNTHROID,14,0,14,0,1,0,0,5,7,1,6,7,13
+Drug hypersensitivity,TYLENOL,12,5,6,0,1,0,1,6,9,2,8,2,12
+Drug hypersensitivity,VITAMIN D,13,2,11,0,1,0,1,5,7,1,5,7,12
+Drug hypersensitivity,XOLAIR,25,15,10,0,0,0,0,11,24,1,19,5,25
+Food allergy,XOLAIR,13,8,5,0,0,0,0,0,13,0,13,0,13
+Graft versus host disease,ACYCLOVIR,21,5,3,17,0,0,0,1,5,13,8,0,21
+Graft versus host disease,BUSULFAN,20,3,4,15,1,0,0,1,7,17,3,0,20
+Graft versus host disease,CYCLOPHOSPHAMIDE,21,8,9,12,0,0,0,3,5,12,9,0,21
+Graft versus host disease,CYCLOSPORINE,36,8,7,26,2,0,1,6,10,26,10,0,36
+Graft versus host disease,FLUDARA,13,1,0,13,0,0,0,0,3,13,0,0,13
+Graft versus host disease,METHOTREXATE,24,6,5,17,1,0,0,2,8,16,8,0,24
+Graft versus host disease,PHENYTOIN,13,0,1,13,0,0,0,0,3,12,1,0,13
+Graft versus host disease,PREDNISONE,15,7,8,6,1,0,2,7,7,4,11,0,15
+Graft versus host disease,THYMOGLOBULIN,15,3,2,15,0,0,3,3,6,11,4,0,15
+Graft versus host disease,TRIMETHOPRIM-SULFAMETHOXAZOLE,12,0,1,12,0,0,0,0,4,11,1,0,12
+Hypersensitivity,3TC,11,11,0,0,0,0,0,4,4,3,7,1,8
+Hypersensitivity,ACETAMINOPHEN,107,40,65,2,2,0,13,34,42,29,52,26,82
+Hypersensitivity,ACETYLSALICYLIC ACID,32,15,17,1,1,0,1,10,9,6,13,13,24
+Hypersensitivity,ACETYLSALICYLIC ACID ENT CTD,11,6,5,0,0,0,1,2,0,0,2,9,4
+Hypersensitivity,ACLASTA,34,2,32,0,0,0,0,6,30,14,12,8,33
+Hypersensitivity,ACTEMRA,37,1,36,3,0,0,0,4,28,1,29,7,34
+Hypersensitivity,ACTONEL,23,1,22,0,0,0,2,7,12,1,14,8,21
+Hypersensitivity,ADALAT XL,15,7,8,0,0,0,2,5,6,2,8,5,12
+Hypersensitivity,ADRENALIN CHLORIDE SOL 1:1000,65,18,45,0,0,0,14,20,19,17,44,4,55
+Hypersensitivity,ADVAIR,44,16,28,0,0,0,4,9,30,9,30,5,39
+Hypersensitivity,ADVIL,21,6,14,0,1,0,1,6,13,7,12,2,19
+Hypersensitivity,AERIUS,34,5,26,0,1,0,5,2,12,14,19,1,18
+Hypersensitivity,ALENDRONATE,12,2,10,1,1,0,2,5,4,1,5,6,9
+Hypersensitivity,ALLEGRA,11,3,7,0,0,0,1,0,2,3,4,4,3
+Hypersensitivity,ALLOPURINOL,49,27,20,3,0,0,4,17,21,10,18,21,38
+Hypersensitivity,ALTACE,44,23,21,0,3,0,2,12,23,2,31,11,37
+Hypersensitivity,ALVESCO,20,6,14,0,0,0,2,3,16,2,17,1,18
+Hypersensitivity,AMITRIPTYLINE,24,9,14,1,0,0,2,12,12,6,12,6,22
+Hypersensitivity,AMOXICILLIN,17,5,12,0,0,0,0,4,7,5,8,4,11
+Hypersensitivity,AMOXIL,17,5,12,1,0,0,2,3,1,9,5,3,9
+Hypersensitivity,AMPICILLIN,42,17,24,1,0,0,1,3,4,10,19,13,10
+Hypersensitivity,ANCEF,19,8,9,0,1,0,2,2,4,1,11,7,8
+Hypersensitivity,ANTIHISTAMINIC DRUGS,57,14,41,0,6,0,7,11,20,23,31,3,44
+Hypersensitivity,ANTIINFECTIVES FOR SYSTEMIC USE,45,17,27,0,0,0,5,23,15,11,30,4,40
+Hypersensitivity,APO-CLINDAMYCIN,12,3,8,1,0,0,0,1,7,5,7,0,8
+Hypersensitivity,ARTHROTEC,14,1,11,0,0,0,1,2,9,1,9,4,10
+Hypersensitivity,ASA,57,21,36,1,1,0,11,14,23,1,30,26,46
+Hypersensitivity,ASAPHEN,15,5,10,1,0,0,1,7,4,1,10,4,13
+Hypersensitivity,ASPIRIN,34,19,13,0,3,0,1,6,16,5,16,13,26
+Hypersensitivity,ATACAND,17,5,12,0,1,0,2,4,7,1,12,4,15
+Hypersensitivity,ATARAX,63,21,42,0,2,0,0,17,15,19,36,8,37
+Hypersensitivity,ATENOLOL TABLETS, BP,30,15,15,1,2,0,1,7,17,1,17,12,27
+Hypersensitivity,ATIVAN,38,11,27,0,1,0,4,6,11,3,24,11,25
+Hypersensitivity,ATORVASTATIN CALCIUM,12,7,5,0,0,0,0,3,9,1,5,6,10
+Hypersensitivity,ATROPINE,13,6,6,0,0,0,2,1,2,1,11,1,5
+Hypersensitivity,ATROVENT,32,8,23,1,1,0,3,7,9,6,15,11,20
+Hypersensitivity,AVAPRO,19,5,13,0,1,0,1,8,10,1,9,9,16
+Hypersensitivity,AVASTIN,11,6,5,0,0,0,0,2,8,1,7,3,8
+Hypersensitivity,AVELOX,50,7,43,0,3,0,1,17,35,6,38,6,48
+Hypersensitivity,BACLOFEN,14,7,7,0,0,0,1,4,10,2,12,0,12
+Hypersensitivity,BENADRYL,576,171,387,3,4,0,54,111,188,126,361,89,370
+Hypersensitivity,BENADRYL INJ. 50MG/ML,15,1,14,0,0,0,2,3,3,2,12,1,8
+Hypersensitivity,BETAMETHASONE,15,6,9,0,0,0,0,7,6,2,7,6,12
+Hypersensitivity,BETASERON,23,4,19,0,0,0,0,11,16,2,21,0,23
+Hypersensitivity,BIAXIN,25,7,18,0,1,0,4,9,9,6,15,4,21
+Hypersensitivity,BISOPROLOL,14,6,8,0,0,0,1,4,9,0,6,8,12
+Hypersensitivity,BLEOMYCIN SULPHATE FOR INJECTION USP,13,10,3,0,0,0,0,10,2,10,2,1,12
+Hypersensitivity,CALAMINE LOTION,25,4,21,0,0,0,0,10,4,6,13,6,14
+Hypersensitivity,CALCIUM,68,7,59,0,1,0,6,16,31,4,43,21,53
+Hypersensitivity,CALCIUM CARBONATE,15,7,8,2,0,0,0,6,5,1,8,6,11
+Hypersensitivity,CARBAMAZEPINE,11,4,7,0,0,0,2,7,2,6,5,0,11
+Hypersensitivity,CARBOPLATIN,20,1,19,0,0,0,1,1,1,12,4,4,3
+Hypersensitivity,CECLOR,34,11,20,0,0,0,1,5,1,21,13,0,8
+Hypersensitivity,CEFAZOLIN FOR INJECTION, USP,13,6,7,1,0,0,1,5,0,4,7,2,7
+Hypersensitivity,CEFOTAXIME,11,5,6,0,1,0,5,3,2,8,2,1,10
+Hypersensitivity,CEFTAZIDIME FOR INJECTION, USP,11,6,5,0,0,0,1,1,3,7,3,1,5
+Hypersensitivity,CEFUROXIME FOR INJECTION USP,15,8,5,0,0,0,3,7,2,5,8,2,12
+Hypersensitivity,CELEBREX,59,16,42,0,0,0,5,13,28,10,38,11,46
+Hypersensitivity,CELEXA,17,4,13,1,0,0,3,3,9,0,16,1,15
+Hypersensitivity,CETIRIZINE,20,3,16,0,0,0,1,3,2,9,10,1,6
+Hypersensitivity,CHAMPIX,45,14,30,0,3,0,2,7,29,12,30,3,37
+Hypersensitivity,CHLOR-TRIPOLON,23,9,14,0,0,0,0,3,2,8,13,2,10
+Hypersensitivity,CIMZIA,16,0,16,0,1,0,0,2,15,1,15,0,16
+Hypersensitivity,CIPRO,28,6,20,1,1,0,2,15,7,6,16,6,24
+Hypersensitivity,CIPROFLOXACIN,20,10,10,2,1,0,2,7,7,5,12,3,16
+Hypersensitivity,CISPLATIN INJECTION,15,6,9,0,1,0,0,1,4,2,9,4,6
+Hypersensitivity,CITALOPRAM,12,3,9,2,0,0,2,7,7,1,10,1,12
+Hypersensitivity,CLARITIN,13,3,9,0,0,0,0,2,5,2,11,0,7
+Hypersensitivity,CLINDAMYCIN,22,7,15,0,0,0,0,10,5,2,18,2,15
+Hypersensitivity,CLONAZEPAM,32,9,23,1,0,0,0,8,18,2,17,13,27
+Hypersensitivity,CLOXACILLIN,21,8,13,0,0,0,2,6,6,10,7,4,13
+Hypersensitivity,CO-TRIMOXAZOLE,14,4,7,0,0,0,2,8,3,4,10,0,12
+Hypersensitivity,CODEINE,29,9,19,1,1,0,4,11,8,12,15,2,22
+Hypersensitivity,COLACE,20,6,13,1,0,0,3,4,5,2,13,5,13
+Hypersensitivity,COPAXONE,19,4,14,0,0,0,0,9,11,1,18,0,19
+Hypersensitivity,CORTICOSTEROID(S),19,6,12,0,2,0,4,9,7,4,10,5,18
+Hypersensitivity,CORTISONE,55,14,41,0,0,0,4,22,29,7,40,8,49
+Hypersensitivity,COUMADIN,25,10,14,0,1,0,3,10,6,1,10,14,19
+Hypersensitivity,COVERSYL,16,7,9,0,0,0,0,5,12,0,12,4,15
+Hypersensitivity,CRESTOR,44,24,19,1,1,0,1,8,26,5,25,14,34
+Hypersensitivity,CYCLOBENZAPRINE,11,1,10,0,0,0,0,1,7,0,10,1,8
+Hypersensitivity,CYCLOPHOSPHAMIDE,27,6,21,0,1,0,2,4,15,4,18,5,20
+Hypersensitivity,CYMBALTA,16,4,12,0,1,0,1,6,6,1,13,2,14
+Hypersensitivity,CYTARABINE INJECTION,22,11,11,0,0,0,6,6,15,19,3,0,21
+Hypersensitivity,DECADRON,20,0,19,0,0,0,3,2,8,3,13,4,13
+Hypersensitivity,DEMEROL,40,16,21,1,0,0,2,6,8,3,33,4,16
+Hypersensitivity,DEXAMETHASONE,110,30,72,0,0,0,17,21,56,34,63,13,82
+Hypersensitivity,DIAZEPAM,15,6,9,1,1,0,2,0,6,1,12,2,10
+Hypersensitivity,DIGOXIN,38,14,24,0,1,0,1,7,7,1,10,27,17
+Hypersensitivity,DILANTIN,28,10,18,0,1,0,3,10,8,8,17,3,19
+Hypersensitivity,DILAUDID,14,3,11,1,2,0,1,3,7,1,7,6,12
+Hypersensitivity,DILTIAZEM,19,4,15,0,1,0,1,9,6,0,11,8,15
+Hypersensitivity,DIMENHYDRINATE,36,8,28,2,0,0,4,12,13,14,16,6,27
+Hypersensitivity,DIOVAN,35,8,27,0,1,0,2,4,24,5,16,14,31
+Hypersensitivity,DIPHENHYDRAMINE,185,71,108,0,7,0,20,63,58,46,115,24,143
+Hypersensitivity,DIPHENHYDRAMINE HYDROCHLORIDE,15,4,8,0,0,0,0,2,9,5,7,3,13
+Hypersensitivity,DIPHTHERIA AND TETANUS TOXOIDS WITH PERTUSSIS VACCINE ADSORBED,32,14,18,0,0,0,0,5,0,30,2,0,10
+Hypersensitivity,DOCUSATE SODIUM,14,7,7,1,0,0,3,5,9,3,7,4,12
+Hypersensitivity,DOMPERIDONE,26,5,21,0,0,0,0,9,18,2,17,7,24
+Hypersensitivity,DOXORUBICIN HYDROCHLORIDE INJECTION,18,10,8,0,0,0,3,6,11,11,7,0,15
+Hypersensitivity,DYAZIDE TAB,11,0,10,0,0,0,0,2,2,2,3,6,6
+Hypersensitivity,EFFEXOR XR,23,4,19,0,0,0,2,5,11,3,19,1,17
+Hypersensitivity,ELAVIL,14,0,14,0,0,0,2,1,7,0,10,4,11
+Hypersensitivity,ELOXATIN,28,13,15,1,0,0,6,3,17,4,16,8,27
+Hypersensitivity,ELTROXIN,18,1,17,0,2,0,1,5,3,0,11,7,11
+Hypersensitivity,ENBREL,51,7,44,0,1,0,1,7,20,3,43,5,34
+Hypersensitivity,ENTERIC COATED A.S.A,13,5,8,0,0,0,2,4,4,0,5,8,9
+Hypersensitivity,ENTROPHEN,11,5,6,0,0,0,0,2,1,2,2,7,3
+Hypersensitivity,EPINEPHRINE,93,34,56,1,1,0,27,25,27,23,60,10,84
+Hypersensitivity,EPIPEN,12,2,9,0,1,0,4,1,6,7,5,0,12
+Hypersensitivity,EPREX STERILE SOLUTION,21,10,11,0,0,0,4,8,12,0,8,13,20
+Hypersensitivity,ERGOCALCIFEROL,21,4,17,0,0,0,2,7,12,0,17,4,19
+Hypersensitivity,ERYTHROMYCIN,15,3,11,0,0,0,1,6,0,7,6,2,7
+Hypersensitivity,ESTRADERM,30,0,28,0,1,0,0,2,4,12,16,2,8
+Hypersensitivity,EXJADE,26,21,5,0,0,0,0,10,25,8,15,3,26
+Hypersensitivity,EZETROL,11,9,2,0,0,0,1,5,6,0,8,3,10
+Hypersensitivity,FENTANYL,23,12,11,0,0,0,4,7,10,4,16,3,17
+Hypersensitivity,FERROUS GLUCONATE,12,6,6,2,0,0,0,4,2,0,9,3,7
+Hypersensitivity,FERROUS SULPHATE,20,4,16,0,0,0,3,6,8,4,12,4,15
+Hypersensitivity,FLAGYL,17,6,11,0,0,0,1,5,7,2,9,6,12
+Hypersensitivity,FLONASE - AEM-SUS NAS  50MCG/MD,13,3,10,0,1,0,1,3,8,3,7,3,10
+Hypersensitivity,FLOVENT,38,11,26,1,1,0,3,9,24,7,24,7,33
+Hypersensitivity,FLUCONAZOLE,15,6,9,0,1,0,2,6,6,7,7,1,15
+Hypersensitivity,FLUIDS,13,5,8,0,1,0,3,6,3,4,9,0,13
+Hypersensitivity,FLUOROURACIL,23,12,11,1,0,0,2,5,14,2,19,2,21
+Hypersensitivity,FLUTICASONE,21,9,12,0,0,0,5,15,3,10,9,2,21
+Hypersensitivity,FOLIC ACID,73,13,60,1,1,0,6,20,36,6,58,9,65
+Hypersensitivity,FOSAMAX,12,2,9,0,0,0,4,3,3,1,8,3,8
+Hypersensitivity,FRAGMIN,13,3,9,0,0,0,1,5,7,3,8,2,11
+Hypersensitivity,FUROSEMIDE,57,25,32,1,0,0,10,19,20,10,19,28,46
+Hypersensitivity,GABAPENTIN,23,12,11,0,0,0,2,11,11,5,16,2,21
+Hypersensitivity,GAMMAGARD LIQUID,47,24,23,3,0,0,0,13,34,5,30,12,36
+Hypersensitivity,GAMUNEX,25,8,17,0,0,0,3,5,13,6,8,11,20
+Hypersensitivity,GAMUNEX SINGLE USE VIALS,20,7,13,0,0,0,0,3,9,2,9,9,12
+Hypersensitivity,GENTAMICIN,21,9,12,0,1,0,0,4,2,5,12,4,8
+Hypersensitivity,GLEEVEC,13,10,3,0,0,0,1,3,9,1,4,8,13
+Hypersensitivity,GLYBURIDE,18,9,9,0,1,0,1,4,6,1,11,6,12
+Hypersensitivity,GRAVOL,48,12,36,0,2,0,4,13,11,5,39,4,28
+Hypersensitivity,HABITROL,11,2,6,0,0,0,0,0,2,7,4,0,2
+Hypersensitivity,HCTZ,13,7,6,0,0,0,2,3,9,1,3,9,12
+Hypersensitivity,HEPARIN SODIUM,18,12,6,2,2,0,3,8,14,4,8,6,18
+Hypersensitivity,HEPARIN SODIUM INJECTION, USP,18,6,12,1,0,0,4,6,4,4,9,5,15
+Hypersensitivity,HEPATITIS B VACCINE,11,1,10,0,0,0,1,0,0,1,10,0,1
+Hypersensitivity,HUMALOG,13,1,11,0,0,0,2,3,9,2,9,2,12
+Hypersensitivity,HUMIRA,57,22,35,0,0,0,0,26,32,5,43,9,49
+Hypersensitivity,HUMULIN N INJ 100UNIT/ML,17,3,13,0,1,0,0,7,3,7,7,3,10
+Hypersensitivity,HUMULIN R INJ,13,3,9,1,0,0,2,2,1,5,6,2,6
+Hypersensitivity,HYDROCHLOROTHIAZIDE,58,16,41,0,4,0,5,15,28,0,36,22,49
+Hypersensitivity,HYDROCORTISONE,100,35,64,0,0,0,15,38,32,32,50,18,79
+Hypersensitivity,HYDROMORPHONE,14,5,9,0,0,0,1,5,9,1,9,4,13
+Hypersensitivity,HYDROXYZINE,42,10,32,1,3,0,2,11,17,7,25,10,32
+Hypersensitivity,HYPAQUE SODIUM,14,3,11,0,0,0,0,0,0,8,5,1,0
+Hypersensitivity,IBUPROFEN,28,6,21,0,0,0,3,7,12,10,16,2,22
+Hypersensitivity,IGIVNEX,16,6,10,0,0,0,1,3,6,3,8,5,9
+Hypersensitivity,IMITREX,16,2,14,0,0,0,0,6,1,7,9,0,7
+Hypersensitivity,IMURAN,17,9,8,0,0,0,1,8,8,1,15,1,16
+Hypersensitivity,INSULIN,22,9,13,1,0,0,2,4,10,2,14,6,16
+Hypersensitivity,IRON,16,8,8,1,0,0,2,5,10,0,9,7,16
+Hypersensitivity,ISOVUE 370 INJECTION,14,5,9,0,0,0,0,0,4,1,10,3,4
+Hypersensitivity,IV FLUIDS,13,5,8,0,0,0,1,7,5,6,7,0,13
+Hypersensitivity,KEFLEX,20,8,12,0,1,0,1,7,2,4,12,4,12
+Hypersensitivity,KYTRIL,12,4,8,0,0,0,1,3,3,0,9,3,7
+Hypersensitivity,LANOXIN,12,5,7,0,0,0,0,4,2,1,3,8,7
+Hypersensitivity,LANSOPRAZOLE,11,7,4,0,0,0,1,4,7,2,3,6,10
+Hypersensitivity,LANTUS,12,1,9,0,0,0,1,4,7,0,12,0,12
+Hypersensitivity,LASIX,38,12,25,1,1,0,3,10,10,3,12,23,22
+Hypersensitivity,LEUCOVORIN,21,16,5,1,0,0,3,5,12,4,15,2,18
+Hypersensitivity,LEVAQUIN,18,5,13,0,1,0,1,8,8,3,12,3,17
+Hypersensitivity,LEVOTHYROXINE,22,3,19,1,0,0,2,6,8,1,16,5,16
+Hypersensitivity,LIPITOR,88,38,48,2,2,0,11,22,40,5,49,34,73
+Hypersensitivity,LISINOPRIL,14,4,10,0,1,0,2,1,9,2,5,7,12
+Hypersensitivity,LORAZEPAM,65,19,46,1,2,0,6,16,25,17,36,12,47
+Hypersensitivity,LOSEC,27,7,19,0,1,0,2,7,11,4,14,9,20
+Hypersensitivity,LOVENOX,12,4,8,0,0,0,1,4,6,4,7,1,10
+Hypersensitivity,LYRICA,41,7,32,0,2,0,2,8,31,4,29,8,41
+Hypersensitivity,MERCAPTOPURINE,16,10,6,0,0,0,3,6,11,12,3,1,15
+Hypersensitivity,METAMUCIL,22,4,16,0,0,0,0,1,2,7,10,5,6
+Hypersensitivity,METFORMIN,47,21,26,0,4,0,6,11,22,5,29,13,40
+Hypersensitivity,METHOTREXATE,104,38,65,0,0,0,10,29,64,33,58,13,92
+Hypersensitivity,METHYLPREDNISOLONE SODIUM SUCCINATE FOR INJECTION,35,12,21,0,0,0,5,18,10,12,21,2,33
+Hypersensitivity,METOCLOPRAMIDE,16,4,12,0,0,0,3,6,11,5,9,2,16
+Hypersensitivity,METOPROLOL,64,29,35,2,3,0,4,18,26,1,32,31,51
+Hypersensitivity,METRONIDAZOLE,12,3,9,0,0,0,0,6,2,3,8,1,7
+Hypersensitivity,MICARDIS,13,6,7,0,0,0,1,4,6,2,6,5,11
+Hypersensitivity,MMR II,12,7,5,0,0,0,0,2,0,12,0,0,5
+Hypersensitivity,MORPHINE,60,18,40,0,2,0,3,19,13,13,39,8,35
+Hypersensitivity,MULTIVITAMINE(S),35,5,29,0,1,0,2,5,19,3,23,9,26
+Hypersensitivity,NAPROSYN,11,2,9,0,0,0,1,2,3,1,7,3,5
+Hypersensitivity,NAPROXEN,20,6,14,0,1,0,2,8,7,3,17,0,15
+Hypersensitivity,NASONEX,22,1,21,0,0,0,2,4,12,2,19,1,17
+Hypersensitivity,NEUPOGEN,17,3,11,0,0,0,0,9,12,6,11,0,16
+Hypersensitivity,NEURONTIN,15,8,7,1,1,0,6,4,6,0,13,2,15
+Hypersensitivity,NEXIUM,39,11,28,0,1,0,5,9,25,2,32,5,38
+Hypersensitivity,NIFEDIPINE,13,8,5,0,0,0,2,8,2,2,4,7,11
+Hypersensitivity,NITROGLYCERIN,39,19,20,2,3,0,5,14,6,4,21,14,30
+Hypersensitivity,NORMAL SALINE,26,14,11,0,0,0,6,8,4,8,13,5,21
+Hypersensitivity,NORVASC,34,20,14,1,2,0,4,11,15,0,16,18,28
+Hypersensitivity,NYSTATIN,21,10,11,0,0,0,3,9,13,10,10,1,19
+Hypersensitivity,OMEPRAZOLE,21,8,13,0,0,0,1,4,8,3,10,8,13
+Hypersensitivity,OMNIPAQUE,11,3,7,0,0,0,2,2,3,4,7,0,7
+Hypersensitivity,ONCASPAR,12,7,5,0,0,0,5,6,6,12,0,0,12
+Hypersensitivity,ONDANSETRON,48,18,29,0,0,0,5,13,28,27,18,3,38
+Hypersensitivity,ORENCIA,21,1,20,0,0,0,0,11,10,1,12,8,21
+Hypersensitivity,OXAZEPAM,11,5,6,2,1,0,2,4,3,1,7,3,10
+Hypersensitivity,OXYCODONE,20,7,12,2,3,0,1,6,9,1,15,4,16
+Hypersensitivity,OXYGEN,74,28,46,0,3,0,18,21,25,11,48,15,65
+Hypersensitivity,PANTOLOC,46,10,34,0,2,0,6,16,23,3,31,12,39
+Hypersensitivity,PANTOPRAZOLE,19,7,12,0,0,0,3,4,14,1,8,10,19
+Hypersensitivity,PARIET,11,1,10,0,2,0,1,2,4,2,6,3,7
+Hypersensitivity,PAROXETINE,11,1,10,0,0,0,0,3,7,1,7,3,9
+Hypersensitivity,PAXIL,15,2,13,0,0,0,0,6,3,1,11,3,9
+Hypersensitivity,PENBRITIN,16,5,10,0,0,0,0,0,0,4,7,5,1
+Hypersensitivity,PENICILLIN,18,6,12,0,0,0,0,5,1,12,6,0,6
+Hypersensitivity,PENICILLIN NOS,37,14,8,0,0,0,0,2,0,20,11,6,3
+Hypersensitivity,PERCOCET,13,3,10,0,0,0,1,1,7,0,11,2,9
+Hypersensitivity,PHENOBARBITAL,15,6,9,0,0,0,0,2,1,6,7,2,4
+Hypersensitivity,PHENYTOIN,18,9,8,0,0,0,3,9,5,7,7,4,15
+Hypersensitivity,PLAQUENIL,23,3,20,1,0,0,1,3,13,1,15,7,18
+Hypersensitivity,PLAVIX,33,16,16,0,1,0,3,11,13,1,15,17,27
+Hypersensitivity,POTASSIUM CHLORIDE,20,4,15,0,0,0,3,5,3,3,14,3,12
+Hypersensitivity,PREDNISONE,348,119,225,3,16,0,33,113,142,70,227,51,296
+Hypersensitivity,PREMARIN,31,1,30,0,0,0,3,8,12,3,19,9,24
+Hypersensitivity,PREVACID,15,3,11,1,0,0,3,4,5,3,8,4,11
+Hypersensitivity,PRIVIGEN,30,19,11,0,3,0,0,18,15,1,10,19,27
+Hypersensitivity,PROCHLORPERAZINE,20,3,17,1,0,0,1,6,10,3,14,3,16
+Hypersensitivity,PROZAC,14,1,11,0,2,0,0,3,5,3,10,1,9
+Hypersensitivity,PULMICORT,17,4,13,0,0,0,3,7,11,2,13,2,17
+Hypersensitivity,RABEPRAZOLE,18,3,15,1,0,0,1,6,9,0,12,6,15
+Hypersensitivity,RAMIPRIL,45,21,24,1,1,0,4,11,19,3,20,22,34
+Hypersensitivity,RANITIDINE,105,33,65,0,0,0,20,33,38,31,52,22,85
+Hypersensitivity,REACTINE,57,19,38,0,0,0,2,5,37,11,39,7,43
+Hypersensitivity,REBIF,18,2,16,0,2,0,2,2,11,1,17,0,17
+Hypersensitivity,REMICADE,269,87,172,1,0,0,18,68,197,41,207,21,260
+Hypersensitivity,REVLIMID,21,11,10,0,1,0,1,8,17,1,9,11,20
+Hypersensitivity,RITUXAN,50,20,29,2,1,0,1,11,29,9,27,14,44
+Hypersensitivity,SABIN,23,10,13,0,0,0,0,5,0,23,0,0,10
+Hypersensitivity,SALBUTAMOL,67,22,43,1,0,0,6,18,30,17,35,15,52
+Hypersensitivity,SELDANE,11,3,7,0,1,0,0,2,0,4,5,2,4
+Hypersensitivity,SEPTRA,18,8,9,0,0,0,1,6,1,4,10,4,8
+Hypersensitivity,SERAX,14,3,11,0,1,0,3,3,1,0,12,2,6
+Hypersensitivity,SINGULAIR,60,22,37,0,1,0,3,17,42,12,47,1,51
+Hypersensitivity,SOLU-CORTEF,88,25,59,1,0,0,11,23,30,20,54,14,68
+Hypersensitivity,SOLU-MEDROL,85,32,49,2,1,0,13,24,28,13,60,12,66
+Hypersensitivity,SPIRIVA,23,8,15,1,1,0,1,9,17,1,15,7,22
+Hypersensitivity,STELARA,12,6,6,0,0,0,0,0,11,0,12,0,11
+Hypersensitivity,STEROID(S),38,10,25,1,0,0,8,18,6,11,24,3,35
+Hypersensitivity,STREPTOMYCIN FOR INJECTION USP,12,7,5,0,0,0,0,1,0,3,8,1,5
+Hypersensitivity,SULFAMETHOXAZOLE AND TRIMETHOPRIM,13,4,9,0,0,0,3,3,8,9,3,1,11
+Hypersensitivity,SYMBICORT TURBUHALER,56,18,38,0,3,0,6,11,45,5,45,6,51
+Hypersensitivity,SYNTHROID,91,15,76,1,4,0,10,19,47,8,56,27,74
+Hypersensitivity,TAXOL LIQ IV 6MG/ML,19,0,13,0,0,0,2,2,9,7,10,2,13
+Hypersensitivity,TAXOTERE,34,5,28,0,0,0,3,2,26,8,24,2,31
+Hypersensitivity,TEGRETOL,20,8,10,0,1,0,1,8,3,6,13,1,14
+Hypersensitivity,TETRACYCLINE,13,7,4,0,0,0,0,3,2,5,7,1,5
+Hypersensitivity,TOBRAMYCIN INJECTION USP,19,6,11,0,0,0,4,5,7,14,5,0,12
+Hypersensitivity,TOPIRAMATE,11,6,5,0,0,0,0,8,1,7,3,1,9
+Hypersensitivity,TORADOL,12,2,10,0,0,0,0,3,2,2,6,4,11
+Hypersensitivity,TRAZODONE,29,5,24,1,0,0,2,9,14,1,20,8,21
+Hypersensitivity,TRIMETHOPRIM-SULFAMETHOXAZOLE,19,9,10,0,0,0,4,7,11,18,1,0,16
+Hypersensitivity,TUBERCULIN PPD (MANTOUX),44,8,34,0,1,0,0,2,5,18,25,1,10
+Hypersensitivity,TUBERSOL,71,17,53,0,0,0,2,4,10,16,51,4,14
+Hypersensitivity,TYLENOL,112,31,80,5,0,0,9,27,57,21,71,20,93
+Hypersensitivity,TYLENOL W CODEINE NO3 TAB,11,3,6,0,0,0,1,1,3,1,9,1,5
+Hypersensitivity,TYLENOL WITH CODEINE NO. 3 - TAB,19,4,15,0,1,0,0,4,5,2,11,6,10
+Hypersensitivity,VANCOMYCIN HYDROCHLORIDE FOR INJECTION, USP,24,12,12,1,0,0,3,16,3,11,12,1,22
+Hypersensitivity,VASOTEC,29,6,21,0,2,0,5,6,3,5,10,14,16
+Hypersensitivity,VENLAFAXINE XR,11,2,9,0,0,0,1,5,3,3,5,3,9
+Hypersensitivity,VENTOLIN,124,43,78,0,5,0,15,31,59,22,81,21,95
+Hypersensitivity,VENTOLIN FOR INHALATION,12,4,7,0,0,0,0,1,1,2,7,3,5
+Hypersensitivity,VINCRISTINE SULFATE INJECTION USP,24,13,11,0,0,0,4,6,13,16,8,0,18
+Hypersensitivity,VIOXX,20,10,10,1,2,0,2,10,7,5,10,5,18
+Hypersensitivity,VITAMIN B COMPLEX,12,2,10,0,1,0,1,1,6,0,9,3,10
+Hypersensitivity,VITAMIN B12,25,4,20,0,1,0,0,8,10,1,21,3,20
+Hypersensitivity,VITAMIN C,20,4,16,0,1,0,1,1,9,1,17,2,13
+Hypersensitivity,VITAMIN D,62,7,55,1,0,0,3,22,29,6,34,22,49
+Hypersensitivity,VITAMIN E,17,5,9,1,1,0,2,0,4,6,9,2,8
+Hypersensitivity,VITAMIN K,11,2,7,0,0,0,3,3,1,7,4,0,7
+Hypersensitivity,VITAMINS,16,3,13,0,1,0,2,4,7,3,12,1,14
+Hypersensitivity,VOLTAREN,11,2,9,0,0,0,1,3,2,3,6,2,6
+Hypersensitivity,WARFARIN,33,20,13,1,1,0,3,10,11,0,13,20,27
+Hypersensitivity,XALATAN,14,1,13,0,1,0,0,3,10,2,4,8,12
+Hypersensitivity,XOLAIR,637,214,418,0,3,0,5,164,563,85,530,22,576
+Hypersensitivity,ZANTAC,41,12,27,0,1,0,10,9,11,6,31,4,32
+Hypersensitivity,ZIAGEN,38,34,4,0,2,0,4,7,9,15,22,1,22
+Hypersensitivity,ZITHROMAX,15,4,8,0,0,0,2,6,3,8,6,1,11
+Hypersensitivity,ZOCOR,17,9,8,0,2,0,3,4,8,3,8,6,13
+Hypersensitivity,ZOFRAN,17,2,15,0,0,0,3,0,7,2,13,2,10
+Hypersensitivity,ZOPICLONE,17,4,13,0,0,0,0,6,7,0,11,6,13
+Hypersensitivity,ZYBAN,77,34,39,0,7,0,3,34,26,16,61,0,70
+Immune reconstitution inflammatory syndrome,LAMIVUDINE,24,22,1,3,1,0,0,4,18,1,23,0,24
+Immune reconstitution inflammatory syndrome,ZIDOVUDINE,14,13,1,3,0,0,0,1,11,1,13,0,14
+Immune system disorder,ENBREL,17,6,11,1,0,0,1,1,7,1,9,7,11
+Immune system disorder,EXJADE,12,4,8,0,0,0,0,10,12,2,0,10,12
+Immune system disorder,HUMIRA,15,6,9,0,0,0,1,13,9,1,14,0,15
+Immune system disorder,METHOTREXATE,11,3,8,0,0,0,1,3,6,1,9,1,9
+Immune system disorder,XOLAIR,13,12,1,0,0,0,0,13,0,1,0,12,13
+Immunosuppression,METHOTREXATE,14,3,11,0,0,0,0,8,6,3,6,5,14
+Immunosuppression,PREDNISONE,17,7,10,0,0,0,2,11,3,3,10,4,17
+Immunosuppression,REMICADE,21,9,12,4,0,0,1,11,8,1,16,4,21
+Kidney transplant rejection,ADVAGRAF,22,14,8,1,0,0,0,20,2,0,22,0,22
+Kidney transplant rejection,MYCOPHENOLATE MOFETIL,17,8,6,1,0,0,1,8,12,6,11,0,17
+Kidney transplant rejection,PREDNISONE,22,12,5,5,0,0,2,12,12,9,13,0,22
+Kidney transplant rejection,PROGRAF,13,4,3,0,0,0,0,4,11,8,5,0,13
+Kidney transplant rejection,TACROLIMUS,12,9,3,1,0,0,1,9,6,0,12,0,12
+Liver transplant rejection,PREDNISONE,14,7,7,3,0,0,0,4,6,7,5,2,14
+Sarcoidosis,ENBREL,16,8,6,0,0,0,0,6,10,3,11,2,15
+Sarcoidosis,PREDNISONE,11,3,8,0,0,0,0,2,9,1,7,3,11
+Sarcoidosis,REMICADE,23,16,5,3,0,0,0,3,19,5,17,1,23
+Seasonal allergy,ACTEMRA,11,0,11,0,0,0,0,0,7,0,9,2,8
+Seasonal allergy,PREDNISONE,12,3,9,0,0,0,0,5,6,1,9,2,11
+Seasonal allergy,XOLAIR,117,49,67,0,0,0,0,21,100,9,96,12,101
+Serum sickness,ACETAMINOPHEN,15,8,7,0,1,0,3,7,1,5,8,2,13
+Serum sickness,AMOXIL,12,8,4,0,0,0,0,3,3,8,3,1,7
+Serum sickness,ATARAX,32,13,18,0,0,0,0,20,0,17,13,2,23
+Serum sickness,BENADRYL,71,32,39,0,2,0,2,29,17,27,37,7,51
+Serum sickness,CECLOR,154,69,55,0,0,0,0,35,2,146,7,1,46
+Serum sickness,CECLOR SUSPENSION,12,6,6,0,0,0,0,3,1,12,0,0,6
+Serum sickness,DIPHENHYDRAMINE,23,9,14,0,4,0,2,8,3,3,19,1,20
+Serum sickness,METHYLPREDNISOLONE SODIUM SUCCINATE FOR INJECTION,11,6,5,0,1,0,1,6,2,0,8,3,10
+Serum sickness,PREDNISONE,109,42,65,0,7,0,3,50,21,35,64,10,85
+Serum sickness,REMICADE,64,18,42,0,7,0,2,15,42,10,50,4,61
+Serum sickness,SEPTRA,11,6,4,0,0,0,0,5,1,3,6,2,7
+Serum sickness,SOLU-MEDROL,17,10,7,0,0,0,1,14,2,1,13,3,17
+Serum sickness,STEROID(S),15,5,10,0,0,0,3,6,4,4,10,1,13
+Serum sickness,TYLENOL,20,9,10,0,0,0,1,9,8,9,10,1,16
+Serum sickness,ZYBAN,40,19,21,0,6,0,2,17,8,5,34,1,33
+Serum sickness-like reaction,BENADRYL,11,4,5,0,1,0,1,2,1,6,5,0,5
+Serum sickness-like reaction,CECLOR,51,13,12,0,0,0,0,5,0,51,0,0,6
+Serum sickness-like reaction,PREDNISONE,37,17,17,1,1,0,1,12,8,15,21,1,23
+Serum sickness-like reaction,REMICADE,20,5,12,0,0,0,0,4,14,6,14,0,18
+Serum sickness-like reaction,ZYBAN,14,9,5,0,1,0,0,5,1,1,13,0,7
+Transplant rejection,AZATHIOPRINE,15,6,9,3,0,0,0,10,3,2,13,0,15
+Transplant rejection,CELLCEPT,24,13,8,6,0,0,2,16,7,11,10,3,24
+Transplant rejection,CYCLOSPORINE,19,10,9,7,0,0,0,8,6,6,13,0,19
+Transplant rejection,FUROSEMIDE,11,6,5,5,0,0,0,6,3,8,2,1,10
+Transplant rejection,METHYLPREDNISOLONE SODIUM SUCCINATE FOR INJECTION,13,5,8,3,0,0,0,7,3,4,9,0,13
+Transplant rejection,MYCOPHENOLATE MOFETIL,40,17,23,6,1,0,0,18,15,10,27,3,40
+Transplant rejection,NEORAL,11,4,6,1,0,0,0,6,4,2,9,0,11
+Transplant rejection,PREDNISONE,60,38,18,15,1,0,0,29,22,16,42,2,60
+Transplant rejection,PROGRAF,44,22,19,5,0,0,2,24,9,10,33,1,44
+Transplant rejection,RAPAMUNE,27,10,12,3,3,0,0,12,13,11,16,0,26
+Transplant rejection,TACROLIMUS,33,18,13,8,1,0,1,15,14,12,18,3,32
+Transplant rejection,THYMOGLOBULIN,13,6,5,2,0,0,0,4,7,9,4,0,13
+Type IV hypersensitivity reaction,REMICADE,38,13,25,3,2,0,5,10,22,9,29,0,37
