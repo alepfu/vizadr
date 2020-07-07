@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+  <head>
+    <title>VizADR</title>
+    <link href="style.css" rel="stylesheet" type="text/css"></link>
+    <link rel="stylesheet" href="bootstrap.css" media="screen">
+    <script src="d3.min.js"></script>
+  </head>
+  <body> 
+	<div class="navbar navbar-default navbar-fixed-top">
+		<div class="navbar-header">
+		  <a href="overview.html" class="navbar-brand">VizADR</a>          
+		</div>
+	</div>
+
+	<div id="main">
+		<div id="chart"></div> 
+		<div id="overviewinfo">
+			<div class="panel panel-info">
+				<div class="panel-heading">Welcome to VizADR!</div>
+				<div class="panel-body">				  
+				  <b>What?</b>
+				  <br>	
+				  This tool visualizes collected data about adverse drug reactions (ADR)<br> from the <a href="http://www.hc-sc.gc.ca/dhp-mps/medeff/databasdon/index-eng.php">The Canada Vigilance Adverse Reaction Online Database</a>.
+				  <br>
+				  <br>
+				  <b>Why?</b>
+				  <br>
+				  ADRs are one of the leading causes of morbidity and mortality in <br>health care (<a href="http://www.fda.gov/drugs/developmentapprovalprocess/developmentresources/druginteractionslabeling/ucm110632.htm#ADRs:%20Prevalence%20and%20Incidence">source</a>).
+				  <br>
+				  <br>
+				  <b>How?</b>
+				  <br>
+				  This chart shows the collected reports for every disease class (<a href="http://www.hc-sc.gc.ca/dhp-mps/medeff/databasdon/glossary_definition-eng.php#meddrasoc">SOC</a>).<br>Move cursor over bars to get additional information.<br>Click on labels or bars to load a detailed analysis.  				
+				</div>
+			</div>
+		</div>
+	
+	<div id="overviewspan"></div>
+	
+	</div>
+	
+	<script src="overview.js"></script>	
+	<script src="jquery-1.10.2.min.js"></script>
+	<script src="bootstrap.js"></script>
+</html>

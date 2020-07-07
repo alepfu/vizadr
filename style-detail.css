@@ -1,0 +1,138 @@
+
+body { 
+	font: 12px Arial;
+	 padding-top: 70px;
+}
+
+#main {
+	float:left;
+	font: 12px Arial;
+	width: 900px;
+
+}
+
+#gender {
+	float:left;
+	font: 12px Arial;
+	
+}
+
+#mosaicplot {
+	float:left;
+	font: 12px Arial;
+}
+
+#overviewinfo {
+	float:left;
+	
+	
+	font: 14px Arial;
+	
+}
+
+#outcome {
+	float:left;
+	font: 12px Arial;
+	
+}
+
+#infopanel {
+	padding-top: 40px;
+	padding-left: 30px;
+	float:left;
+	font: 14px Arial;
+	
+}
+
+#age {
+	float:left;
+	font: 12px Arial;
+	
+}
+
+#chartOutcome {
+	float:left;
+	font-family:Arial;
+	margin: 10px;
+	font: 12px Arial;
+	
+}
+
+#chartGender {
+	float:left;
+	font-family:Arial;
+	margin: 10px;
+	font: 12px Arial;
+	
+}
+
+#chartAge {
+	float:left;
+	font-family:Arial;
+	margin: 10px;
+	font: 12px Arial;
+	
+}
+
+#legendOutcome {
+	float:right;
+	font-family:Arial;
+	padding-left: 10px;
+	padding-top: 30px;
+	font: 12px Arial;
+	
+}
+
+#legendGender {
+	float:right;
+	font-family:Arial;
+	padding-left: 10px;
+	padding-top: 30px;
+	font: 12px Arial;
+	
+}
+
+#legendAge {
+	float:right;
+	font-family:Arial;
+	padding-left: 10px;
+	padding-top: 30px;
+	font: 12px Arial;
+	
+}
+
+.donuthead {
+	font: 16px Arial;
+	padding-left: 20px;
+	padding-top: 20px;
+	color: black;
+	
+}
+
+div.tooltipDonut {   
+  position: absolute;           
+  text-align: center;           
+  width: 100px;                  
+  height: 16x;                 
+  padding: 4px;             
+  font: 14px Arial;        
+  background: WhiteSmoke;   
+  border: 0px;      
+  border-radius: 0px;           
+  pointer-events: none;  
+  -webkit-box-shadow: 7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+-moz-box-shadow:    7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+box-shadow:         7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+color: black;       
+}
+
+#reactiondrug
+{
+	padding-top:20px;
+	padding-left:30px;
+	padding-bottom:20px;
+	font: 14px Arial;
+	color: black;
+	text-align: left;
+	width: 730px;
+}

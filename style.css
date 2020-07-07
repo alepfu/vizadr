@@ -1,0 +1,195 @@
+body { 
+	font: 12px Arial;
+	
+	 padding-top: 70px;
+}
+
+path { 
+	stroke: steelblue;
+	stroke-width: 2;
+	fill: none;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: grey;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+#main {
+	float:left;
+}
+
+#chart {
+	float:left;
+	font: 12px Arial;
+	
+}
+
+#overviewinfo {
+	float:left;
+	padding-left: 20px;
+	padding-top: 10px;
+	
+	font: 14px Arial;
+	
+}
+
+#overviewspan{
+	float:left;
+	padding-left: 20px;
+	padding-top: 10px;
+	height: 1000px;
+	font: 14px Arial;
+	
+}
+
+
+
+#scatter {
+	float:left;
+	font: 12px Arial;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+#soc
+{
+	padding-top:10px;
+	padding-left:500px;
+	padding-bottom:20px;
+	font: 16px Arial;
+	color: black;
+	text-align: left;
+}
+
+
+
+#filter {
+	padding-left: 40px;
+	padding-top: 20px;
+	float:left;
+	width: 250px;
+	font: 12px Arial;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+#genderFilter {
+	float:left;
+	font: 12px Arial;
+	color: black;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+#sortFilter {
+	float:left;
+	font: 12px Arial;
+	color: black;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+#genderLegend {
+	padding-left: 20px;
+	float:left;
+	font: 12px Arial;
+	display: none;
+	color: black;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+#ageFilter {
+	float:left;
+	font: 12px Arial;
+	color: black;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+#ageLegend {
+	padding-left: 20px;
+	float:left;
+	font: 12px Arial;
+	display: none;
+	color: black;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+#seriousFilter {
+	float:left;
+	font: 12px Arial;
+	color: black;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+#seriousRange {
+	padding-left: 20px;
+	float:left;
+	font: 12px Arial;
+	display: none;
+	color: black;
+	/*border: solid 1px #b3b2b2;*/
+}
+
+
+div.tooltipBars {   
+  position: absolute;           
+  text-align: left;           
+  width: 300px;                  
+  height: 300x;                 
+  padding: 10px;             
+  font: 14px Arial;        
+  background: WhiteSmoke;   
+  border: 0px;      
+  border-radius: 0px;           
+  pointer-events: none;  
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+-moz-box-shadow:    7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+box-shadow:         7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+color: black;         
+}
+
+div.tooltipDots {   
+  position: absolute;           
+  text-align: center;           
+  width: 200px;                  
+  height: 50x;                 
+  padding: 10px;             
+  font: 14px Arial;        
+  background: WhiteSmoke;   
+  border: 0px;      
+  border-radius: 0px;           
+  pointer-events: none; 
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+-moz-box-shadow:    7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+box-shadow:         7px 7px 5px 0px rgba(54, 50, 50, 0.75);
+color: black;          
+}
+
+
+#filterinput
+{
+	font: 12px Arial;
+	float:left;
+}
+
+#filterlabel
+{
+	padding-top: 5px;
+	padding-left: 5px;
+	font: 12px Arial;
+	float:left;
+}
+
+
+#rangeSeriousLabel
+{
+	padding-top: 5px;
+	padding-left: 5px;
+	font: 12px Arial;
+	float:left;
+}
+
+
+
+
+
